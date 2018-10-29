@@ -13,7 +13,7 @@ client:
   about_markdown: |
     I am a self-proclaimed Internet Marketing Connoisseur, grew up in Jacksonville (minus 4 years in Virginia getting a degree in Finance from Liberty University) and love almost everything about the real estate business. I have a tendency to try and do things that people tell me I shouldn't. Thus, jumping into the real estate business during the "Great Recession" was a pretty predictable move. I've been working as a real estate agent since 2007 (prior to that I was in the mortgage business) and became the broker/owner of ERA Heavener Realty in 2011. At this point, I'm well past 400 closings in my career, and have personally bought/sold over 50 homes. In 2010 I was honored to have been nominated to the Jacksonville Business Journals 40 Under 40 crew. All of that to say, I've taken all of the bumps and bruises the real estate market has to offer, so that I can help you avoid them :)
   market: Jacksonville
-  brand: ERA Real Estate
+  brand: ERA Heavener Realty
   brokerage:
   address: 2602 University Blvd.<br>W, Jacksonville, FL 32217
   phone: 904-405-1995
@@ -59,7 +59,7 @@ socials:
   review_sm_icons: false
   facebook_url: https://www.facebook.com/ERAHeavenerRealty
   linkedin_url: https://www.linkedin.com/in/jeffriber
-  gplus_url: https://plus.google.com/113735187694967088159/posts
+  gplus_url:
   youtube_url:
   twitter_url: https://twitter.com/904living
   instagram_url:
