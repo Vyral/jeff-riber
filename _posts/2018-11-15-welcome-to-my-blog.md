@@ -26,7 +26,7 @@ So, I’ll be posting two monthly video messages on this blog to keep you update
 
 They will be valuable and useful in helping you stay on top of what’s happening in the community.
 
-You can also search all homes for sale on the Jacksonville MLS on our website at ERAHeavenerRealty.com.&nbsp;
+You can also search all homes for sale on the Jacksonville MLS on our website at [ERAHeavenerRealty.com](https://www.era.com/era-heavener-realty--2407c).&nbsp;
 
 You can save properties to view, schedule showings for a home, and more.&nbsp;
 
