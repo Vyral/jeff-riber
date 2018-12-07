@@ -1,7 +1,7 @@
 ---
 layout: post
 title: These 3 Tips Will Help You With Your New Construction Home Purchase
-date: 2018-12-04 22:20:55
+date: 2018-12-04 22:20:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/jeff-riber-nov-2-ss-no-play.jpg
-youtube_code: 2or_javfy4I
+youtube_code: LMsCIgap1rQ
 ---
 
 {% include youtube.html %}
