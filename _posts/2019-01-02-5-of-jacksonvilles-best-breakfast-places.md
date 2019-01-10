@@ -21,7 +21,7 @@ youtube_code: Q4Baof0HNpk
 
 If you haven’t already, there’s no time like the present to try some of these great breakfast spots on a Saturday morning:&nbsp;
 
-**1. [Beach Hut Cafe](__notset__) -** Situated just two blocks away from the beach, this diner/ breakfast spot isn’t necessarily high on the gourmet scale, but if respectable service and relatively low menu prices are what you’re looking for, it’s a decent spot. Consider this more of a local classic, if nothing else.
+**1. Beach Hut Cafe -** Situated just two blocks away from the beach, this diner/ breakfast spot isn’t necessarily high on the gourmet scale, but if respectable service and relatively low menu prices are what you’re looking for, it’s a decent spot. Consider this more of a local classic, if nothing else.
 
 **2. [Maple Street Biscuit Company](https://maplestreetbiscuits.com/){: target="_blank"} -** Since its arrival in Jacksonville not that long ago, this restaurant has been immensely popular, which has led to locations sprouting up all over the city and other parts of the Southeast. Some selling points are the assortment of biscuit options and the unconventional way in which they give you your order—by asking you zany questions like who your favorite superhero is or what you had for dinner the night before.&nbsp;
 
