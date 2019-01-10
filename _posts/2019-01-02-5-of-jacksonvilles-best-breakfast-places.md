@@ -21,11 +21,11 @@ youtube_code: Q4Baof0HNpk
 
 If you haven’t already, there’s no time like the present to try some of these great breakfast spots on a Saturday morning:&nbsp;
 
-**1. Beach Hut Cafe -** Situated just two blocks away from the beach, this diner/ breakfast spot isn’t necessarily high on the gourmet scale, but if respectable service and relatively low menu prices are what you’re looking for, it’s a decent spot. Consider this more of a local classic, if nothing else.
+**1. [Beach Hut Cafe](__notset__) -** Situated just two blocks away from the beach, this diner/ breakfast spot isn’t necessarily high on the gourmet scale, but if respectable service and relatively low menu prices are what you’re looking for, it’s a decent spot. Consider this more of a local classic, if nothing else.
 
 **2. [Maple Street Biscuit Company](https://maplestreetbiscuits.com/){: target="_blank"} -** Since its arrival in Jacksonville not that long ago, this restaurant has been immensely popular, which has led to locations sprouting up all over the city and other parts of the Southeast. Some selling points are the assortment of biscuit options and the unconventional way in which they give you your order—by asking you zany questions like who your favorite superhero is or what you had for dinner the night before.&nbsp;
 
-**3. First Watch -** A breakfast consisting of eggs and bacon doesn’t always make for the healthiest breakfast. For those that find avocado toast and juice blends with any number of fruits and vegetables to be more their style, this is the place.&nbsp;
+**3. [First Watch](https://www.firstwatch.com/){: target="_blank"} -** A breakfast consisting of eggs and bacon doesn’t always make for the healthiest breakfast. For those that find avocado toast and juice blends with any number of fruits and vegetables to be more their style, this is the place.&nbsp;
 
 **4. [Cool Moose Cafe](http://www.coolmoosecafe.net/){: target="_blank"} -** Admittedly, I haven’t tried this one out yet, but the collective voice of my Facebook friends indicates that you shouldn’t pass this spot up. Heavy on trendiness, keen attention to detail, and wonderfully flavorful dishes, this cafe likely boasts a lot of popularity for a reason. &nbsp;
 
