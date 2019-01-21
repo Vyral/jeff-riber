@@ -23,11 +23,11 @@ Today we’re taking a close look at the Jacksonville real estate market. We’l
 
 **Overall, the market is still doing very well.** We’ve seen an improving market since about 2013, and there’s no reason to think that things are going to fall out from under us in 2019, contrary to popular belief.&nbsp;
 
-![](/uploads/price-range-report---vyral-video-2.pdf)
+![](/uploads/screen-shot-2019-01-21-at-11-49-49-am.png)
 
 **To keep a close eye on things, we can look at inventory levels to know if things are still healthy.** Inventory, sometimes referred to as "absorption rate," is one of the best measures to use for understanding where the market is headed in the near future. Taking the total number of sales in a given price range, dividing by 12 to get an average monthly figure, then dividing the average monthly number into total active listings gives you the absorption rate/inventory level. The lower the number, the more the market is in favor of sellers. Most experts believe 6 months of inventory to be a healthy balance, where both buyer/seller negotiating strength is evenly distributed.
 
-![](/uploads/mortgage-rates-end-the-year-lower---freddie-mac.pdf)
+![](/uploads/price-range-report---vyral-video-2.jpg)
 
 {% include pullquote.html %}
 
@@ -37,7 +37,7 @@ To get all sorts of fun data on mortgage interest rates, check out this link: [h
 
 When you ask a Realtor or investor how the market is doing, really what you're asking is how the market is doing for you, your home, and your neighborhood. All of the above factors I’ve mentioned need to be looked at for your specific property. For example, the market could be good for condos at the beach, but bad for multi-family homes on the west side. **Each type of property, each location, and each price range is different.**
 
-![](/uploads/supply-and-demand---vyral-video.pdf)
+![](/uploads/screen-shot-2019-01-21-at-11-49-36-am.png)
 
 In summary, the market is very strong in most areas and price points. We’re either in a seller’s market or a balanced market. Mortgage interest rates remain low as well.
 
