@@ -27,7 +27,7 @@ Today we’re taking a close look at the Jacksonville real estate market. We’l
 
 **To keep a close eye on things, we can look at inventory levels to know if things are still healthy.** Inventory, sometimes referred to as "absorption rate," is one of the best measures to use for understanding where the market is headed in the near future. Taking the total number of sales in a given price range, dividing by 12 to get an average monthly figure, then dividing the average monthly number into total active listings gives you the absorption rate/inventory level. The lower the number, the more the market is in favor of sellers. Most experts believe 6 months of inventory to be a healthy balance, where both buyer/seller negotiating strength is evenly distributed.
 
-![](/uploads/price-range-report---vyral-video-2-1.jpg)
+![](/uploads/screen-shot-2019-01-21-at-12-48-50-pm.png)
 
 {% include pullquote.html %}
 
