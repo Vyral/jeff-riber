@@ -35,9 +35,9 @@ We can also look at absorption rates, interest rates, and other economic factors
 
 To get all sorts of fun data on mortgage interest rates, check out this link: [http://www.freddiemac.com/pmms/data.html](http://www.freddiemac.com/pmms/data.html){: target="_blank"}
 
-When you ask a Realtor or investor how the market is doing, really what you're asking is how the market is doing for you, your home, and your neighborhood. All of the above factors I’ve mentioned need to be looked at for your specific property. For example, the market could be good for condos at the beach, but bad for multi-family homes on the west side. **Each type of property, each location, and each price range is different.**
-
 ![](/uploads/screen-shot-2019-01-21-at-11-49-36-am.png)
+
+When you ask a Realtor or investor how the market is doing, really what you're asking is how the market is doing for you, your home, and your neighborhood. All of the above factors I’ve mentioned need to be looked at for your specific property. For example, the market could be good for condos at the beach, but bad for multi-family homes on the west side. **Each type of property, each location, and each price range is different.**
 
 In summary, the market is very strong in most areas and price points. We’re either in a seller’s market or a balanced market. Mortgage interest rates remain low as well.
 
