@@ -23,7 +23,7 @@ youtube_code: Y0IlrhhzXjg
 
 So what is the Dunning-Kruger Effect?
 
-Back in the late 90s, David Dunning and Justin Kruger, professors from Cornell College, did a study that concluded that **the less an individual knows about a particular topic, the more likely they are to overvalue their skill, ability, or knowledge in that topic.**
+Back in the late 90s, David Dunning and Justin Kruger, professors from Cornell College, did a study that concluded that **the less an individual knows about a particular topic, the more likely they are to overvalue their skill, ability, or knowledge on that topic.**
 
 Let me use an example from my own life to demonstrate the Dunning-Kruger Effect:
 
@@ -33,7 +33,7 @@ That’s in essence what the Dunning-Kruger Effect is—you don’t know what yo
 
 {% include pullquote.html %}
 
-In real estate, I see this often. We are in the Information Age where you can Google just about anything. I’m sure doctors have seen this as well: Many think that because they pulled information from WebMD, they know all about what’s wrong with them. In real estate, we have all this information in front of us, but **the problem isn’t getting the information, but rather knowing what to do with it.**
+In real estate, I see this often. We are in the Information Age where you can Google just about anything. I’m sure doctors have seen this as well: Many think that because they pulled information from WebMD, they know all about what’s wrong with them. In real estate, we have all this information in front of us, but **the problem isn’t getting the information, but rather, knowing what to do with it.**
 
 Quite frankly, after 12 years in this business, there are still houses, areas, neighborhoods, and problems that I still can’t say I know everything about. There are a lot of moving parts in real estate.
 
