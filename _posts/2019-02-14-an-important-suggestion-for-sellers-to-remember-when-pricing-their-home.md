@@ -34,4 +34,4 @@ And while online home valuation tools like Zillow are useful in giving you a bro
 
 **There’s so much to consider when determining the price per square footage of your home, so be patient with your agent and heed their advice as you prepare to sell.**
 
-If you have any suggestions regarding future video content or you need with any of your real estate needs whatsoever, feel free to give me a call. I’d love to speak with you!
+If you have any suggestions regarding future video content or would like help with any of your real estate needs whatsoever, feel free to give me a call. I’d love to speak with you!
