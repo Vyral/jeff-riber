@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/jeff-riber-ss-2-1-email.jpg
-youtube_code: Zat5z3Ml8WM
+youtube_code: Txz_l-79BAc
 ---
 
 {% include youtube.html %}
