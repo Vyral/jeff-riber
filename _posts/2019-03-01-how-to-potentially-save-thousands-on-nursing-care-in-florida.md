@@ -11,8 +11,8 @@ excerpt: >-
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Jeff+Riber/How+to+Potentially+Save+Thousands+on+Nursing+Care+in+Florida.mp4
 pullquote: >-
-  There are a lot of details underneath the surface, but done correctly, this is
-  a good way to protect your assets.
+  There are a lot of details underneath the surface, but when done correctly,
+  this is a good way to protect your assets.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -32,7 +32,7 @@ There are two main catches when it comes to this strategy, however.&nbsp;
 
 **1. Any kind of net profit relating to this rental property has to go toward your nursing home copay.**
 
-**2. If the deed is not set up correctly to create an enhanced life estate or ladybird dead, then the state of Florida can set up a lien on the property at the time of the owner’s death.**
+**2. If the deed is not set up correctly to create an enhanced life estate or ladybird deed, then the state of Florida can set up a lien on the property at the time of the owner’s death.**
 
 {% include pullquote.html %}
 
