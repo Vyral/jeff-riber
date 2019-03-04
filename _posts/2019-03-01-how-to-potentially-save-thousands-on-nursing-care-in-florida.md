@@ -42,6 +42,6 @@ Suppose a family is taking a loved one to go into a nursing home facility. Let�
 
 It’s not advisable to pursue this strategy on your own. **To do it properly and ensure a seamless process with no liens, you need to do it under the auspice of an experienced elder law attorney.** In the example laid out above, you wouldn’t necessarily need to spend all $300,000 on the rental property, as one of the disadvantages of choosing this route is that your money becomes tied up in the real estate process. But this way, the cash is protected, and you have a reliable stream of income going toward your loved one’s nursing care.
 
-If you have any questions about this exception, reach out to Kellen at (904) 470-2300, or visit his website at [www.bbelderlaw.com](www.bbelderlaw.com){: target="_blank"}.
+If you have any questions about this exception, reach out to Kellen at (904) 470-2300, or visit his website at [https://www.bbelderlaw.com/](https://www.bbelderlaw.com/){: target="_blank"}.
 
 For other real estate questions or suggestions for future topics, you can always reach out to ERA Heavener Realty. We’d love to hear from you.
