@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Potentially Save Thousands on Nursing Care in Florida
-date: 2019-03-01 15:56:48
+date: 2019-03-01 15:56:00
 tags:
   - Real Estate
 excerpt: >-
@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/jeff-riber-ss-mar-01-email.jpg
-youtube_code: 1r80q8AuSLE
+youtube_code: dlKY4YKozsE
 ---
 
 {% include youtube.html %}
