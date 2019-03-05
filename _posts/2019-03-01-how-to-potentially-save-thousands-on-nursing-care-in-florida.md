@@ -22,11 +22,11 @@ youtube_code: dlKY4YKozsE
 
 {% include youtube.html %}
 
-Florida Bar Board Certified elder law attorney Kellen Bryant joins me today to discuss an important real estate rental property exception that you might want to know about.
+Florida Bar Board Certified elder law attorney Kellen Bryant joins me today to discuss an important financial investments and savings rental property exception that you might want to know about.
 
 To Kellen, Florida is one of the nicer states when it comes to how they treat a lot of Medicaid and rental property rules. These two areas tie together because if you need nursing home care and you have a rental property that would count against you getting the care that you need, you’ll have to sell your home on the fly, which can be a loss.
 
-In Florida, however, there are some things you need to do relating to that property, but you don’t have to sell it in order to qualify for skilled nursing care. Here, the rules are reversed: **Florida allows you to pay with cash to purchase an income-producing property**—cash that generally counts against people when it comes to nursing home qualification. **This is called the &nbsp;income-producing property exception**, which is a non-accountable asset when it comes to your financial eligibility to receive Medicaid to help pay for a nursing home.
+In Florida, however, there are some things you need to do relating to that property, but you don’t have to sell it in order to qualify for skilled nursing care. Here, the rules are reversed: **Florida allows you to pay with cash to purchase an income-producing property**—cash that generally counts against people when it comes to nursing home qualification. **This is called the &nbsp;income-producing property exception**, which is a noncountable asset when it comes to your financial eligibility to receive Medicaid to help pay for a nursing home.
 
 There are two main catches when it comes to this strategy, however.&nbsp;
 
