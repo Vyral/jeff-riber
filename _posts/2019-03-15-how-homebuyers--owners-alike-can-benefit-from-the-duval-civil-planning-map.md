@@ -19,7 +19,7 @@ youtube_code: cUTlf3C_paY
 
 {% include youtube.html %}
 
-Today I’ll give you a quick rundown of the Duval Civil Planning Map, which can be found online at [http://http://maps.coj.net/duvalcivilplanning/](http://http://maps.coj.net/duvalcivilplanning/){: .cc-active target="_blank"}, and talk to you about some of the nifty features you’ll find there.&nbsp;
+Today I’ll give you a quick rundown of the Duval Civil Planning Map, which can be found online at [http://http://maps.coj.net/duvalcivilplanning/#](http://http://maps.coj.net/duvalcivilplanning/#){: .cc-active target="_blank"}#, and talk to you about some of the nifty features you’ll find there.&nbsp;
 
 There are a few reasons you might want to harness the power of this tool for your home buying pursuits:&nbsp;
 
