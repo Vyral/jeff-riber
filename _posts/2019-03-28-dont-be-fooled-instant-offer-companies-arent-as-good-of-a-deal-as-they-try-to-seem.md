@@ -1,9 +1,9 @@
 ---
 layout: post
 title: >-
-  Don’t Be Fooled: Instant Offer Companies Aren’t as Good a Deal as They Try to
-  Seem
-date: 2019-03-28 14:40:56
+  Don’t Be Fooled: Instant Offer Companies Aren’t as Good of a Deal as They Try
+  to Seem
+date: 2019-03-28 14:40:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -24,7 +24,7 @@ youtube_code: 3ShaR5W5LH4
 
 {% include youtube.html %}
 
-What’s the deal with instant offer companies that seem to be popping up all over the place lately? These companies, also known as “iBuyers”, may be a viable option for some, but before you take the plunge into such an arrangement, there are a few points to consider.
+What’s the deal with instant offer companies that seem to be popping up all over the place lately? These companies, also known as “iBuyers,” may be a viable option for some, but before you take the plunge into such an arrangement, there are a few points to consider.
 
 Opendoor, Zillow, and OfferPad are some of the most prominent companies behind this trend, but it’s important not to conflate brand recognition with trustworthiness. In short, just because you’ve heard of Zillow, that doesn’t mean selling to them is a good idea.&nbsp;
 
