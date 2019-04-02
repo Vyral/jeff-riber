@@ -34,6 +34,6 @@ So what exactly are instant offer companies doing? In short, they buy homes for 
 
 The truth is that these iBuyers are really just looking to make a quick buck. Their plan is to offer you a “convenient” arrangement at a cost. Sure, by selling to an iBuyer you get to avoid the listing process, but **is that worth the inordinately low price you’ll earn for your home as a result?**
 
-Unless you’re interested in throwing away money, then no: You’re almost always better off pursuing a traditional selling experience. If you’d like to learn more about how easy and convenient the listing process can be when you work with our team, don’t hesitate to reach out.&nbsp;
+Unless you’re interested in throwing away money, then no. You’re almost always better off pursuing a traditional selling experience. If you’d like to learn more about how easy and convenient the listing process can be when you work with our team, don’t hesitate to reach out.&nbsp;
 
 As always, if you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
