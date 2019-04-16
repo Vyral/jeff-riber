@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What You Should Expect From Home Inspections
-date: 2019-04-12 14:27:11
+date: 2019-04-12 14:27:00
 tags:
   - Real Estate
 excerpt: What should you expect from a home inspection? Let’s find out.
@@ -11,7 +11,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/jeff-riber-ssinspections-email.jpg
+youtube_alternate_image: /uploads/jeff-riber-ssupdated-hi-email.jpg
 youtube_code: Wc7swvOriYg
 ---
 
