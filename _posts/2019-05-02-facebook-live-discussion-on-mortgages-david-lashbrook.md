@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Facebook Live Discussion on Mortgages: David Lashbrook'
-date: 2019-05-02 15:47:51
+date: 2019-05-02 15:47:00
 tags:
   - Real Estate
 excerpt: >-
@@ -25,6 +25,6 @@ David Lashbrook from Navigator Mortgage is well known in the mortgage world. Giv
 
 **0:27—**David’s background in a nutshell<br>**1:10—**For homebuyers and those looking to refinance, what is the mortgage market like today? What trends should we keep an eye on?<br>**4:05—**A historical perspective on interest rates, as well as David’s thoughts on what to expect towards the end of 2019 into early 2020<br>**5:31—**An overview of quantitative easing<br>**8:09—**Putting David on the spot: What’s his prediction for 30-year fixed-rate conventional loans come March 2020?<br>**10:25—**How much money is needed to buy a house?<br>**13:05—**The pros and cons of down payment assistance programs; things to be aware of in the fine print
 
-To get in contact with David at Navigator Mortgage to have all your mortgage questions answered, visit his website at [www.navigator-mortgage.com](www.navigator-mortgage.com){: target="_blank"}, go to his Facebook page, or call him at (904) 813-1768.
+To get in contact with David at Navigator Mortgage to have all your mortgage questions answered, visit his website at [http://www.navigator-mortgage.com/](http://www.navigator-mortgage.com/){: target="_blank"}, go to his Facebook page, or call him at (904) 813-1768.
 
 For any other questions you have about real estate, you can always reach out to me. I’d love to hear from you.
