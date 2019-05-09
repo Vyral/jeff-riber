@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Facebook Live Discussion on Mortgages: David Lashbrook'
+title: Talking Mortgages and Interest Rates With David Lashbrook
 date: 2019-05-02 15:47:00
 tags:
   - Real Estate
@@ -13,7 +13,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/jeff-riber-ss02fb-email.jpg
+youtube_alternate_image: /uploads/jeff-riber-ss-pro-email.jpg
 youtube_code: RgzYXdAE-A8
 ---
 
