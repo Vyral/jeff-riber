@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Should You Hire a Single Agent Over a Transaction Brokerage?
-date: 2019-05-17 13:49:44
+date: 2019-05-17 13:49:00
 tags:
   - Real Estate
 excerpt: >-
