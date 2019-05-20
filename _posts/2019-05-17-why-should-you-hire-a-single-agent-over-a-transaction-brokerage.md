@@ -19,7 +19,7 @@ youtube_code: GBilM0m_Td0
 
 {% include youtube.html %}
 
-If and when you go to buy or sell a house, **the distinction between hiring a single agent vs. hiring a transaction brokerage decision has huge ripple effects that can make or break your deal.&nbsp;**
+If and when you go to buy or sell a house, **the distinction between hiring a single agent versus hiring a transaction brokerage decision has huge ripple effects that can make or break your deal.&nbsp;**
 
 The best way to explain a transaction brokerage is that the agent is there to help put a deal together. They technically don’t represent you, and that’s where people can get confused. They might not exactly have your best interests in mind. **This is because transaction brokerage relationships lack these four things: loyalty, confidentiality, obedience, and full disclosure.** On the other hand, all of these things are present with single agency.
 
