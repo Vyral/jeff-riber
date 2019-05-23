@@ -25,7 +25,7 @@ The best way to explain transaction brokerage is that the agent is there to help
 
 {% include pullquote.html %}
 
-How can you get the best deal for you and your family if you’re working with someone who doesn’t give you loyalty, confidentiality, obedience, and not or full disclosure? The answer is that you can’t.&nbsp;
+How can you get the best deal for you and your family if you’re working with someone who doesn’t give you loyalty, confidentiality, obedience, and full disclosure? The answer is that you can’t.&nbsp;
 
 **This is an issue that just doesn’t get enough attention so I wanted to bring it to yours today.** The next time you are hiring a real estate agent, single agency is obviously the right way to go.&nbsp;
 
