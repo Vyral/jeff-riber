@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How the 1031 Exchange Helps You Save Money on Taxes
-date: 2019-05-31 13:18:03
+date: 2019-05-31 13:18:00
 tags:
   - Real Estate
 excerpt: >-
