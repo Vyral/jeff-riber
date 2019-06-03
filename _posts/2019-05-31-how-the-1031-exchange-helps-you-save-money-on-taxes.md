@@ -23,7 +23,7 @@ youtube_code: 6x8DitLuhNg
 
 If you’re a real estate investor, a 1031 exchange is a great way to avoid paying capital gains taxes while you build wealth over time. How does it work, though?&nbsp;
 
-For your convenience, I’ve laid out a scenario complete with timestamps from the video above to answer this question:&nbsp;
+I've laid out a scenario explaining how 1031 exchanges work in today's video. Check out the timestamps below to browse various sections of this message at your leisure.
 
 **1\. Your example scenario:**
 
