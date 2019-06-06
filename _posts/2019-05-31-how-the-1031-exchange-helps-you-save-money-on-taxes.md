@@ -27,7 +27,7 @@ I've laid out a scenario explaining how 1031 exchanges work in today's video. Ch
 
 **1\. Your example scenario:**
 
-* 0:46—You buy a house in 2011 for $100,000 and turn it into a rental in 2014 as you buy another house
+* 0:46—You buy a house in 2011 for $100,000, move out, and turn it into a rental in 2014
 * 1:32—You then decide to sell that house because it’s now worth $200,000
 * 2:01—Accounting for rental property depreciation, you sell for a net gain of $120,000
 * 3:06—Assuming you’re in a 25% long-term capital gains tax bracket, you’d pay $30,000 to the IRS after you sell
