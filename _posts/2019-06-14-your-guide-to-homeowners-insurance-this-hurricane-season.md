@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Your Guide to Homeowners Insurance This Hurricane Season
-date: 2019-06-14 12:48:16
+date: 2019-06-14 12:48:00
 tags:
   - Real Estate
 excerpt: >-
