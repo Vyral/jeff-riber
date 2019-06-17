@@ -13,7 +13,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/6-13---jeff-riber---youtube.jpg
+youtube_alternate_image: /uploads/6-13---jeff-riber---youtube-1.jpg
 youtube_code: '-Eyu0jbprQ8'
 ---
 
