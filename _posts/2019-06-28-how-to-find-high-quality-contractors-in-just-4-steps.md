@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/6-28---jeff-riber---youtube.jpg
-youtube_code: br_P-7y1t2Q
+youtube_code: NO9rRJIPHK8
 ---
 
 {% include youtube.html %}
@@ -26,7 +26,9 @@ This process contains four simple steps:&nbsp;
 
 **1\. Look for contractors** by talking to friends and family, by looking online, or by reaching out to trusted local professionals, like your Realtor. Once you’ve identified a few candidates, you can move on to the next step.
 
-Here are some websites to locate professionals:
+**2\. Fact-checking.** Before you even think of hiring a contractor, you need to make sure they’re licensed, insured, and that they pull the proper permits when handling various projects. This will give you a better idea of their legitimacy.
+
+Here are some helpful websites:
 
 [https://www.homeadvisor.com/](https://www.homeadvisor.com/){: target="_blank"}
 
@@ -34,20 +36,16 @@ Here are some websites to locate professionals:
 
 [https://www.angieslist.com/](https://www.angieslist.com/){: target="_blank"}
 
-**2\. Fact-checking.** Before you even think of hiring a contractor, you need to make sure they’re licensed, insured, and that they pull the proper permits when handling various projects. This will give you a better idea of their legitimacy.
+[https://apps8.fldfs.com/proofofcoverage/Search.aspx](https://apps8.fldfs.com/proofofcoverage/Search.aspx){: target="_blank"}
 
-[You can check on that here.](https://www.myfloridalicense.com/wl11.asp?mode=0&amp;SID=){: target="_blank"}&nbsp;
+[https://buildinginspections.coj.net/](https://buildinginspections.coj.net/){: target="_blank"}
 
-{% include pullquote.html %}
+[https://www.myfloridalicense.com/wl11.asp?mode=0&SID=](https://www.myfloridalicense.com/wl11.asp?mode=0&amp;SID=){: target="_blank"}
 
 **3\. Create a competition between the vendors you’re thinking of hiring.** When a contractor knows they aren’t your only option, this may incentivize them to put their best foot forward. Not only that, but comparison shopping is a great way to ensure you earn the best possible deal.&nbsp;
 
 **4\. Don’t pay for the entire job up front.** While you should certainly expect to pay a deposit when you begin working with a contractor, paying the entire bill before the work is finished is not a wise choice.&nbsp;
 
+{% include pullquote.html %}
+
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
-
-Here are some other helpful websites:
-
-[https://apps8.fldfs.com/proofofcoverage/Search.aspx](https://apps8.fldfs.com/proofofcoverage/Search.aspx){: target="_blank"}
-
-[https://buildinginspections.coj.net/](https://buildinginspections.coj.net/){: target="_blank"}
