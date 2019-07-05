@@ -26,15 +26,17 @@ This process contains four simple steps:&nbsp;
 
 **1\. Look for contractors** by talking to friends and family, by looking online, or by reaching out to trusted local professionals, like your Realtor. Once you’ve identified a few candidates, you can move on to the next step.
 
-**2\. Fact-checking.** Before you even think of hiring a contractor, you need to make sure they’re licensed, insured, and that they pull the proper permits when handling various projects. This will give you a better idea of their legitimacy.
-
-Here are some helpful websites:
+Here are some websites to help you locate professionals:
 
 [https://www.homeadvisor.com/](https://www.homeadvisor.com/){: target="_blank"}
 
 [https://www.thumbtack.com/](https://www.thumbtack.com/){: target="_blank"}
 
 [https://www.angieslist.com/](https://www.angieslist.com/){: target="_blank"}
+
+**2\. Fact-checking.** Before you even think of hiring a contractor, you need to make sure they’re licensed, insured, and that they pull the proper permits when handling various projects. This will give you a better idea of their legitimacy.
+
+Here are some helpful websites:
 
 [https://apps8.fldfs.com/proofofcoverage/Search.aspx](https://apps8.fldfs.com/proofofcoverage/Search.aspx){: target="_blank"}
 
