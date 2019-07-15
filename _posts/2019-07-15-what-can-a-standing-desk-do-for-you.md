@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Can A Standing Desk Do for You?
-date: 2019-07-15 14:11:43
+date: 2019-07-15 14:11:00
 tags:
   - Real Estate
 excerpt: >-
