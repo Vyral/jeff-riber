@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What Can A Standing Desk Do for You?
+title: What Can a Standing Desk Do for You?
 date: 2019-07-15 14:11:00
 tags:
   - Real Estate
@@ -19,7 +19,7 @@ youtube_code: cBkdKUniDn4
 
 {% include youtube.html %}
 
-We’re not talking about anything explicitly real estate-related today, but we are talking about something else that I’m passionate about: Standing desks.
+We’re not talking about anything explicitly real estate-related today, but we are talking about something else that I’m passionate about: standing desks.
 
 How many of you use a standing desk on a daily or weekly basis? **I’ve been using one for about eight years now and I absolutely love it.** It’s a habit at this point and something I don’t talk about as much as I used to, but I thought I would talk about it today in order to discuss all the benefits it has given me.<br>&nbsp;<br>My standing desk has not only increased my energy level, but it has also kept me from getting sore after exercise as well. **You also have better posture, burn more calories, and more.**
 
@@ -32,4 +32,4 @@ If you’re considering a standing desk, here are a few brands you should look a
 * **Geekdesk**. It’s a little pricey, but it’s motorized, it works great, and I’ve had one since 2012.
 * **Varidesk**. You can use one of these to raise and lower your existing desk.&nbsp;
 
-I hope this has been helpful to you. If you have any questions for me about standing desks or about real estate in general, don’t hesitate to give me a call or send me an email.. I look forward to hearing from you soon.
+I hope this has been helpful to you. If you have any questions for me about standing desks or about real estate in general, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
