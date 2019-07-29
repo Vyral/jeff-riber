@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How To Save Money On Real Estate Taxes
-date: 2019-07-29 14:28:29
+date: 2019-07-29 14:28:00
 tags:
   - Real Estate
 excerpt: How can you save money on your real estate taxes? Find out right here.
