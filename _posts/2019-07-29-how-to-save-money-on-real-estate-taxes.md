@@ -5,7 +5,8 @@ date: 2019-07-29 14:28:00
 tags:
   - Real Estate
 excerpt: How can you save money on your real estate taxes? Find out right here.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jeff+Riber/How+to+Save+Money+on+Real+Estate+Taxes.mp4
 pullquote: >-
   If you’re thinking of challenging your own property’s assessed value, now is
   the right time of year to do so.
