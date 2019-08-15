@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Come Out on Top When Negotiating Repairs
-date: 2019-08-15 14:02:27
+date: 2019-08-15 14:02:00
 tags:
   - Real Estate
 excerpt: >-
