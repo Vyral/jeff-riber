@@ -9,7 +9,7 @@ excerpt: >-
   Here are three tips.
 enclosure:
 pullquote: >-
-  Repair-related disagreements are the second most common reason real estate
+  Repair-related disagreements are the second-most common reason real estate
   deals fall apart.
 enclosure_type: video/mp4
 enclosure_time:
@@ -24,7 +24,7 @@ Whether you’re currently in the middle of buying or selling a home or don’t 
 
 Today, we’ll be discussing everything you need to know about how to win when negotiating repairs.&nbsp;
 
-Did you know that repair-related disagreements are the second most common reason real estate deals fall apart? It’s true. Thankfully, by following just a few simple tips, you can make sure that your repair negotiations go smoothly and successfully.
+Did you know that repair-related disagreements are the second-most common reason real estate deals fall apart? It’s true. Thankfully, by following just a few simple tips, you can make sure that your repair negotiations go smoothly and successfully.
 
 {% include pullquote.html %}
 
