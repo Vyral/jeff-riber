@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   What does it take for buyers and sellers to win during repair negotiations?
   Here are three tips.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jeff+Riber/How+to+Come+Out+on+Top+When+Negotiating+Repairs.mp4
 pullquote: >-
   Repair-related disagreements are the second-most common reason real estate
   deals fall apart.
