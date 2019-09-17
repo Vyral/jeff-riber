@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Reasons Fall & Winter Are Still Good Times to Buy
-date: 2019-09-17 14:17:48
+date: 2019-09-17 14:17:00
 tags:
   - Home Buyer Tips
 excerpt: >-
