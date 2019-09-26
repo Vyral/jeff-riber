@@ -75,7 +75,6 @@ socials:
   review_sm_icons: false
   facebook_url: 'https://www.facebook.com/ERAHeavenerRealty'
   linkedin_url: 'https://www.linkedin.com/in/jeffriber'
-  gplus_url:
   youtube_url: 'https://www.youtube.com/channel/UCdRCAdvNfzdt4fnKg2eormQ'
   twitter_url: 'https://twitter.com/904living'
   instagram_url: 'https://www.instagram.com/jacksonvillerealestatevideos/'
@@ -83,7 +82,7 @@ socials:
   zillow_url:
   trulia_url:
   yelp_url:
-  podcast_url:
+  podcast_url: https://podcasts.apple.com/us/podcast/jacksonville-real-estate-podcast-with-jeff-riber/id1481267275
 podcast:
   title: Jacksonville Real Estate Podcast with Jeff Riber
   categories:
