@@ -20,7 +20,7 @@ youtube_code: 'https://youtu.be/U7eKzOPLyds'
 
 {% include youtube.html %}
 
-*Christy McCarthy of Interiors Revitalized has helped me out both personally and professionally over the years. She joined me recently to help all of you, too.*
+<p style="text-align: center;"><em>Christy McCarthy of Interiors Revitalized has helped me out both personally and professionally over the years. She joined me recently to help all of you, too.</em></p>
 
 I recently went live on Facebook with Christy McCarthy of Interiors Revitalized. She has helped me out both personally and professionally over the years, and she does a wonderful job of transforming homes, even on a tight budget. **She talked to me about some best practices in preparing a home for sale, how she got started in this business, and how she’s been able to help so many of her clients.**&nbsp;
 
