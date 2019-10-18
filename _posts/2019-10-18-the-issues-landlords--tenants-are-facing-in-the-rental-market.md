@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/YDga1GJ3ltM'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>For my most recent Facebook Live discussion, I’m joined by Matthew Miller, ERA Heavener Realty’s resident property manager.</em></p>
+
 Today I’m joined by Matthew Miller, ERA Heavener Realty’s resident property manager, for a Facebook Live discussion about various topics tenants and landlords should know about in today’s market.
 
 **For your convenience, I’ve provided timestamps of our discussion so you can skip ahead to certain sections at your leisure:&nbsp;**
