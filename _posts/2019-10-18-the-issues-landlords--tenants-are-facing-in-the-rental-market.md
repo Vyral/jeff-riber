@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Issues Landlords & Tenants Are Facing in the Rental Market
-date: 2019-10-18 13:59:48
+date: 2019-10-18 13:59:00
 tags:
   - Real Estate
 excerpt: >-
