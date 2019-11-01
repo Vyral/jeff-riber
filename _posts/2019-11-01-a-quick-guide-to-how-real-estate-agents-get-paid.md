@@ -17,6 +17,8 @@ youtube_code: 'https://youtu.be/Q3CHG1Vha-M'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here’s a quick breakdown of how real estate agents get paid.</em></p>
+
 How do real estate agents get paid?
 
 To answer that question, let’s first address who pays a real estate agent. **Roughly 99% of the time, it’s the seller.** In fact, in my 12 years as an agent, I can’t ever remember a transaction where the buyer paid an agent’s commission. This doesn’t mean it never takes place, but it’s not customary in our Northeast Florida market.&nbsp;
