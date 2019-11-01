@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Quick Guide to How Real Estate Agents Get Paid
-date: 2019-11-01 13:56:09
+date: 2019-11-01 13:56:00
 tags:
   - Real Estate
 excerpt: Here’s a quick breakdown of how real estate agents get paid.
