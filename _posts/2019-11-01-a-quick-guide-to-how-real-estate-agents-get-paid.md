@@ -25,7 +25,7 @@ To answer that question, let’s first address who pays a real estate agent. **R
 
 There are two portions of each commission the seller pays: the portion that goes to their listing agent and the portion that’s offered to any buyers’ agents in the area so that they bring in interested buyers.&nbsp;
 
-All agents and brokerages have to abide by the Sherman Antitrust Act, which is intended to prevent price fixing. In other words, it’s illegal for one real estate company to go to another company and establish an average commission rate for a transaction. If you ask an agent what the average commission is and they’re finicky about answering, that’s why. **There is no such thing as an “average” commission.** Each brokerage sets their own commission rate, and they’re always negotiable.&nbsp;
+All agents and brokerages have to abide by the Sherman Antitrust Act, which is intended to prevent price-fixing. In other words, it’s illegal for one real estate company to go to another company and establish an average commission rate for a transaction. If you ask an agent what the average commission is and they’re finicky about answering, that’s why. **There is no such thing as an “average” commission.** Each brokerage sets their own commission rate, and they’re always negotiable.&nbsp;
 
 {% include pullquote.html %}
 
