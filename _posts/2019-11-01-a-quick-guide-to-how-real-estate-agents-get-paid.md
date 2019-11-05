@@ -17,7 +17,7 @@ youtube_code: 'https://youtu.be/juJietiAdXo'
 
 {% include youtube.html %}
 
-*Here’s a quick breakdown of how real estate agents get paid.*
+<p style="text-align: center;"><em>Here’s a quick breakdown of how real estate agents get paid.</em></p>
 
 How do real estate agents get paid?
 
