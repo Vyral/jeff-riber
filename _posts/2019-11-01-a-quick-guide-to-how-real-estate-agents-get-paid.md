@@ -12,12 +12,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/jeff-riber-how-do-agents-get-paid-youtube.png
-youtube_code: 'https://youtu.be/juJietiAdXo-M'
+youtube_code: 'https://youtu.be/juJietiAdXo'
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s a quick breakdown of how real estate agents get paid.</em></p>
+*Here’s a quick breakdown of how real estate agents get paid.*
 
 How do real estate agents get paid?
 
@@ -27,11 +27,11 @@ There are two portions of each commission the seller pays: the portion that goes
 
 All agents and brokerages have to abide by the Sherman Antitrust Act, which is intended to prevent price-fixing. In other words, it’s illegal for one real estate company to go to another company and establish an average commission rate for a transaction. If you ask an agent what the average commission is and they’re finicky about answering, that’s why. **There is no such thing as an “average” commission.** Each brokerage sets their own commission rate.&nbsp;
 
-{% include pullquote.html %}
-
 It’s also important to note that **agents don’t get paid directly.** The commission the seller pays goes straight to the agents’ brokerage because there is a difference between what you pay and what you get. Some agents may be a great deal for the money, others not so much. After they receive the commission, they then split it with their agent. This is another thing that’s negotiable—different companies offer different splits for their agents. &nbsp;
 
-Finally, **since not all agents are created equal, they’re paid on a cost-versus-value basis.** For example, Gardner Minshew II, the Jacksonville Jaguars’ starting quarterback, will make about $700,000 this year. That’s a lot of money, and he ranks 12th in terms of quarterback rating—one slot behind Tom Brady, but way ahead of Jared Goff of the Los Angeles Rams, who ranks 27th but stands to earn $26 million this year. Basically, the Jaguars are paying Minshew 37x less than what the Rams are paying Goff.&nbsp;
+{% include pullquote.html %}
+
+Finally, there is a difference between cost and value. Some agents might be a great "value" for the "cost." Others, not so much. For example, Gardner Minshew II, the Jacksonville Jaguars’ current starting quarterback (though not for long), will make about $700,000 this year. He ranks 12th in terms of overall quarterback rating. One slot behind Tom Brady, but way ahead of Jared Goff of the Los Angeles Rams. Jared's QBR ranks 27th in the league, but he stands to earn $26 million this year. Basically, the Jaguars are paying Minshew 37x less than what the Rams are paying Goff, and getting better overall results\!
 
 That is to say, there’s a difference between what you pay and the value you receive. To find out what value an agent brings to the table, research their experience and performance history: how many homes they sell per year, how their sale price compares to each home’s list price, what their average days on market is, etc.&nbsp;
 
