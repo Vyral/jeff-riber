@@ -27,7 +27,7 @@ There are two portions of each commission the seller pays: the portion that goes
 
 2\. All agents and brokerages have to abide by the Sherman Antitrust Act, which is intended to prevent price-fixing. In other words, it’s illegal for one real estate company to go to another company and establish an average commission rate for a transaction. If you ask an agent what the average commission is and they’re finicky about answering, that’s why. **There is no such thing as an “average” commission.** Each brokerage sets their own commission rate.&nbsp;
 
-3\. It’s also important to note that **agents don’t get paid directly.** The commission the seller pays goes straight to the agents’ brokerage because there is a difference between what you pay and what you get. Some agents may be a great deal for the money, others not so much. After they receive the commission, they then split it with their agent. This is another thing that’s negotiable—different companies offer different splits for their agents. &nbsp;
+3\. It’s also important to note that **agents don’t get paid directly.** The commission the seller pays goes straight to the agents’ brokerage.  The agent is then paid a portion of the commission from the brokerage.  So, different companies may have different commission rates.  And different agents within the company may have different commission splits.  This is another thing that’s negotiable. &nbsp;
 
 {% include pullquote.html %}
 
