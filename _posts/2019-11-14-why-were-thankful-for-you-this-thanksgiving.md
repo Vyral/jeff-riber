@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why We’re Thankful for You This Thanksgiving
-date: 2019-11-14 19:56:32
+date: 2019-11-14 19:56:00
 tags:
   - Real Estate
 excerpt: >-
