@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'An Interview With David Cleveland About His Business: Alpha Foundations'
-date: 2019-11-22 15:05:47
+date: 2019-11-22 15:05:00
 tags:
   - Real Estate
 excerpt: >-
