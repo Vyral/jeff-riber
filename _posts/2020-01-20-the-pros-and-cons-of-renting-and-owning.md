@@ -21,7 +21,7 @@ youtube_code: SQ2P8WqtzpY
 
 {% include youtube.html %}
 
-Today I’m sharing the pros and cons of renting and owning a home. Here’s what you need to know about both.
+<p style="text-align: center;"><em>Today I’m sharing the pros and cons of renting and owning a home. Here’s what you need to know about both.</em></p>
 
 You may not have heard a Realtor talk about the merits of renting over owning, but there are some worth mentioning. For example, if you’re in a temporary living situation (e.g., job relocation, military, or a growing family), not being tied down is preferable.&nbsp;
 
