@@ -27,7 +27,7 @@ I'm very much into putting some math behind major buying decisions (jobs, houses
 <ul><li><a href="https://themortgagereports.com/46632/the-cost-of-homeownership-vs-renting-over-3-5-and-10-years" tagrte="_blank">Resource 1</a></li>
 <li><a href="https://smartasset.com/mortgage/rent-vs-buy" target="_blank">Resource 2</a></li></ul>
 
-Once you have that in hand, you can make a decision based on the facts.  Not just the hype of homeownership (as I see so often).&nbsp;
+Once you have that in hand, you can make a decision based on the facts, not just the hype of homeownership (as I see so often).&nbsp;
 
 You may not have heard a Realtor talk about the merits of renting over owning, but there are some worth mentioning. For example, if you’re in a temporary living situation (e.g., job relocation, military, or a growing family), not being tied down is preferable.&nbsp;
 
