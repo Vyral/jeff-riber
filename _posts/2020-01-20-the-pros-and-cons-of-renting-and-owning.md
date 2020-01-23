@@ -24,7 +24,8 @@ youtube_code: SQ2P8WqtzpY
 
 I'm very much into putting some math behind major buying decisions (jobs, houses, cars, trips, etc.).  I found 2 sites that did a good job of objectively laying out the various costs associated with homeownership.&nbsp;
 
-<ul><li><a href="https://themortgagereports.com/46632/the-cost-of-homeownership-vs-renting-over-3-5-and-10-years" tagrte="_blank">Resource 1</a></li>&nbsp;<li><a href="https://smartasset.com/mortgage/rent-vs-buy" target="_blank">Resource 2</a></li></ul>
+<ul><li><a href="https://themortgagereports.com/46632/the-cost-of-homeownership-vs-renting-over-3-5-and-10-years" tagrte="_blank">Resource 1</a></li>
+<li><a href="https://smartasset.com/mortgage/rent-vs-buy" target="_blank">Resource 2</a></li></ul>
 
 Once you have that in hand, you can make a decision based on the facts.  Not just the hype of homeownership (as I see so often).&nbsp;
 
