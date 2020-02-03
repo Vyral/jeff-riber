@@ -17,7 +17,7 @@ youtube_code: 'https://youtu.be/5jDo_tY71QM'
 
 {% include youtube.html %}
 
-*Here are our top 10 destinations for a Valentine’s Day date night in 2020.*
+<p style="text-align: center;"><em>Here are our top 10 destinations for a Valentine’s Day date night in 2020.</em></p>
 
 With Valentine’s Days almost upon us, some of you might be in search of some great restaurants to try for date night. In the spirit of the season, today I’ll share the Riber family’s top 10 date night restaurants for Valentine’s Day 2020—yes, this list has been approved by my wife\!
 
