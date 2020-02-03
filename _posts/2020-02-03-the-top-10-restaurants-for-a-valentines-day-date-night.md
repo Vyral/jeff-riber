@@ -17,7 +17,7 @@ youtube_code: 'https://youtu.be/5jDo_tY71QM'
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here are our top 10 destinations for a Valentine’s Day date night in 2020.</em></p>
+*Here are our top 10 destinations for a Valentine’s Day date night in 2020.*
 
 With Valentine’s Days almost upon us, some of you might be in search of some great restaurants to try for date night. In the spirit of the season, today I’ll share the Riber family’s top 10 date night restaurants for Valentine’s Day 2020—yes, this list has been approved by my wife\!
 
@@ -35,7 +35,7 @@ With Valentine’s Days almost upon us, some of you might be in search of some g
 
 **For the Riverside area residents:**
 
-* [**Biscottis**](https://biscottis.net/)—This is my wife’s favorite, possibly because of their dessert menu featuring a chocolate/peanut butter treat that she loves.
+* [**Biscottis**](https://biscottis.net/){: target="_blank"}—This is my wife’s favorite, possibly because of their dessert menu featuring a chocolate/peanut butter treat that she loves.
 * [**Restaurant Orsay**](https://restaurantorsay.com/){: target="_blank"}—Their modern atmosphere is unique, and the venue is a little larger than other restaurants.
 
 **And finally, for those who live near the beaches:**
