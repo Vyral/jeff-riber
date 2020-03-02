@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/vJtHwN_7EBs'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>I’m sharing our latest market update as well as how to come up with the absorption rate of your neighborhood.</em></p>
+
 Recently, I was analyzing what happened in 2019 in our real estate market. I was examining all the statistics, getting a feel for how 2019 went, and how it could impact 2020. I came up with a few essential facts that I felt you should know.&nbsp;
 
 **The absorption rate, or inventory level, is the measure of how many homes we have for sale and how many we’re selling.** In 2019, the absorption rate ebbed and flowed between 3.8 and 3.2 months. To take this measurement for your neighborhood, you would want to look at the number of active listings in the past six months and how many homes were sold. For example, if there were 10 active listings and five houses were sold, you take 10 divided by five, which means we have two months of inventory.
