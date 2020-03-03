@@ -27,7 +27,7 @@ Recently, I was analyzing what happened in 2019 in our real estate market. I was
 
 {% include pullquote.html %}
 
-Currently, we have 3.2 months of inventory, which means in about three months, all of our current listings will be sold. A few other factors come into play, but that is the basis for these figures. This low number is great for sellers but can be tough for buyers. As a buyer, this means a property might fetch multiple offers the first day it comes onto the market, and you’re competing with others.&nbsp;
+Currently, we have 3.2 months of inventory, which means in about three months, all of our current listings will be sold. A few other factors come into play, but that is the basis for these figures. This low number is great for sellers but can be tough for buyers. As a buyer, this means a property might fetch multiple offers the first day it comes onto the market.&nbsp;
 
 The average 30-year fixed-rate mortgage is currently at 3.47%, which is going to fuel the market. As long as mortgage rates are that low and inventory is low, prices won’t slow down much.&nbsp;
 
