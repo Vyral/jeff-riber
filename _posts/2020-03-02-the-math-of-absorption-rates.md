@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Math of Absorption Rates
+title: 2020 Market Update
 date: 2020-03-02 14:47:27
 tags:
   - Market Update
