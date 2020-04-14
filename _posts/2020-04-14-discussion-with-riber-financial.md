@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Discussion With Riber Financial
-date:
+date: 2020-04-14 14:40:42
 tags:
   - Real Estate
 excerpt: >-
   Blake Riber joins me to discuss the SBA and PPP stimulus funds, who qualifies,
   and how to receive money to keep your business afloat.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jeff+Riber/2020/Discussion+With+Riber+Financial.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
