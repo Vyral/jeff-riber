@@ -32,7 +32,7 @@ client:
   market: Jacksonville
   brand: ERA Heavener Realty
   brokerage:
-  address: '2602 University Blvd.<br>W, Jacksonville, FL 32217'
+  address: '3725 Dupont Station Ct S, Ste 1<br>Jacksonville, FL 32217'
   phone: 904-405-1995
   phone_type:
   phone2:
@@ -82,7 +82,8 @@ socials:
   zillow_url:
   trulia_url:
   yelp_url:
-  podcast_url: https://podcasts.apple.com/us/podcast/jacksonville-real-estate-podcast-with-jeff-riber/id1481267275
+  podcast_url: >-
+    https://podcasts.apple.com/us/podcast/jacksonville-real-estate-podcast-with-jeff-riber/id1481267275
 podcast:
   title: Jacksonville Real Estate Podcast with Jeff Riber
   categories:
