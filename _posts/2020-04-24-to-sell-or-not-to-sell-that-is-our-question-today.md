@@ -1,6 +1,6 @@
 ---
 layout: post
-title: To sell or not to sell?  That is our question today
+title: To sell or not to sell? That is our question today
 date: 2020-04-24 16:48:00
 tags:
   - Real Estate
