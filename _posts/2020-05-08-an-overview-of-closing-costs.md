@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/jeff-riber-closing-costs-youtube.jpg
-youtube_code: 'https://youtu.be/uTXJYba4TMA'
+youtube_code: EGTH4QPhAF0
 ---
 
 {% include youtube.html %}
@@ -27,7 +27,7 @@ The following is what’s customary for sellers to pay in Northeast Florida:
 
 <u><strong>Owners title insurance policy:</strong></u> This is also a state-regulated amount that basically provides insurance to the new buyer so that if any issues arise from previous ownership, it’s taken care of by the title and the insurance company.&nbsp;
 
-<u><strong>Title search:</strong></u> The title company, in general, will handle the transaction as a whole, including the search and organizing the title insurance policy, which brings me to our next item...
+<u><strong>Title search:</strong></u> The title company, in general, will handle the transaction as a whole, including the search and organizing the title insurance policy, which brings me to our next item…
 
 <u><strong>Settlement fee:</strong></u> This is what the title company charges for doing the work mentioned above and handling the money, which goes from the lender to the seller, and then the seller to their lender, and so on.&nbsp;
 
