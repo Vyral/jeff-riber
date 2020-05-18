@@ -19,39 +19,39 @@ youtube_code: EGTH4QPhAF0
 
 Who pays for which closing costs in a real estate transaction?
 
-Before I answer that question, a quick reminder: There is no law stating which party has to pay a particular cost. Everything is done customarily, and as real estate has evolved over the decades across the country, different market areas have different customs.&nbsp;
+Before I answer that question, a quick reminder: there is no law stating which party has to pay a particular cost. What we're talking about is the customary costs for a particular location. Different market areas have different customs.
 
 The following is what’s customary for sellers to pay in Northeast Florida:
 
-<u><strong>Deed stamps:</strong></u> This state tax constitutes 0.007% of the sale price. It’s set rate, so there’s no negotiating over it.
+<u><strong>Deed stamps:</strong></u> This state tax constitutes 0.007% of the sale price. It’s a set rate, so there’s no negotiating it.
 
-<u><strong>Owners title insurance policy:</strong></u> This is also a state-regulated amount that basically provides insurance to the new buyer so that if any issues arise from previous ownership, it’s taken care of by the title and the insurance company.&nbsp;
+<u><strong>Owners title insurance policy:</strong></u> This is also a state-regulated amount that basically provides insurance to the new buyer so that if any issues arise from previous ownership, it’s taken care of by the title insurance company.
 
 <u><strong>Title search:</strong></u> The title company, in general, will handle the transaction as a whole, including the search and organizing the title insurance policy, which brings me to our next item…
 
-<u><strong>Settlement fee:</strong></u> This is what the title company charges for doing the work mentioned above and handling the money, which goes from the lender to the seller, and then the seller to their lender, and so on.&nbsp;
+<u><strong>Settlement fee:</strong></u> This is what the title company charges for doing the work mentioned above and handling the money, which goes from the lender to the seller, and then the seller to their lender, and so on.
 
-<u><strong>Survey fee:</strong></u> This shows the buyer what they actually own.&nbsp;
+<u><strong>Survey fee:</strong></u> This shows the buyer what they actually own.
 
-Other costs that are sometimes asked of sellers to pay include the satisfaction of the mortgage (if they have one) to pay off their existing loan, courier fees, wire fees, the home warranty, seller paid closing costs on behalf of the buyer, etc.&nbsp;
+Other costs that are sometimes asked of sellers to pay include the satisfaction of the mortgage (if they have one) to pay off their existing loan, courier fees, wire fees, the home warranty, seller paid closing costs on behalf of the buyer, etc.
 
-Typically, buyers pay for anything associated with getting financing in Northeast Florida, so if you’re paying cash to purchase your home, your closing costs are minimal—all you have to pay is a recording fee to record the note and mortgage. If you’re using financing to purchase, though, you’ll be expected to cover several fees in addition to that:
+Typically, buyers pay for anything associated with getting financing in Northeast Florida, so if you’re paying cash to purchase your home, your closing costs are minimal—all you have to pay is a recording fee. If you’re using financing to purchase though, you’ll be expected to cover several fees in addition to that:
 
-<u><strong>Intangible tax:</strong></u> This is a tax on getting a mortgage, and it goes toward the state.&nbsp;
+<u><strong>Intangible tax:</strong></u> This is a tax on getting a mortgage, and it goes toward the state coffers. 0.002 \* the loan amount.
 
-<u><strong>Note stamps:</strong></u> This is the same thing as the deed stamps, just a different amount.
+<u><strong>Note stamps:</strong></u> This is like the deed stamps, except against the amount of the loan just a different amount. 0.0035 \* loan amount.
 
-<u><strong>Mortgagee title insurance policy:</strong></u> This is similar to the owners title insurance policy, except it protects the lender.
+<u><strong>Mortgagee title insurance policy:</strong></u> This is similar to the owner's title insurance policy, except it protects the lender.
 
-<u><strong>Title insurance endorsements:</strong></u> These are smaller modifications to your title insurance policy that protects you from issues that might arise if you live in a homeowners association or condominium complex.&nbsp;
+<u><strong>Title insurance endorsements:</strong></u> These are smaller modifications to your title insurance policy that protect you from issues that might arise if you live in a homeowners association or condominium complex, as an example.
 
 <u><strong>Inspection fees:</strong></u> Whether it’s a general inspection, WDO inspection, pool inspection, etc., these are usually paid outside of the closing.&nbsp;
 
-<u><strong>Mortgage origination charges:</strong></u> When you borrow money from a bank or mortgage company, this is the fee you pay them for originating your loan.&nbsp;
+<u><strong>Mortgage origination charges:</strong></u> When you borrow money from a bank or mortgage company, this is the fee you pay them for originating your loan.
 
-<u><strong>Appraisal fee:</strong></u> This is the fee you pay your lender so they can hire an appraiser to substantiate the amount you’re paying for the home.&nbsp;
+<u><strong>Appraisal fee:</strong></u> This is the fee you pay your lender so they can hire an appraiser to substantiate the amount you’re paying for the home.
 
-<u><strong>Mortgage Insurance:</strong></u> This applies if you’re putting less than 20% down or are using an FHA loan. For a VA loan, this is referred to as a funding fee.&nbsp;
+<u><strong>Mortgage Insurance:</strong></u> This applies if you’re putting less than 20% down. Depending on the loan type, different terminology is used to describe the same function. &nbsp;On FHA loans it's MIP (mortgage insurance premium). For a VA loan, this is referred to as a funding fee.
 
 Other miscellaneous buyer costs can include:
 
