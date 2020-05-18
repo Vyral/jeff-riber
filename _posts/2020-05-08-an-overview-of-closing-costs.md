@@ -61,6 +61,6 @@ Other miscellaneous buyer costs can include:
 * Municipal lien search fee
 * Estoppel letter fee
 
-To see a more in-depth description of these costs, [follow this link](https://www.904living.com/){: target="_blank"} that takes you to our website. Remember, everything in real estate is negotiable—you never know what the other party is willing to pay for unless you ask.&nbsp;
+To see a more in-depth description of these costs, follow this link that takes you to [my blog post](https://www.904living.com/selling/what-closing-costs-do-i-pay-when-i-sell-my-home/){: target="_blank"}. Remember, everything in real estate is negotiable—you never know what the other party is willing to pay for unless you ask.&nbsp;
 
 If you have questions about this or any real estate topic, don’t hesitate to reach out to me. I’d love to help you.
