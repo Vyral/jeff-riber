@@ -17,6 +17,8 @@ youtube_code: 'https://youtu.be/GR6uyeAIte8'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here’s a little info about our team’s morning routines.</em></p>
+
 Today I want to talk about your morning routine. A few months ago, our team read the book “The Miracle Morning” by Hal Elrod and started to learn a lot about how we should be starting our days. **Then we went into quarantine and our morning routines exploded.** Now that we’re getting out of quarantine finally, we’re getting back to our morning routines and I wanted to share it with you today.
 
 **The morning routine that we learned from in the book is broken down into six activities with the acronym S.A.V.E.R.S.** Here’s what they stand for:
