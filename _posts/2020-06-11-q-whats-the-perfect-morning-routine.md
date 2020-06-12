@@ -19,11 +19,11 @@ youtube_code: 'https://youtu.be/GR6uyeAIte8'
 
 <p style="text-align: center;"><em>Here’s a little info about our team’s morning routines.</em></p>
 
-Today I want to talk about your morning routine. A few months ago, our team read the book “The Miracle Morning” by Hal Elrod and started to learn a lot about how we should be starting our days. **Then we went into quarantine and our morning routines exploded.** Now that we’re getting out of quarantine finally, we’re getting back to our morning routines and I wanted to share it with you today.
+Today I want to talk about your morning routine. A few months ago, our team read the book “The Miracle Morning” by Hal Elrod and began learning a lot about how we should be starting our days. **Then we went into quarantine and our morning routines exploded.** Now that we’re getting out of quarantine finally, we’re getting back to our morning routines and I wanted to share it with you today.
 
-**The morning routine that we learned from in the book is broken down into six activities with the acronym S.A.V.E.R.S.** Here’s what they stand for:
+**The morning routine we learned is broken down into six activities with the acronym S.A.V.E.R.S.** Here’s what they stand for:
 
-**Silence:** Using prayer and/or meditation to bring calmness to the start of our day<br>**Affirmations:** These are the things that you want to achieve that you’re saying out loud each day<br>**Visualization:** Visualizing your affirmations and seeing what you intend to accomplish for the day.<br>**Exercise:** pretty self-explanatory.<br>**Reading**<br>**Scribing(writing)**
+**Silence:** Using prayer and/or meditation to bring calmness to the start of our day.<br>**Affirmations:** These are the things that you want to achieve that you’re saying out loud each day.<br>**Visualization:** Visualizing your affirmations and seeing what you intend to accomplish for the day.<br>**Exercise**<br>**Reading**<br>**Scribing (writing)**
 
 {% include pullquote.html %}
 
