@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Q: What’s the Perfect Morning Routine?'
+title: 'What's Your Morning Routine?'
 date: 2020-06-11 13:41:17
 tags:
   - Real Estate
