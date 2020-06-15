@@ -19,14 +19,16 @@ youtube_code: 'https://youtu.be/GR6uyeAIte8'
 
 <p style="text-align: center;"><em>Here’s a little info about our team’s morning routines.</em></p>
 
-Today I want to talk about your morning routine. A few months ago, our team read the book “The Miracle Morning” by Hal Elrod and began learning a lot about how we should be starting our days. **Then we went into quarantine and our morning routines exploded.** Now that we’re getting out of quarantine finally, we’re getting back to our morning routines and I wanted to share it with you today.
+A few months ago, our team read the book “The Miracle Morning” by Hal Elrod and began learning a lot about how we should be starting our days. **Then we went into quarantine and our morning routines exploded.** Now that we’re getting out of quarantine, we’re getting back to our morning routines and I wanted to share it with you today.
 
-**The morning routine we learned is broken down into six activities with the acronym S.A.V.E.R.S.** Here’s what they stand for:
+**The morning routine Hal teaches is broken down into six activities with the acronym S.A.V.E.R.S.** 
 
-**Silence:** Using prayer and/or meditation to bring calmness to the start of our day.<br>**Affirmations:** These are the things that you want to achieve that you’re saying out loud each day.<br>**Visualization:** Visualizing your affirmations and seeing what you intend to accomplish for the day.<br>**Exercise**<br>**Reading**<br>**Scribing (writing)**
+Here’s what they stand for:
+
+**Silence:** Using prayer and meditation to bring calmness to the start of our day.<br>**Affirmations:** These are the things that you want to achieve that you’re creating an audible reminder for yourself on.<br>**Visualization:** There's all sorts of research showing that with practice visualizing physical tasks (like your golf swing), you can make substantial improvements.<br>**Exercise:** We all know we need to do it.  Knock it out first thing so you don't forget!<br>**Reading:** “You will be the same person in five years as you are today except for the people you meet and the books you read.” ― Charlie Tremendous Jones <br>**Scribing (writing):** Clear writing is the result of clear thinking.
 
 {% include pullquote.html %}
 
-These are the six things that he picked out for the perfect morning routine. You don't have to do everything every day, but starting with one or two of these things in the morning and slowly adding to the list as time goes on will result in the perfect morning.
+These are the six things that he picked out for the perfect morning routine. You don’t have to do everything every day, but starting with one or two of these things in the morning and slowly adding to the list as time goes on will enhance your day, and ultimately your life.
 
-If you have any questions about my morning routine or anything else that you’re doing in the morning that you think we should be doing too, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
+If you have any questions about my morning routine or anything else that you’re doing in the morning that you think we should be doing too, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon!
