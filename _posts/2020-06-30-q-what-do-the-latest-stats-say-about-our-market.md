@@ -17,6 +17,8 @@ youtube_code: 'https://youtu.be/MrIfzXNBOwA'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here are the latest market stats you need to know.</em></p>
+
 What’s happening in our Northeast Florida real estate market as we head into the summer season? Today I have the latest statistics to share with you. First, we’ll look at mortgage interest rates and showing activity, then we’ll check the median sale price and supply and demand statistics. Finally, we’ll go over the statewide unemployment numbers.
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch it in its entirety or use these timestamps to browse specific points at your leisure:**
