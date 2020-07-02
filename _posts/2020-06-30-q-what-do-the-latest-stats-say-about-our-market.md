@@ -31,7 +31,7 @@ What’s happening in our Northeast Florida real estate market as we head into t
 
 4:07—Median sale price&nbsp;
 
-4:35—Unemployment rate, seasonally adjusted&nbsp;
+4:35—The current unemployment rate&nbsp;
 
 5:01—What do these numbers mean?
 
