@@ -17,7 +17,7 @@ youtube_code: 'https://youtu.be/hfVdqvS2Krg'
 
 {% include youtube.html %}
 
-*Here’s everything you need to know about Brian’s customizable gardens.*
+<p style="text-align: center;"><em>Here’s everything you need to know about Brian’s customizable gardens.</em></p>
 
 I recently sat down with Brian Friederichs, owner of Yard to Table Farms, to discuss his amazing garden box business model that empowers people to believe in their own green thumb and grow amazing veggies. About a month ago, Brain came over to my house with a garden box he built himself, and our kids love it; we now have some nearly ripe tomatoes, squash, rosemary, and other herbs as well. He explains the lack of plant diversity in our mass-production supermarket model, the tasty boons of homegrown snacks, and much more.
 
