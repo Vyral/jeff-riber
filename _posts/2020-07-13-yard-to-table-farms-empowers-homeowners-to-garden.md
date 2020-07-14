@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Yard to Table Farms Empowers Homeowners to Garden
-date: 2020-07-13 15:46:38
+date: 2020-07-13 15:46:00
 tags:
   - Real Estate
 excerpt: Here’s everything you need to know about Brian’s customizable gardens.
@@ -17,13 +17,13 @@ youtube_code: 'https://youtu.be/hfVdqvS2Krg'
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s everything you need to know about Brian’s customizable gardens.</em></p>
+*Here’s everything you need to know about Brian’s customizable gardens.*
 
 I recently sat down with Brian Friederichs, owner of Yard to Table Farms, to discuss his amazing garden box business model that empowers people to believe in their own green thumb and grow amazing veggies. About a month ago, Brain came over to my house with a garden box he built himself, and our kids love it; we now have some nearly ripe tomatoes, squash, rosemary, and other herbs as well. He explains the lack of plant diversity in our mass-production supermarket model, the tasty boons of homegrown snacks, and much more.
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message, or use these timestamps to skip to topics that interest you most:&nbsp;**
 
-1:11 — When (and how) Brain fell in love with the micro-farm and square-foot gardening model
+1:11 — When (and how) Brian fell in love with the micro-farm and square-foot gardening model
 
 4:00 — How Brian was able to bring his business model to market
 
@@ -35,4 +35,4 @@ I recently sat down with Brian Friederichs, owner of Yard to Table Farms, to dis
 
 11:10 — Wrapping things up&nbsp;
 
-Reach out to Brian at Yard to Table Farms by visiting yttfarms.com and filling out an online inquiry or calling the direct numbers listed on the site. As always, give me a call, text, or email if you have any questions about real estate or the status of our market. I look forward to hearing from you\!&nbsp;
+Reach out to Brian at Yard to Table Farms by visiting [yttfarms.com](http://www.yttfarms.com/){: target="_blank"} and filling out an online inquiry or calling the direct numbers listed on the site. As always, give me a call, text, or email if you have any questions about real estate or the status of our market. I look forward to hearing from you\!&nbsp;
