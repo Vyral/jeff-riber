@@ -17,7 +17,7 @@ youtube_code: 'https://youtu.be/Bb8YSKhbupA'
 
 {% include youtube.html %}
 
-*So how do you improve your offer without simply raising your price?*
+<p style="text-align: center;"><em>So how do you improve your offer without simply raising your price?</em></p>
 
 Here are some key tips to help you find success as a buyer in today’s market—without simply paying more for the home you want:
 
