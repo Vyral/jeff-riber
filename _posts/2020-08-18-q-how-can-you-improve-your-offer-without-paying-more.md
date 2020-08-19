@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/Bb8YSKhbupA'
 
 Here are some key tips to help you find success as a buyer in today’s market—without simply paying more for the home you want:
 
-**1\. Be flexible with your timeline.** Being flexible will allow you to close sooner or later, depending on what benefits the seller. If necessary, sellers might ask to be able to stay in the house after closing. That may not be ideal, but if it doesn’t necessarily cost you more money and it gets the deal done, it’s something to consider.
+**1\. Be flexible with your timeline.** Being flexible will allow you to close sooner or later, depending on what benefits the seller. If necessary, sellers might ask to stay in the house for a bit longer after closing. That may not be ideal, but if it doesn’t necessarily cost you more money and it gets the deal done, it’s something to consider.
 
 **2\. Raise your earnest money amount.** Sellers typically see this as a sign that the buyer is serious, since the buyer won’t get that money back if they back out of the deal for some non-contractual reason.
 
