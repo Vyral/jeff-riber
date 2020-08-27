@@ -1,9 +1,9 @@
 ---
 layout: post
 title: What's Your Morning Routine?
-date: 2020-06-15 16:20:50
+date: 2020-06-15 16:20:00
 tags:
-  - Real Estate
+  - Business
 excerpt: Here’s a little info about our team’s morning routines.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Jeff+Riber/2020/Q-+Whats+the+Perfect+Morning+Routine_.mp4
