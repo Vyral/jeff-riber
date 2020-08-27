@@ -5,7 +5,7 @@ title: >-
   to Seem
 date: 2019-03-28 14:40:00
 tags:
-  - Home Buyer Tips
+  - Home Seller Tips
 excerpt: >-
   Instant offer companies offer convenience at a steep price, and today we’re
   going to explain when (if ever) working with these iBuyers is a good idea for
