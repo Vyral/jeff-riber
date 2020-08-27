@@ -4,6 +4,8 @@ title: How to Find High-Quality Contractors in Just 4 Steps
 date: 2019-06-28 18:45:00
 tags:
   - Real Estate
+  - Home Buyer Tips
+  - Home Seller Tips
 excerpt: 'If you’re looking for a high-quality contractor, follow these four steps.'
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Jeff+Riber/How+to+Find+High-Quality+Contractors+in+Just+4+Steps.mp4
