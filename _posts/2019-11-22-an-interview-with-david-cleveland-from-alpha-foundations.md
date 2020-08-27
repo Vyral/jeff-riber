@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'An Interview With David Cleveland from Alpha Foundations'
+title: An Interview With David Cleveland from Alpha Foundations
 date: 2019-11-22 15:05:00
 tags:
-  - Real Estate
+  - Local
 excerpt: >-
   David Cleveland of Alpha Foundations recently joined me for a Facebook Live
   session to discuss how he and his business have been helping Jacksonville
@@ -20,7 +20,7 @@ youtube_code: 'https://youtu.be/jnLFtqfDFCs'
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>David Cleveland of Alpha Foundations recently joined me for a Facebook Live session to discuss how he and his business have been helping Jacksonville homeowners identify and resolve foundation issues since 2002.</em></p>
+*David Cleveland of Alpha Foundations recently joined me for a Facebook Live session to discuss how he and his business have been helping Jacksonville homeowners identify and resolve foundation issues since 2002.*
 
 During my most recent Facebook Live, I sat down with David Cleveland of Alpha Foundations to discuss a few common homeowner questions, the importance of a solid foundation, and, of course, what his specific business brings to Jacksonville.&nbsp;
 
