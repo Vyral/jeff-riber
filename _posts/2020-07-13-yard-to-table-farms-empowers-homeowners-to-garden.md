@@ -3,7 +3,7 @@ layout: post
 title: Yard to Table Farms Empowers Homeowners to Garden
 date: 2020-07-13 15:46:00
 tags:
-  - Real Estate
+  - Local
 excerpt: Here’s everything you need to know about Brian’s customizable gardens.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Jeff+Riber/2020/Yard+to+Table+Farms+Empowers+Homeowners+to+Garden.mp4
@@ -17,7 +17,7 @@ youtube_code: 'https://youtu.be/hfVdqvS2Krg'
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s everything you need to know about Brian’s customizable gardens.</em></p>
+*Here’s everything you need to know about Brian’s customizable gardens.*
 
 I recently sat down with Brian Friederichs, owner of Yard to Table Farms, to discuss his amazing garden box business model that empowers people to believe in their own green thumb and grow amazing veggies. About a month ago, Brain came over to my house with a garden box he built himself, and our kids love it; we now have some nearly ripe tomatoes, squash, rosemary, and other herbs as well. He explains the lack of plant diversity in our mass-production supermarket model, the tasty boons of homegrown snacks, and much more.
 
