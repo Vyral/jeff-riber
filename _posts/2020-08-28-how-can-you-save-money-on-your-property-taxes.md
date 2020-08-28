@@ -17,6 +17,8 @@ youtube_code: 'https://youtu.be/4rVzMMsBPOw'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here’s how you can save money on your property taxes.</em></p>
+
 If you’re wondering how to save money on your property taxes, there are a couple of ways to do so.&nbsp;
 
 First, **you could always let someone else do it.** There are several companies (<u><a target="_blank" rel="noopener" href="https://www.firstcoastconsultants.com/">First Coast Consultants</a></u>, for example) dedicated to helping you lower your property taxes. Their primary focus is larger commercial properties, but they can help you as well, provided you’re willing to pay a fee.&nbsp;
