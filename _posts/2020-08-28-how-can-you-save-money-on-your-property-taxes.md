@@ -17,7 +17,7 @@ youtube_code: 'https://youtu.be/4rVzMMsBPOw'
 
 {% include youtube.html %}
 
-*Here’s how you can save money on your property taxes.*
+<p style="text-align: center;"><em>Here’s how you can save money on your property taxes.</em></p>
 
 If you’re wondering how to save money on your property taxes, there are a couple of ways to do so.
 
