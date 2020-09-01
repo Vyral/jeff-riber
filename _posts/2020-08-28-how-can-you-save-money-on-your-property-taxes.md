@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/property-taxes-yt-jeff-riber.jpg
-youtube_code: 'https://youtu.be/4rVzMMsBPOw'
+youtube_code: 'https://youtu.be/1Cvv01zSq10'
 ---
 
 {% include youtube.html %}
