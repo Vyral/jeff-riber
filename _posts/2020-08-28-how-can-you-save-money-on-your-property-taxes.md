@@ -27,7 +27,7 @@ Second, **establish that you have a discrepancy.** If you can prove that the cou
 
 {% include pullquote.html %}
 
-Third, once a discrepancy is established, **know when to act.** August has just ended, so you should’ve received a notice of proposed taxes from the county by now telling you what they intend to tax you on this November. This means right now is the time to act if you want to contest your property’s valuation. You can <u><a target="_blank" rel="noopener" href="https://www.coj.net/departments/regulatory-boards-and-commissions/value-adjustment-board">contact the Value Adjustment Board</a></u> either through the online form or by sending them an email. &nbsp;There offices are presently closed due to COVID-19.
+Third, once a discrepancy is established, **know when to act.** August has just ended, so you should’ve received a notice of proposed taxes from the county by now telling you what they intend to tax you on this November. This means right now is the time to act if you want to contest your property’s valuation. You can <u><a target="_blank" rel="noopener" href="https://www.coj.net/departments/regulatory-boards-and-commissions/value-adjustment-board">contact the Value Adjustment Board</a></u> either through the online form or by sending them an email. &nbsp;Their offices are presently closed due to COVID-19.
 
 Finally, **remember to fill out the proper paperwork.** Make sure you fill out the petition form completely and correctly when contesting your assessed value. There’s a slight fee involved, but it’s well worth it if you can save thousands of dollars later.
 
