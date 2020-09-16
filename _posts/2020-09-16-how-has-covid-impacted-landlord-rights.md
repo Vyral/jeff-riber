@@ -17,6 +17,8 @@ youtube_code: 'https://youtu.be/vG91deNpa_Y'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Seth Rosenstein breaks down what property owners/managers must know.</em></p>
+
 For today’s message, I’m thankful to be accompanied by Matt Miller of ERA, our property manager, and Seth Rothstein, who’s an attorney and partner at Adams, Rothstein & Siegel. Seth focuses on real estate and civil litigation, and has several landlords as clients. Starting in April, the first full month of the pandemic in the U.S., there were a series of mandates that impacted landlords’ rights and created plenty of confusion.&nbsp;
 
 There was an order issued by Chief Judge Mahan, orders from Governor DeSantis, the CARES Act, and now the CDC order. Seth has been combing through updates that have been flooding in on an almost daily basis to keep his clients protected. Today, here’s sharing the latest legal news as it pertains to property owners and managers.&nbsp;
