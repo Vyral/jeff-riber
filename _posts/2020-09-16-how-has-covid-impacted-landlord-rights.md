@@ -19,9 +19,9 @@ youtube_code: 'https://youtu.be/vG91deNpa_Y'
 
 <p style="text-align: center;"><em>Seth Rosenstein breaks down what property owners/managers must know.</em></p>
 
-For today’s message, I’m thankful to be accompanied by Matt Miller of ERA, our property manager, and Seth Rothstein, who’s an attorney and partner at Adams, Rothstein & Siegel. Seth focuses on real estate and civil litigation, and has several landlords as clients. Starting in April, the first full month of the pandemic in the U.S., there were a series of mandates that impacted landlords’ rights and created plenty of confusion.&nbsp;
+For today’s message, I’m thankful to be accompanied by Matt Miller of ERA, our property manager, and Seth Rothstein, who’s an attorney and partner at Adams, Rothstein & Siegel. Seth focuses on real estate and civil litigation and has several landlords as clients. Starting in April, the first full month of the pandemic in the U.S., there were a series of mandates that impacted landlords’ rights and created plenty of confusion.&nbsp;
 
-There was an order issued by Chief Judge Mahan, orders from Governor DeSantis, the CARES Act, and now the CDC order. Seth has been combing through updates that have been flooding in on an almost daily basis to keep his clients protected. Today, here’s sharing the latest legal news as it pertains to property owners and managers.&nbsp;
+There was an order issued by Chief Judge Mahan, orders from Governor DeSantis, the CARES Act, and now the CDC order. Seth has been combing through updates that have been flooding in on an almost daily basis to keep his clients protected. Today Seth’s sharing the latest legal news as it pertains to property owners and managers.&nbsp;
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to skip to topics that interest you most:&nbsp;**
 
@@ -41,4 +41,4 @@ There was an order issued by Chief Judge Mahan, orders from Governor DeSantis, t
 
 23:14 — Wrapping up our discussion&nbsp;
 
-Hopefully, Seth’s legal insight has helped you get a better understanding of how all of the recent government orders issued affect you as a property owner or manager. If you have further questions on this or any other real estate-related topic, reach out to us via phone or email.&nbsp;
+Hopefully, Seth’s legal insight has helped you get a better understanding of how all of the recent government orders affect you as a property owner or manager. If you have further questions on this or any other real estate-related topic, reach out to us via phone or email.&nbsp;
