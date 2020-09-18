@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/jeff-reber-seth-rothstein-interview-yt.jpg
-youtube_code: 'https://youtu.be/vG91deNpa_Y'
+youtube_code: 'https://youtu.be/tAKqoNxIbbc'
 ---
 
 {% include youtube.html %}
