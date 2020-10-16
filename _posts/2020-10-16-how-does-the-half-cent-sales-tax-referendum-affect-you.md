@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/2jI6z7b5_8o'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Do you have questions about the half-cent sales tax referendum? Shannon Beckham has answers.</em></p>
+
 What do you need to know about the upcoming half-cent sales tax referendum? Today I’m joined by Shannon Beckham, a former teacher and mother of two children enrolled in the Duval County public school system, to answer that question. I had questions myself about this referendum, and I was directed to Shannon through a mutual friend. She has no dog in this fight, and she’s as well-informed about the issue as anyone.&nbsp;
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch it in its entirety or use these timestamps to browse specific points at your leisure:**
