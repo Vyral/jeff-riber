@@ -1,9 +1,10 @@
 ---
 layout: post
 title: How Does the Half-Cent Sales Tax Referendum Affect You
-date: 2020-10-16 13:27:35
+date: 2020-10-16 13:27:00
 tags:
-  - Real Estate
+  - Local
+  - Business
 excerpt: >-
   Do you have questions about the half-cent sales tax referendum? Shannon
   Beckham has answers.
