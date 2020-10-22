@@ -31,12 +31,12 @@ description: >-
 
 
   In addition to real estate, I love traveling with my wife to cool places,
-  hanging out with our little ones (Anniston, Miles, and Ava), and playing
-  basketball (even though I have lost a step... Or, two).
+  hanging out with our little ones (Anniston, Miles, and Ava, and two more on
+  the way!), and playing basketball (even though I have lost a step... Or, two).
 show_custom_links: true
 custom_links:
   - title: Schedule an Appointment
-    url: https://calendly.com/jeffriber/15min
+    url: 'https://calendly.com/jeffriber/15min'
 client:
   name: Jeff Riber
   title: Broker
