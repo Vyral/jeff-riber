@@ -17,6 +17,8 @@ youtube_code: 'https://youtu.be/QX2COrVC8Os'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Multiple offers are a great problem; here are some tips that will help.</em></p>
+
 If you’ve paid any attention to the news lately regarding real estate, you know we’re in a very hot seller’s market. Because of this, houses that are listed in a good area and are priced appropriately will have multiple offers. How do you navigate these offers and pick the best one? Here are my tips:
 
 **1\. Take a look at the environment you’re in.** Calculate the absorption rate first, which is the measure of supply and demand for your particular area. If you look back at the previous six months of sales, it will give you a better idea. For example, let’s say you live in a planned-unit development that has had 10 sales in the last six months with two active listings. We know that they’re selling just shy of two units per month and come to the conclusion that you have just over one month of inventory. In a normal market, there are around six months of inventory.&nbsp;
