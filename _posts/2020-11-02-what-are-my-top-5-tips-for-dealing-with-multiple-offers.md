@@ -6,7 +6,7 @@ tags:
   - Home Seller Tips
 excerpt: Multiple offers are a nice problem; here are some tips that will help.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Jeff+Riber/2020/What+Are+Your+Top+5+Tips+for+Dealing+With+Multiple+Offers_.mp4
+  https://vyralmarketing.s3.amazonaws.com/Jeff+Riber/2020/What+Are+My+Top+5+Tips+for+Dealing+With+Multiple+Offers_.mp4
 pullquote: 'Buyers are motivated to buy well-priced, move-in ready homes.'
 enclosure_type: video/mp4
 enclosure_time:
