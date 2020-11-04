@@ -23,7 +23,7 @@ If you’ve paid any attention to the news lately regarding real estate, you kno
 
 **1\. Take a look at the environment you’re in.** Calculate the absorption rate first, which is the measure of supply and demand for your particular area. If you look back at the previous six months of sales, it will give you a better idea. For example, let’s say you live in a planned-unit development that has had 10 sales in the last six months with two active listings. We know that they’re selling just shy of two units per month and can come to the conclusion that you have just over one month of inventory. In a normal market, there are around six months of inventory.&nbsp;
 
-**2\. Time the listing.** We like to do this so that our clients are appropriately navigating the market. We want to get the most traffic without losing the initial drive and demand for a new listing. I like to list homes on Thursdays because a majority of buyers want to look at homes in person on the weekend. Putting your home online on a Thursday gives buyers two days to find it, another day or so to make an offer on it, and another day or so for you to accept that offer. By Monday, your home could be under contract.
+**2\. Time the listing.** We like to do this so that our clients are appropriately navigating the market. We want to get the most traffic without losing the initial drive and demand for a new listing. I like to list homes on Thursdays because a majority of buyers want to look at homes in person on the weekend. Putting your home online on a Thursday gives buyers two days to find it, another day or so to make an offer on it, and another day or so for you to accept that offer. By Monday, your home could be under contract. 
 
 {% include pullquote.html %}
 
