@@ -17,7 +17,7 @@ youtube_code: 'https://youtu.be/QX2COrVC8Os'
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Multiple offers are a great problem; here are some tips that will help.</em></p>
+<p style="text-align: center;"><em>Multiple offers are a nice problem; here are some tips that will help.</em></p>
 
 If you’ve paid any attention to the news lately regarding real estate, you know we’re in a very hot seller’s market. Due to this, houses that are listed in a good area and are priced appropriately will have multiple offers. How do you navigate these offers and pick the best one? Here are my tips:
 
