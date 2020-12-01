@@ -5,7 +5,8 @@ date: 2020-12-01 20:23:44
 tags:
   - Real Estate
 excerpt: Here’s an overview of why homeowners insurance costs are rising in FL.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jeff+Riber/2020/Florida+Homeowners+Insurance+Rates+Are+Rising.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
