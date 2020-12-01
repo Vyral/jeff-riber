@@ -16,6 +16,8 @@ youtube_code: 'https://youtu.be/Ucbt5MoB2g8'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here’s an overview of why homeowners insurance costs are rising in FL.</em></p>
+
 A couple of weeks ago, I was having a conversation with Danny Sands, owner of Brightway Insurance, who told me that homeowners insurance rates were about to go up. That was the first time I had heard such news, so it didn’t quite sink in then. Sure enough, though, I soon after started seeing articles in real estate publications about the coming insurance rate climb, so I’ve invited Danny to chat publicly about the problem and discuss potential solutions for homeowners. Unfortunately, as Danny explains, it’s not just one issue affecting the homeowners insurance market here in Florida, it’s a multi-headed beast.&nbsp;
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to skip to topics that interest you most:&nbsp;**
