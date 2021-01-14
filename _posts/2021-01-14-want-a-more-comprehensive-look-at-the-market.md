@@ -19,6 +19,8 @@ youtube_code: kxGqz2W0ThA
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here’s why the Housing Affordability Index is a great tool for buyers.</em></p>
+
 One of the questions that I field on an almost daily basis is, “When is the right time to make a move in the market?” **There’s no objectively superior time to buy or sell in the market**; it’s more a question of, “When is the right time *for me*?” Perhaps you’re downsizing because the kids have left the nest, upgrading because your young family is growing, or you’re just ready for a change. As your Realtor, I can’t help you with any of those personal decisions, but there’s one important thing I can give you to inform those decisions.&nbsp;
 
 Every month, the National Association of Realtors puts out a report called the Housing Affordability Index (HAI). In addition to factoring in the current median price of single-family homes, it accounts for mortgage interest rates and median income, as well as qualifying income, which is basically a measure of what mortgage companies are requiring of borrowers these days. Therefore, the HAI provides us with a more holistic view of what’s going on in the real estate market and helps homebuyers understand their true purchasing power.&nbsp;
