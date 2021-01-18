@@ -37,6 +37,10 @@ show_custom_links: true
 custom_links:
   - title: Schedule an Appointment
     url: 'https://calendly.com/jeffriber/15min'
+  - title: Testimonials
+    url: https://www.google.com/search?q=era+heavener+realty&rlz=1C1CHBF_enUS702US703&oq=era+heav&aqs=chrome.0.69i59j46i175i199j69i57j69i60j69i61j69i60j69i65l2.1486j1j7&sourceid=chrome&ie=UTF-8
+  - title: Guaranteed Offer
+    url: /guaranteed-offer/
 client:
   name: Jeff Riber
   title: Broker
@@ -74,6 +78,10 @@ client:
   phone2_type:
   email: Jeff@ERA.com
   url: 'http://ERAHeavenerRealty.com'
+
+forms:
+  sitekey: 6Lfs7jEaAAAAAOt-YLIn37b57cXONGaSNMP4RYqJ
+
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: >-
