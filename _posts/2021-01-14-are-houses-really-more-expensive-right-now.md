@@ -19,7 +19,7 @@ youtube_code: kxGqz2W0ThA
 
 {% include youtube.html %}
 
-*Here’s why the Housing Affordability Index is a great tool for buyers.*
+<p style="text-align: center;"><em>Here’s why the Housing Affordability Index is a great tool for buyers.</em></p>
 
 Have you thought about making a move recently because your house value has gone through the roof (pun intended)? &nbsp;Only to realize, we have to buy something else and that next house is more expensive too. &nbsp;
 
