@@ -13,9 +13,4 @@ youtube_alternate_image:
 youtube_code:
 ---
 {% include youtube.html %}
-
-<p style="text-align: center;"><em><em>EXCERPT.</em></p>
-
-<br>ARTICLE
-
 {% include pullquote.html %}
