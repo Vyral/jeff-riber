@@ -15,7 +15,9 @@ youtube_alternate_image: /uploads/jeff-riber-appraisals-and-inspections-yt.jpg
 youtube_code: PZbXAZ4AlA0
 ---
 
-{% include youtube.html %}&nbsp;
+{% include youtube.html %}
+
+<p style="text-align: center;"><em>Here are the main differences between an appraisal and a home inspection.</em></p>
 
 Though they can both be a source of contention in real estate transactions, appraisals and inspections are two very different processes. The best way to differentiate between the two is to ask a few basic questions about each: Who is it for, why is it being done, and how much does it cost? Today I’m answering these questions so that you can better understand why appraisals and inspections exist in the first place. For buyers who are financing their home purchase, an appraisal is required by their lender. Home inspections, on the other hand, are highly recommended but can be waived in an offer.
 
