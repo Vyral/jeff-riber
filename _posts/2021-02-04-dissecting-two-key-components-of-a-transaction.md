@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dissecting Two Key Components of a Transaction
+title: Dissecting 2 Key Components of a Transaction
 date: 2021-02-04 18:13:05
 tags:
   - Real Estate
@@ -31,4 +31,4 @@ Though they can both be a source of contention in real estate transactions, appr
 
 3:42 — Appraisal costs are regulated, and appraisers don’t keep all the money&nbsp;
 
-4:45 — General inspection costs vs. secondary inspections (e.g., pool or radon inspections)<br>&nbsp;<br>As always, reach out if you have any questions about this or any other real estate topic. I’m happy to be a resource for you and assist with whatever buying, selling, or investing needs you may have.
+4:45 — General inspection costs versus secondary inspections (e.g., pool or radon inspections)<br>&nbsp;<br>As always, reach out if you have any questions about this or any other real estate topic. I’m happy to be a resource for you and assist with whatever buying, selling, or investing needs you may have.
