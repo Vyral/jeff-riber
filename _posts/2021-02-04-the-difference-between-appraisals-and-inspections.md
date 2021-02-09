@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dissecting 2 Key Components of a Transaction
+title: The Difference Between Appraisals and Inspections
 date: 2021-02-04 18:13:00
 tags:
   - Real Estate
@@ -17,7 +17,7 @@ youtube_code: PZbXAZ4AlA0
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here are the main differences between an appraisal and a home inspection.</em></p>
+*Here are the main differences between an appraisal and a home inspection.*
 
 Though they can both be a source of contention in real estate transactions, appraisals and inspections are two very different things.
 
