@@ -17,7 +17,7 @@ youtube_code: PZbXAZ4AlA0
 
 {% include youtube.html %}
 
-*Here are the main differences between an appraisal and a home inspection.*
+<p style="text-align: center;"><em>Here are the main differences between an appraisal and a home inspection.</em></p>
 
 Though they can both be a source of contention in real estate transactions, appraisals and inspections are two very different things.
 
