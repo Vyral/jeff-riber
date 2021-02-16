@@ -7,7 +7,7 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from ERA Real Estate - your professional Jacksonville Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Jeff Riber</managingEditor>
-    <lastBuildDate>2021-01-18 13:46:37 -0600</lastBuildDate>
+    <lastBuildDate>2021-02-16 09:38:50 -0600</lastBuildDate>
     <media:copyright>Jeff Riber</media:copyright>
     <media:thumbnail url="http://localhost:4000/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Jacksonville, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
@@ -25,27 +25,72 @@
       <itunes:category text="Education"/>
     
       <item>
-        <title>Want a More Comprehensive Look at the Market?</title>
-        <link>http://localhost:4000/want-a-more-comprehensive-look-at-the-market.html</link>
+        <title>The Difference Between Appraisals and Inspections</title>
+        <link>http://localhost:4000/the-difference-between-appraisals-and-inspections.html</link>
         
           <category>Real Estate</category>
         
         <author>Jeff Riber</author>
-        <pubDate>2021-01-14 10:28:53 -0600</pubDate>
+        <pubDate>2021-02-04 12:13:00 -0600</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Jeff+Riber/2021/Dissecting+Two+Key+Components+of+a+Transaction.mp4</guid>
+        <description>
+
+Here are the main differences between an appraisal and a home inspection.
+
+Though they can both be a source of contention in real estate transactions, appraisals and inspections are two very different things.
+
+The best way to differentiate between the two is to ask a few basic questions about each: Who is it for, why is it being done, and how much does it cost? Today I’m answering these questions so that you can better understand why appraisals and inspections exist in the first place.
+
+Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to skip to topics that interest you most:
+
+0:22 — Appraisals are for the lender; home inspections are for the buyer
+
+1:30 — The purpose of appraisals and why appraisal management companies exist
+
+2:42 — Inspections afford buyers a comprehensive understanding of a property’s condition
+
+3:42 — Appraisal costs are regulated, and appraisers don’t keep all the money
+
+4:45 — General inspection costs versus secondary inspections (e.g., pool or radon inspections)
+
+As always, reach out if you have any questions about this or any other real estate topic. I’m happy to be a resource for you and assist with whatever buying, selling, or investing needs you may have.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Jeff+Riber/2021/Dissecting+Two+Key+Components+of+a+Transaction.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Jeff+Riber/2021/Dissecting+Two+Key+Components+of+a+Transaction.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Here are the main differences between an appraisal and a home inspection.</itunes:subtitle>
+        <itunes:author>Jeff Riber</itunes:author>
+        <itunes:summary>Here are the main differences between an appraisal and a home inspection.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Jacksonville, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Are Houses Really More Expensive Right Now?</title>
+        <link>http://localhost:4000/are-houses-really-more-expensive-right-now.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Jeff Riber</author>
+        <pubDate>2021-01-14 10:28:00 -0600</pubDate>
         <guid>https://vyralmarketing.s3.amazonaws.com/Jeff+Riber/2021/Want+a+More+Comprehensive+Look+at+the+Market_.mp4</guid>
         <description>
 
 Here’s why the Housing Affordability Index is a great tool for buyers.
 
-One of the questions that I field on an almost daily basis is, “When is the right time to make a move in the market?” There’s no objectively superior time to buy or sell in the market; it’s more a question of, “When is the right time for me?” Perhaps you’re downsizing because the kids have left the nest, upgrading because your young family is growing, or you’re just ready for a change. As your Realtor, I can’t help you with any of those personal decisions, but there’s one important thing I can give you to inform those decisions. 
+Have you thought about making a move recently because your house value has gone through the roof (pun intended)?  Only to realize, you have to buy something else and that next house is more expensive too.  
 
-Every month, the National Association of Realtors puts out a report called the Housing Affordability Index (HAI). In addition to factoring in the current median price of single-family homes, it accounts for mortgage interest rates and median income, as well as qualifying income, which is basically a measure of what mortgage companies are requiring of borrowers these days. Therefore, the HAI provides us with a more holistic view of what’s going on in the real estate market and helps homebuyers understand their true purchasing power. 
+The only way to really know if you “timed” the market right is with hindsight.  And, hindsight takes time!
 
-I always keep up with this report because it offers some incredibly useful information. At 1:35 in the video above, you’ll be able to see an example of this index (for simplicity’s sake, we’ll be checking out the national numbers, as our local Jacksonville market would require more data points). The higher the affordability index value, the more purchasing power consumers have in the real estate market. The lowest this index ever got was back in 2006 when it hit just above 100 nationally. That meant it was particularly difficult for people to purchase a home at a median price point based on incomes because prices were quite high but interest rates weren’t helping anyone. 
+What would be nice is a tool that measures more than just the median price of housing.  More even than historic prices of particular houses.  Enter, The Housing Affordability Index.
+
+Every month, the National Association of Realtors puts out a report called the Housing Affordability Index (HAI). In addition to factoring in the current median price of single-family homes, it accounts for mortgage interest rates and median income, as well as qualifying income, which is basically a measure of what mortgage companies require of borrowers. Therefore, the HAI provides us with a more holistic view of what’s going on in the real estate market and helps homebuyers understand their true purchasing power.
+
+I always keep up with this report because it offers some incredibly useful information. At 1:35 in the video above, you’ll be able to see an example of this index (for simplicity’s sake, we’ll be checking out the national numbers, as our local Jacksonville market would require a lot more digging). The higher the affordability index number, the more purchasing power consumers have in the real estate market. The lowest this index ever got was back in 2006 when it hit just above 100 nationally. That meant it was particularly difficult for people to purchase a home at a median price point based on incomes because prices were quite high and interest rates were too.
 
 “The HAI provides us with a more holistic view of what’s going on in the real estate market.”
 
-On the other hand, the highest this index ever got was in 2013, when it topped out at 210 or so—a phenomenal time to be a homebuyer. A comparison of the data from 2017 through 2020 reveals that homes haven’t become all that much more affordable despite historic drops in the interest rates. (In October 2020, the last month for which we have complete data, the index stood at 167.2, as compared to 157.9 in 2017). There is a shortage of inventory in most markets but demand remains high thanks to low interest rates; consequently, prices just keep rising, which has, in turn, kept the home affordability index from going up by a larger degree. 
+On the other hand, the highest this index ever got was in 2013, when it topped out at 210 or so—a phenomenal time to be a homebuyer. A comparison of the data from 2017 through 2020 reveals that home affordability has remained relatively stable even with rising home prices. In October 2020, the last month for which we have complete data, the index stood at 167.2, as compared to 157.9 in 2017. There is a shortage of inventory in most markets but demand remains high thanks to low interest rates; consequently, prices just keep rising, which has, in turn, kept the home affordability index from going up by a larger degree.
 
 The market has a funny way of balancing out all of these complex, interconnected variables. While the HAI has certainly changed over the past few years, those changes have not been dramatic.
 
