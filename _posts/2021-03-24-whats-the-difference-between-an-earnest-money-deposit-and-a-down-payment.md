@@ -5,7 +5,8 @@ date: 2021-03-24 13:09:00
 tags:
   - Real Estate
 excerpt: Here’s the difference between earnest money deposits and down payments.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.undefined/Jeff+Riber/2021/What's+the+Difference+Between+an+Earnest+Money+Deposit+and+a+Down+Payment_.mp4
 pullquote: >-
   Your down payment represents the initial equity you have in your house when
   you purchase it.
