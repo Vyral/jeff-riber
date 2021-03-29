@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What's the Difference between an Earnest Money Deposit and a Down Payment?
+title: What's the Difference Between an Earnest Money Deposit and a Down Payment?
 date: 2021-03-24 13:09:00
 tags:
   - Real Estate
