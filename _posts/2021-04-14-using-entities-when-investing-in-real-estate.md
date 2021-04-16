@@ -5,7 +5,8 @@ date: 2021-04-14 17:32:00
 tags:
   - Real Estate
 excerpt: Legal expert Rich Brooks is here to talk about entity structures.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jeff+Riber/2021/Using+Entities+When+Investing+in+Real+Estate.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
