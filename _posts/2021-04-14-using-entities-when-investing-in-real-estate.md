@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Using Entities When Investing in Real Estate
-date: 2021-04-14 17:32:19
+date: 2021-04-14 17:32:00
 tags:
   - Real Estate
 excerpt: Legal expert Rich Brooks is here to talk about entity structures.
@@ -39,6 +39,4 @@ In today’s video, I sat down to have a conversation with Rich Brooks, the foun
 
 13:32—Wrapping up our discussion
 
-If you would like to reach out to Rich about your investment opportunities, contact him at (904) 990-7777 or **visit**[**www.staugustinelawgroup.com**](http://www.staugustinelawgroup.com){: target="_blank" rel="noopener"}**.**
-
-For any real estate thoughts, concerns, or questions you have, don’t hesitate to reach out to us at ERA Heavener Realty. We’d love to speak with you.
+If you would like to reach out to Rich about your investment opportunities, contact him at (904) 990-7777 or **visit&nbsp;**[**www.staugustinelawgroup.com**](http://www.staugustinelawgroup.com){: target="_blank" rel="noopener"}**.**&nbsp;For any real estate thoughts, concerns, or questions you have, don’t hesitate to reach out to us at ERA Heavener Realty. We’d love to speak with you.
