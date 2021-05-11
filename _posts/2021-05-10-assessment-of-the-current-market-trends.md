@@ -27,8 +27,10 @@ Even if you don't own a house, you've probably wondered when this current real e
 
 {% include pullquote.html %}
 
-**3\. Interest rates.** Over the last 35 to 40 years, interest rates have been on a steady decline. Today we're hovering around or below 3%. This is as low as rates have ever been.
+**3\. Interest rates.** Over the last 35 to 40 years, interest rates have been on a steady decline. Today they're hovering around or below 3%. This is as low as rates have ever been.
 
-**4\. New construction.** Today, we have more population and less construction happening. Only about 500,000 new homes were built per month. Back in the mid 1970s, around 2.5 million new homes were built per month. There's not much available for sale in the existing home category either.
+**4\. New construction.** &nbsp;Today we have a larger population and less new construction happening. For example, between 2011 and 2012 there were about 500,000 new homes being built per month. Back in the mid-1970s, around 2.5 million new homes were built per month. There's not much available for sale in the existing home category either.
 
-With all of these factors in play, unless something crazy happens with interest rates or new home inventory coming on the market, we're going to see a hot seller's market for the next six to 12 months. I think that we will get back to a balanced market eventually, but that's just not going to happen tomorrow. I hope this was helpful. If you have any questions about it or how it applies to a home you're thinking about selling or buying, I'd love to hear from you. Contact me at 904-405-1995 or jeff@era.com. Talk to you soon.
+With all of these factors in play, unless something crazy happens with interest rates or new home inventory coming on the market, we're going to see a hot seller's market for the next six to 12 months. I think that we will get back to a balanced market eventually, but that's just not going to happen tomorrow.
+
+I hope this was helpful. If you have any questions about it or how it applies to a home you're thinking about selling or buying, I'd love to hear from you. Contact me at 904-405-1995 or jeff@era.com. Talk to you soon.
