@@ -5,7 +5,8 @@ date: 2021-06-16 12:17:00
 tags:
   - Local
 excerpt: Here are my tips for the new homeowners coming to live in Florida.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jeff+Riber/2021/Hurricane+Season+Preparedness.mp4
 pullquote: Hurricane season is here.
 enclosure_type: video/mp4
 enclosure_time:
