@@ -29,6 +29,6 @@ If you're a buyer that's getting financing, how can you make your offer more att
 
 {% include pullquote.html %}
 
-**The seller wants everything accomplished on their timeline.** They likely want to close on a particular date because of the stress and hassle of moving. Sellers appreciate giving them a few days after closing to move out.
+**The seller wants everything accomplished on their timeline.** They likely want to close on a particular date because of the stress and hassle of moving. Sellers appreciate you giving them a few days after closing to move.
 
 If you have any real estate questions at all, feel free to reach out to me and my team. We’re here to help you.
