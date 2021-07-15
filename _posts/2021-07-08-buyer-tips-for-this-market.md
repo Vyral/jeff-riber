@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/jeff-riber-how-buyers-can-win-yt.jpg
-youtube_code: v9FNNhHCIRY
+youtube_code: a57T81Xa_Xc
 ---
 {% include youtube.html %}
 
@@ -25,7 +25,7 @@ For as long as real estate has been bought and sold, sellers have wanted three t
 
 Ideally, sellers want their highest-priced offer to be a cash offer. However, only 25% of transactions in our MLS over the past year have been cash deals.&nbsp;
 
-If you're a buyer that's getting financing, how can you make your offer more attractive to a seller? You could waive your appraisal contingency or even add verbiage to the agreement that shows your willingness to cover an appraisal gap.
+If you're a buyer that's getting financing, how can you make your offer more attractive to a seller? You could waive your appraisal contingency or even add verbiage to the agreement that shows your willingness to cover an appraisal gap. This will reassure the seller that you are doing what you can to offer as few headaches as possible.
 
 {% include pullquote.html %}
 
