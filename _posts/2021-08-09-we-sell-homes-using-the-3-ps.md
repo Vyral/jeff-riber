@@ -18,7 +18,7 @@ youtube_code: qQtQ8IM6pO0
 
 {% include excerpt.html %}
 
-When you’re selling in this market, you have more options than you’ve ever had before. Today I’m bringing some clarity to the options you have, some insight into how we operate as a real estate brokerage, and inviting all of your feedback along the way.
+When you’re selling in this market, you have more options than you’ve ever had before. Today I’m bringing clarity to the options you have, sharing some insight into how we operate as a real estate brokerage, and inviting all of your feedback along the way.
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message, or use these timestamps to browse specific topics at your leisure:**
 
@@ -26,7 +26,7 @@ When you’re selling in this market, you have more options than you’ve ever h
 
 1:45 — A breakdown of fees from iBuyer Opendoor
 
-2:20 — The three P’s of selling a home
+2:20 — The three p’s of selling a home
 
 3:00 — How we turn average homes into great products
 
