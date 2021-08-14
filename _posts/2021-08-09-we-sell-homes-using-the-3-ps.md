@@ -5,6 +5,7 @@ date: 2021-08-09 00:00:00
 tags:
   - Real Estate
   - Market Update
+  - Home Seller Tips
 excerpt: Here’s what you need to know to successfully sell your home this year.
 enclosure:
 pullquote:
