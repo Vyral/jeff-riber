@@ -11,7 +11,7 @@ pullquote: Now is the time to act to contest your property’s valuation.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /taxes-email.jpg
+youtube_alternate_image: /jeff-riber-ss-recovered-youtube.jpg
 youtube_code: TJNSgj5Uu4E
 ---
 {% include youtube.html %}
@@ -20,7 +20,7 @@ youtube_code: TJNSgj5Uu4E
 
 If you’re wondering how to save money on your property taxes, there are a couple of ways to do so.
 
-First, **you could always let someone else do it.** There are several companies (<u><a target="_blank" rel="noopener" href="https://www.firstcoastconsultants.com/">First Coast Consultants</a>,</u>&nbsp;[Property Tax Professionals,]( https://www.lowpropertytax.com/) for example) dedicated to helping you lower your property taxes. Their primary focus is larger commercial properties, but they can help you as well, provided you’re willing to pay a fee.
+First, **you could always let someone else do it.** There are several companies (<u><a target="_blank" rel="noopener" href="https://www.firstcoastconsultants.com/">First Coast Consultants</a>,</u>&nbsp;[Property Tax Professionals,](https://www.lowpropertytax.com/) for example) dedicated to helping you lower your property taxes. Their primary focus is larger commercial properties, but they can help you as well, provided you’re willing to pay a fee.
 
 Second, **establish that you have a discrepancy.** If you can prove that the county is assessing your property for more than it’s worth, and thus charging you more in taxes than what you should be paying, then they’ll lower the value—and by extension, your taxes. If you decide on this option, give me a call; I’d be happy to craft a market analysis to help you state your case.
 
