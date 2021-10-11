@@ -17,16 +17,16 @@ youtube_code: LRJATOQ4C_A
 
 {% include excerpt.html %}
 
-Have you bought or sold a home and wondered, "what is a real estate brokerage transaction fee?" Do I really have to pay this extra fee? Today I'll be answering all of these questions.
+Today we're going to take a break from hard-hitting real estate information and instead look at my top five favorite healthy lunch spots.
 
-Real estate brokerage transaction fees have been around for a while; they’re extra fees at an office level. For example, a real estate office might decide that for all transactions, they’ll charge a certain transaction fee. Typically, it’s for administrative items, marketing, document storage, and other costs of these types that the office is incurring. If the real estate agent doesn’t charge the client this fee, they’ll have to pay it themselves. These fees can range anywhere from $150 to as high as $1,200 (which is crazy), but usually, it’s within the $200 to $300 range.
+**1\. Whole Foods.** I like their combination salad and hot bar. For $10.99 per pound, you can get a great salad and add chicken and veggies to make a complete lunch.
 
-We at ERA Heavener Realty do not charge a real estate brokerage transaction fee, so I’m a little biased against them. However, I wanted to share this information with you so that if you’re in a real estate transaction in the future with another group, you know what they are.
+**2\. Kairos.** It's in the shopping center north of Beach Boulevard. They have a lot of great stuff on the menu, but I love their quesadilla.
 
-{% include pullquote.html %}
+**3\. Juice Tap.** They have tasty salads and juices that are also budget-conscious. My favorite is the veggie-filled greek salad.
 
-So, do you have to pay these fees? I use this phrase often, and it applies here: **Everything in real estate is negotiable.** So if you’re in a transaction and being charged these fees, you can certainly go to the agent or brokerage and say you don’t want to pay it. They may say you have to in order to work with them, but it’s your decision as to whether you continue working with them or not.
+**4\. Southern Roots Filling Station.** If you're in the Riverside Avondale area, check out this vegan restaurant. My favorite item they have is their quinoa and avocado protein bowl.
 
-This fee should be disclosed to you by your agent before buying or selling a home. At 2:40 in the video above, you can see an example of what this fee looks like on your settlement statement.
+**5\. True Food.** This is a slightly more formal lunch gathering spot in the town center. My favorite item is the turkey burger.
 
-If you have questions about this fee, even if you’re in the middle of a transaction with another company, by all means, I’m happy to help and can talk you through how to handle it. Call or shoot me an email if you want to discuss transaction fees or any other real estate matter. I look forward to catching up with you.
+If you know a healthy lunch spot, I would love to hear it so that I can put it in our lunch rotation. If you have any real estate questions, reach out to 904-405-1995 or [jeff@era.com](mailto:jeff@era.com). I look forward to hearing from you.
