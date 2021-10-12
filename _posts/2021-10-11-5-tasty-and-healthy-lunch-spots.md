@@ -4,7 +4,7 @@ title: 5 Tasty and Healthy Lunch Spots
 date: 2021-10-11 12:00:00
 tags:
   - Real Estate
-excerpt: Here are my top 5 spots to get a lunch that’s tasty but also healthy.
+excerpt: Here are my top five spots to get a lunch that’s tasty but also healthy.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
@@ -29,4 +29,4 @@ Today we're going to take a break from hard-hitting real estate information and 
 
 **5\. True Food.** This is a slightly more formal lunch gathering spot in the town center. My favorite item is the turkey burger.
 
-If you know a healthy lunch spot, I would love to hear it so that I can put it in our lunch rotation. If you have any real estate questions, reach out to 904-405-1995 or [jeff@era.com](mailto:jeff@era.com). I look forward to hearing from you.
+If you know a healthy lunch spot, I would love to hear it so that I can put it in our rotation. If you have any real estate questions, reach out to 904-405-1995 or [jeff@era.com](mailto:jeff@era.com). I look forward to hearing from you.
