@@ -22,7 +22,7 @@ youtube_code: czNr45RZvkU
 
 What are CDD fees? How do they get paid? How should we think about them? Today I’ll answer all three of these questions for you.
 
-**CDD stands for Community Development District.** When a developer comes into an area and decides to put single-family houses in a large tract of land, the cost of working on all the sewer lines, electrical, roads, and other related infrastructure can be extreme. To help with this, some developers get financing for the development and then they create an individual lien against each property or lot. That way, when they later sell the lot with a house to a homeowner, that homeowner inherits the debt and begins to pay it like the developer was prior to selling it.
+**CDD stands for Community Development District.** When a developer comes into an area and decides to put single-family houses in a large tract of land, the cost of working on all the sewer lines, electrical, roads, and other related infrastructure can be extreme. To help with this, some developers get financing for the development and create an individual lien against each property or lot. That way, when they later sell the lot with a house to a homeowner, that homeowner inherits the debt and begins to pay it like the developer was prior to selling it.
 
 {% include pullquote.html %}
 
