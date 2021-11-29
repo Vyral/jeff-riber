@@ -83,7 +83,7 @@ forms:
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: >-
-    https://cloudcma.com/api_widget/daffc9a33185b465338f170237cc9dc7/show?post_url=cloudcma.com&source_url=ua
+    https://www.era.com/home-value-estimates?src=selling-a-house
   second_CTA_text: Home Search
   second_CTA_URL: 'https://www.era.com/agent/jeff@era.com'
 sidebar_CTA:
