@@ -13,8 +13,8 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/jeff-riber-ss-youtube-4.jpg
-youtube_code: czNr45RZvkU
+youtube_alternate_image: /uploads/jeff-riber-ss-youtube.jpg
+youtube_code: EaICSCvGQbg
 ---
 {% include youtube.html %}
 
@@ -31,3 +31,5 @@ Typically you can find your CDD fees on your tax bill as a separate line item fr
 Around 10 years ago, there was pushback against CDD fees, but now, people realize the benefits of living in a community with a CDD fee attached. CDD fees can be broken down into monthly figures, which allows you to figure out if you think it’d be worthwhile to live in a different community without such fees. Is the money you’d save worth it to live in a community without the amenities?
 
 If you have other questions about CDD fees or anything to do with real estate, feel free to reach out to us via phone or email. We’d love to chat with you.
+
+To find info on a particular CDD, you can visit&nbsp;[https://www.govmgtsvc.com/contact](https://www.govmgtsvc.com/contact){: target="_blank" rel="noopener"}.
