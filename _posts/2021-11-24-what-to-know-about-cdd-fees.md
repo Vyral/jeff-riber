@@ -5,7 +5,8 @@ date: 2021-11-24 12:00:00
 tags:
   - Real Estate
 excerpt: Here’s what you need to know about CDD fees and how they’re paid.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jeff+Riber/2021/What+To+Know+About+CDD+Fees.mp4
 pullquote: >-
   CDD fees can be broken down into monthly figures, which allows you to figure
   out if you think it’d be worthwhile to live in a different community without
