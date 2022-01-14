@@ -5,7 +5,8 @@ date: 2022-01-10 17:34:17
 tags:
   - Market Update
 excerpt: Here’s what we can say about the future of Jacksonville’s market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jeff+Riber/2021/2022/What+Does+The+Future+of+Our+Market+Look+Like_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
