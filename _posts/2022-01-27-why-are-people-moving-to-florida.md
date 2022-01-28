@@ -17,7 +17,7 @@ youtube_code: QQDXfn1F-Q0
 
 {% include excerpt.html %}
 
-Today I’m speaking with a great guest, Paul Anderson of [https://movingtofloridaguide.com/](https://movingtofloridaguide.com/). There’s been a ton of migration to Florida recently, so I figured I’d bring on an expert on the topic. Paul has tons of experience helping people move to Florida, so I’ll pick his brain about why he started doing what he does, the current state of migration, and what it all means for the future of our state.&nbsp;
+Today I’m speaking with a great guest, Paul Anderson of MovingtoFloridaGuide.com. There’s been a ton of migration to Florida recently, so I figured I’d bring in an expert on the topic. Paul has tons of experience helping people move to Florida, so I’ll pick his brain about why he started doing what he does, the current state of migration, and what it all means for the future of our state.&nbsp;
 
 **You can listen to our full conversation in the video above, or you can skip to each topic using the timestamps provided:**
 
