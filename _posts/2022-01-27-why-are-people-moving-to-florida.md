@@ -5,7 +5,8 @@ date: 2022-01-27 00:00:00
 tags:
   - Real Estate
 excerpt: Paul Anderson and I discuss why so many people are moving to Florida.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jeff+Riber/Why+Are+People+Moving+to+Florida_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
