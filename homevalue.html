@@ -3,5 +3,13 @@ layout: default
 title: Home Evaluation
 permalink: /homevalue/
 ---
-
-{% include eval-form.html %}
+<div id="moxi_nn_container"></div>
+<script type="text/javascript" src="https://engage.era.com/assets/neighborhood_news/signup-widget.js"></script>
+<script>
+var neighborhoodNewsOptions = {
+agent_uuid: "8b24c2b7-e6f1-4d57-bb22-12d381133038",
+service_url: "https://engage.era.com",
+report_container_id: "moxi_nn_container"
+};
+new NeighborhoodNews.SignupWidget(neighborhoodNewsOptions);
+</script>
