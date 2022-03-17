@@ -30,7 +30,7 @@ description: >-
 
 
   In addition to real estate, I love traveling with my wife to cool places,
-  hanging out with our little ones (Anniston, Miles, Ava, Lily, and Leighton), 
+  hanging out with our little ones (Anniston, Miles, Ava, Lily, and Leighton),
   and playing basketball (even though I have lost a step... Or, two).
 show_custom_links: true
 custom_links:
@@ -83,7 +83,7 @@ forms:
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: >-
-    https://www.era.com/home-value-estimates?src=selling-a-house
+    https://engage.era.com/neighborhood_news/page?agent_uuid=8b24c2b7-e6f1-4d57-bb22-12d381133038&status=active&days=30&from_email=false&ptype=1%2C2%2C3%2C4%2C5%2C7%2C9
   second_CTA_text: Home Search
   second_CTA_URL: 'https://www.era.com/agent/jeff@era.com'
 sidebar_CTA:
@@ -94,7 +94,7 @@ sidebar_CTA:
       prices in your neighborhood? We can help you.
     CTA_link_text: Free Home Value Report
     CTA_url: >-
-      https://www.era.com/home-value-estimates?src=selling-a-house
+      https://engage.era.com/neighborhood_news/page?agent_uuid=8b24c2b7-e6f1-4d57-bb22-12d381133038&status=active&days=30&from_email=false&ptype=1%2C2%2C3%2C4%2C5%2C7%2C9
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: Looking for a Jacksonville Home?
