@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 6 Opportunities To Stretch Your Legs This Spring
+title: Opportunities To Stretch Your Legs This Spring
 date: 2022-03-24 16:37:11
 tags:
   - Real Estate
