@@ -4,7 +4,7 @@ title: Opportunities To Stretch Your Legs This Spring
 date: 2022-03-24 16:37:11
 tags:
   - Real Estate
-excerpt: Take advantage of this spring weather by visiting these six walking trails.
+excerpt: Take advantage of this spring weather by visiting these walking trails.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Jeff+Riber/Opportunities+To+Stretch+Your+Legs+This+Spring.mp4
 pullquote: >-
