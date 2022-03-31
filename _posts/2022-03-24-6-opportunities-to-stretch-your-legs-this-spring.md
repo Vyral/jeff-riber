@@ -12,8 +12,8 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/jeff-riber-ss-youtube-3.jpg
-youtube_code: 5ZGALJBhfCA
+youtube_alternate_image: /uploads/jeff-riber-ss-youtube-5.jpg
+youtube_code: dNnHQsrUZHo
 ---
 {% include youtube.html %}
 
