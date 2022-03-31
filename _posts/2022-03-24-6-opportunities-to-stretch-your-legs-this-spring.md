@@ -5,7 +5,8 @@ date: 2022-03-24 16:37:11
 tags:
   - Real Estate
 excerpt: Take advantage of this spring weather by visiting these six walking trails.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jeff+Riber/Opportunities+To+Stretch+Your+Legs+This+Spring.mp4
 pullquote: >-
   Walking is a great way to take advantage of the weather and to connect with
   nature.
