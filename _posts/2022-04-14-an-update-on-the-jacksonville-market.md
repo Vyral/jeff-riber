@@ -17,7 +17,7 @@ youtube_code: T1N9xAJ2_20
 
 {% include excerpt.html %}
 
-Recently, “60 Minutes” aired a piece on the Jacksonville real estate market. I don’t view the news often, but after multiple people sent the clip to me, I decided to give it a watch. It focused largely on the challenge of rising rents and home prices in Jacksonville, including what’s behind those trends and what you can do about it. Today I’ll share highlights from the clip and discuss what you need to know about today’s market.
+Recently, “60 Minutes” aired a piece on the Jacksonville real estate market. I don’t watch the news often, but after multiple people sent the clip to me, I decided to give it a listen. It focused largely on the challenge of rising rents and home prices in Jacksonville, including what’s behind those trends and what you can do about it. Today I’ll share highlights from the clip and discuss what you need to know about today’s market.
 
 **Feel free to follow the conversation in the video above or use the timestamps below to navigate the topic at your leisure:**
 
