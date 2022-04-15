@@ -17,7 +17,7 @@ youtube_code: T1N9xAJ2_20
 
 {% include excerpt.html %}
 
-Recently, “60 Minutes” aired a piece on the Jacksonville real estate market. I don’t view the news often, but after multiple people sent the clip to me, I decided to give it a watch. It focused largely on the challenge of rising rents and home prices in Jacksonville, including what’s behind those trends and what you can do about it. Today I’ll share the highlights from the clip and discuss what you need to know about today’s market.
+Recently, “60 Minutes” aired a piece on the Jacksonville real estate market. I don’t view the news often, but after multiple people sent the clip to me, I decided to give it a watch. It focused largely on the challenge of rising rents and home prices in Jacksonville, including what’s behind those trends and what you can do about it. Today I’ll share highlights from the clip and discuss what you need to know about today’s market.
 
 **Feel free to follow the conversation in the video above or use the timestamps below to navigate the topic at your leisure:**
 
@@ -35,4 +35,4 @@ Recently, “60 Minutes” aired a piece on the Jacksonville real estate market.
 
 8:19 — Wrapping up
 
-[<u>Click here</u>](https://www.cbsnews.com/video/rising-rent-prices-60-minutes-video-2022-03-20/){: target="_blank" rel="noopener"}to watch the full “60 Minutes” piece yourself. If you have any questions about what’s happening in the market or how it affects your real estate prospects, don’t hesitate to give my team a call or send an email. We’d love to hear from you.
+[<u>Click here</u>](https://www.cbsnews.com/video/rising-rent-prices-60-minutes-video-2022-03-20/){: target="_blank" rel="noopener"}&nbsp;to watch the full “60 Minutes” piece yourself. If you have any questions about what’s happening in the market or how it affects your real estate prospects, don’t hesitate to give my team a call or send an email. We’d love to hear from you.
