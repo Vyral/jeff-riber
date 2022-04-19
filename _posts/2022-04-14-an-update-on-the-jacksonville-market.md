@@ -27,7 +27,7 @@ Recently, “60 Minutes” aired a piece on the Jacksonville real estate market.
 
 2:00 — The impact of the Federal Reserve flooding the market with trillions of dollars in 2020
 
-4:20 — The big gap between Jacksonville’s housing prices, income growth, and inflation
+4:20 — [The big gap between Jacksonville’s housing prices, income growth, and inflation](https://www.bizjournals.com/jacksonville/news/2022/04/04/data-big-gap-between-jax-housing-prices-income-g.html){: target="_blank" rel="noopener"}
 
 5:27 — What can you do about changing home affordability?
 
