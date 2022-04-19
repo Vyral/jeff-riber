@@ -5,7 +5,8 @@ date: 2022-04-14 17:38:55
 tags:
   - Market Update
 excerpt: A few highlights from a “60 Minutes” piece on the Jacksonville market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jeff+Riber/An+Update+on+the+Jacksonville+Market.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
