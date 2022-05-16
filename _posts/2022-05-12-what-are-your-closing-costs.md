@@ -16,7 +16,7 @@ youtube_code: uUz-hHzc8DM
 
 {% include excerpt.html %}
 
-Whether you’re selling or buying, there are more costs involved than just the house. Who pays for what, and how much do these things cost? Both sellers and buyers have their own list of costs. Some of these costs change based on the state, and others could be negotiated in the contract. Today I’ll talk about the key ones you should know.
+Whether you’re selling or buying, there are more costs involved in a real estate transaction than just the house. Who pays for what, and how much do these things cost? Both sellers and buyers have their own list of costs. Some of these costs change based on the state, and others could be negotiated in the contract. Today I’ll talk about the key ones you should know.
 
 **You can watch the full video above, or skip to each section using the timestamps provided:**
 
