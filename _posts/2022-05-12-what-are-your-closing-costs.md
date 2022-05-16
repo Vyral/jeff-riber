@@ -16,20 +16,39 @@ youtube_code: uUz-hHzc8DM
 
 {% include excerpt.html %}
 
-Whether you’re selling or buying, there are more costs involved in a real estate transaction than just the house. Who pays for what, and how much do these things cost? Both sellers and buyers have their own list of costs. Some of these costs change based on the state, and others could be negotiated in the contract. Today I’ll talk about the key ones you should know.
+Who pays for which closing costs in a real estate transaction?
 
-**You can watch the full video above, or skip to each section using the timestamps provided:**
+Before I answer that question, a quick reminder: there is no law stating which party has to pay a particular cost. What we’re talking about is the customary costs for a particular location. Different market areas have different customs.
 
-0:00 — Introducing today’s topic
+The following is what’s customary for sellers to pay in Northeast Florida:
 
-0:22 — Why closing costs can vary&nbsp;
+* **Deed stamps:**&nbsp;This state tax constitutes 0.007% of the sale price. It’s a set rate, so there’s no negotiating it.
+* **Owners title insurance policy:**&nbsp;This is also a state-regulated amount that basically provides insurance to the new buyer so that if any issues arise from previous ownership, it’s taken care of by the title insurance company.
+* **Title search:**&nbsp;The title company, in general, will handle the transaction as a whole, including the search and organizing the title insurance policy, which brings me to our next item…
+* **Settlement fee:**&nbsp;This is what the title company charges for doing the work mentioned above and handling the money, which goes from the lender to the seller, and then the seller to their lender, and so on.
+* **Survey fee:**&nbsp;This shows the buyer what they actually own.
 
-1:43 — What a seller typically pays for
+Other costs that are sometimes asked of seller’s to pay include: the&nbsp;***satisfaction of the mortgage***&nbsp;(if they have one) to pay off their existing loan,&nbsp;***courier fees*,&nbsp;*wire fees*, a&nbsp;*home warranty*,&nbsp;*seller paid closing costs on behalf of the buyer***, etc.
 
-2:38 — The typical costs for buyers
+Typically, buyers pay for anything associated with getting financing in Northeast Florida, so if you’re paying cash to purchase your home, your closing costs are minimal (recording fees, wiring fees, etc.). If you’re using financing to purchase though, you’ll be expected to cover several fees in addition to that:
 
-4:21 — What your lender will charge you for the loan
+* **Intangible tax:**&nbsp;This is a tax on getting a mortgage, and it goes toward the state coffers. 0.002 \* the loan amount.
+* **Note stamps:**&nbsp;This is like the deed stamps, except against the amount of the loan just a different amount. 0.0035 \* loan amount.
+* **Mortgagee title insurance policy:**&nbsp;This is similar to the owner’s title insurance policy, except it protects the lender.
+* **Title insurance endorsements:**&nbsp;These are smaller modifications to your title insurance policy that protect you from issues that might arise if you live in a homeowners association or condominium complex, as an example.
+* **Inspection fees:**&nbsp;Whether it’s a general inspection, WDO inspection, pool inspection, etc., these are usually paid outside of the closing.&nbsp;
+* **Mortgage origination charges:**&nbsp;When you borrow money from a bank or mortgage company, this is the fee you pay them for originating your loan.
+* **Appraisal fee:**&nbsp;This is the fee you pay your lender so they can hire an appraiser to substantiate the amount you’re paying for the home.
+* **Mortgage Insurance:**&nbsp;This applies if you’re putting less than 20% down. Depending on the loan type, different terminology is used to describe the same function. &nbsp;On FHA loans it’s MIP (mortgage insurance premium). For a VA loan, this is referred to as a funding fee.
 
-5:34 — Wrapping up
+Other miscellaneous buyer costs can include:
 
-If you’re thinking of making a move or know someone who is, call or email me. I’d love to talk about all the costs involved and some strategies for managing them.
+* ***Home warranty fee***
+* ***Lender’s flood certification***
+* ***Wire fee***
+* ***Municipal lien search fee***
+* ***Estoppel letter fee***
+
+To see a more in-depth description of these costs, follow this link that takes you to&nbsp;[my blog post](https://www.904living.com/selling/what-closing-costs-do-i-pay-when-i-sell-my-home/){: target="_blank"}. Remember, everything in real estate is negotiable—you never know what the other party is willing to pay for&nbsp;**until you ask**.&nbsp;
+
+If you have questions about this or any real estate topic, don’t hesitate to reach out to me. I’d love to help you\!
