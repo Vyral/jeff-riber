@@ -49,6 +49,8 @@ Other miscellaneous buyer costs can include:
 * ***Municipal lien search fee***
 * ***Estoppel letter fee***
 
+I didn't address real estate commissions in this video, but typically sellers will be paying the real estate commission, and here's a quick video on&nbsp;[how real estate agents get paid](https://jacksonvillerealestatevideos.com/a-quick-guide-to-how-real-estate-agents-get-paid.html){: target="_blank" rel="noopener"}.
+
 To see a more in-depth description of these costs, follow this link that takes you to&nbsp;[my blog post](https://www.904living.com/selling/what-closing-costs-do-i-pay-when-i-sell-my-home/){: target="_blank"}. Remember, everything in real estate is negotiable—you never know what the other party is willing to pay for&nbsp;**until you ask**.&nbsp;
 
 If you have questions about this or any real estate topic, don’t hesitate to reach out to me. I’d love to help you\!
