@@ -20,9 +20,9 @@ Did you know that Americans drink 150 billion cups of coffee every year? That wo
 
 **1\.&nbsp;**[**Bold Bean Coffee Roasters.**](https://boldbeancoffee.com/visit-us){: target="_blank" rel="noopener"} This local coffee chain has two locations right now, one on Stockton Street and one on 3rd Street. Both have been around for a while now, and I love their coffee. They’re also a good option for getting high-quality beans in your kitchen. You can order it online and have it shipped to you as well.
 
-**2\.&nbsp;**[**Brass Tacks Coffee Co.**](https://www.brasstackscoffee.com/){: target="_blank" rel="noopener"} They’ve recently moved locations to Southside Boulevard, and they’re a great option if you’re in that south-side area. I find myself there for business appointments a lot. I’ve never taken their grounds home, but they do have food and a great atmosphere. Be warned that it’s a bit tucked away, so you might miss it if you’re not paying attention.&nbsp;
+**2\.&nbsp;**[**Brass Tacks Coffee Co.**](https://www.brasstackscoffee.com/){: target="_blank" rel="noopener"} Located on Southside Boulevard, they’re a great option if you’re in that area. I find myself there for business appointments a lot. I’ve never taken their grounds home, but they do have food and a great atmosphere. Be warned that it’s a bit tucked away, so you might miss it if you’re not paying attention.&nbsp;
 
-**3\.&nbsp;**[**Lucky Goat Coffee Co.**](https://luckygoatcoffee.com/){: target="_blank" rel="noopener"} This is another great south-side option that’s a bit further east. It’s a Tallahassee-based company with a great atmosphere, and their coffee makes for a good cup on the go. It’s located on Beach Boulevard just east of Kernan Street. Just like Brass Tacks, it’s a bit tucked away.
+**3\.&nbsp;**[**Lucky Goat Coffee Co.**](https://luckygoatcoffee.com/){: target="_blank" rel="noopener"} This is another great south-side option that’s a bit further east. It’s a Tallahassee-based company with a great atmosphere, and their coffee makes for a good cup on the go. It’s located on Beach Boulevard just east of Kernan Blvd. Just like Brass Tacks, it’s a bit tucked away.
 
 {% include pullquote.html %}
 
