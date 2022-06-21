@@ -83,9 +83,9 @@ forms:
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: >-
-    https://engage.era.com/neighborhood_news/page?agent_uuid=8b24c2b7-e6f1-4d57-bb22-12d381133038&status=active&days=30&from_email=false&ptype=1%2C2%2C3%2C4%2C5%2C7%2C9
+      https://www.findhomesjacksonville.com/cma/property-valuation/
   second_CTA_text: Home Search
-  second_CTA_URL: 'https://www.era.com/agent/jeff@era.com'
+  second_CTA_URL: 'https://www.findhomesjacksonville.com/buying'
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: What’s Your Jacksonville Home Worth?
@@ -94,13 +94,13 @@ sidebar_CTA:
       prices in your neighborhood? We can help you.
     CTA_link_text: Free Home Value Report
     CTA_url: >-
-      https://engage.era.com/neighborhood_news/page?agent_uuid=8b24c2b7-e6f1-4d57-bb22-12d381133038&status=active&days=30&from_email=false&ptype=1%2C2%2C3%2C4%2C5%2C7%2C9
+      https://www.findhomesjacksonville.com/cma/property-valuation/
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: Looking for a Jacksonville Home?
     CTA_text2: Search the entire MLS for your Jacksonville home.
     CTA_link_text2: Search the MLS
-    CTA_url2: 'https://www.era.com/agent/jeff@era.com'
+    CTA_url2: 'https://www.findhomesjacksonville.com/buying'
 lender:
   show_section: false
   header_text: Preferred Lender
