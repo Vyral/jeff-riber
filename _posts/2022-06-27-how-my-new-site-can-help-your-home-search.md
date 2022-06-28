@@ -16,7 +16,7 @@ youtube_code: xSyQexjaf7g
 
 {% include excerpt.html %}
 
-Today I’m announcing my new website for buyers and sellers in Jacksonville, Florida: [https://www.findhomesjacksonville.com/](https://www.findhomesjacksonville.com/). In the last 15 years of working in real estate, I noticed that buyers flock to websites like Zillow because they’re user friendly. These sites are simple, easy to use, and get you the information you want. However, when you actually want to do something on that site, you have to deal with inaccurate data and get hounded by dozens of real estate agents because the site is selling your data.&nbsp;
+Today I’m announcing my new website for buyers and sellers in Jacksonville, Florida: [FindHomesJacksonville.com](https://www.findhomesjacksonville.com/). In the last 15 years of working in real estate, I noticed that buyers flock to websites like Zillow because they’re user-friendly. These sites are simple, easy to use, and get you the information you want. However, when you actually want to do something on that site, you have to deal with inaccurate data and get hounded by dozens of real estate agents because the site is selling your data.&nbsp;
 
 For almost a year now, I’ve been trying to find a site that doesn’t have these problems. I couldn’t find such a site, so I created one myself. With my new site, the data is phenomenal, and you’ll never get hassled by agents. I’m the only one who can see your information, and while I want to help you when the time is right, I don’t want to bother you when it’s not.
 
