@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/jeff-riber-youtube.jpg
-youtube_code: xSyQexjaf7g
+youtube_code: 0iLEtNvt1Ao
 ---
 {% include youtube.html %}
 
