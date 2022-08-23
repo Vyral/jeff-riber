@@ -21,11 +21,27 @@ How do you find the right contractor? You’ve probably had this problem already
 
 **1\. Ask for referrals.** I would start by asking people you know if they can refer a good contractor. You shouldn’t just take them at their word, but this is still a good place to begin. Ask your friends, family, neighbors, and your Realtor. If you can’t find the right person among their referrals, move to online sources like HomeAdvisor, Thumbtack, and Angie’s List.
 
+Here are some websites to help you locate professionals:
+
+[https://www.homeadvisor.com/](https://www.homeadvisor.com/){: target="_blank"}
+
+[https://www.thumbtack.com/](https://www.thumbtack.com/){: target="_blank"}
+
+[https://www.angieslist.com/](https://www.angieslist.com/){: target="_blank"}
+
 **2\. Vet the best options.** Once you’ve found a few good contractors, you’ll want to do some fact-checking. Make sure they are licensed and insured. Run their name on the permitting website to see what permits they have, and check on Google and Facebook for negative reviews.
 
-{% include pullquote.html %}
+Here are some helpful websites:
+
+[https://apps8.fldfs.com/proofofcoverage/Search.aspx](https://apps8.fldfs.com/proofofcoverage/Search.aspx){: target="_blank"}
+
+[https://buildinginspections.coj.net/](https://buildinginspections.coj.net/){: target="_blank"}
+
+[https://www.myfloridalicense.com/wl11.asp?mode=0&SID=](https://www.myfloridalicense.com/wl11.asp?mode=0&amp;SID=){: target="_blank"}
 
 **3\. Encourage competition between them.** Make the bidding process competitive between the contractors you’ve vetted. This will make sure you get the best possible deal, but it might be harder to do now. There’s still a labor shortage, and a lot of homeowners are doing large projects.&nbsp;
+
+{% include pullquote.html %}
 
 **4\. Don’t pay for the project upfront.** I’ve made this mistake myself a few times. There will always be some upfront cost, but you shouldn’t pay for the whole project before it’s done, especially if you don’t know the contractor personally. Be careful if a contractor pushes to do so.
 
