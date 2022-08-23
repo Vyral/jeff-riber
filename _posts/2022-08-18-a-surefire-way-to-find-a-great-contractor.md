@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/jeff.jpg
-youtube_code: aSHndE0rq7o
+youtube_code: BkcA2LJ9t3s
 ---
 {% include youtube.html %}
 
