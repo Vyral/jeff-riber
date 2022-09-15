@@ -23,9 +23,9 @@ Today I’m speaking with a great friend, Jeremy Martin. He’s an expert on tur
 
 0:00 — Introducing Jeremy and today’s topic
 
-1:52 — How Jeremy got into converting primary residences into rentals
+1:52 — How Jeremy started converting primary residences into rentals
 
-3:02 — How he started to rent out his first property
+3:02 — How he rented out his first property
 
 5:20 — Real estate always appreciates over time
 
