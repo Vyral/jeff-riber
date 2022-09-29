@@ -19,7 +19,9 @@ youtube_code: FQ1iZBhegXE
 
 If you’re thinking about making a move, I might have a loan program that interests you. Today I’m talking with Dan Ribler and his co-worker Amanda from Fiber Mortgage about what this new program entails.
 
-**You can watch the full video above or skip to each section using the timestamps provided:**0:00 — Introducing today’s topic
+**You can watch the full video above or skip to each section using the timestamps provided:**
+
+0:00 — Introducing today’s topic
 
 0:34 — All about Fiber Mortgage<br><br>1:43 — The Fiber Advantage loan program
 
