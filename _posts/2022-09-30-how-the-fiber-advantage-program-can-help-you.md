@@ -21,7 +21,7 @@ If you’re thinking about making a move, I might have a loan program that inter
 
 **You can watch the full video above or skip to each section using the timestamps provided:**0:00 — Introducing today’s topic
 
-0:34 — All about Fiber Mortgage1:43 — The Fiber Advantage loan program
+0:34 — All about Fiber Mortgage<br><br>1:43 — The Fiber Advantage loan program
 
 3:29 — How you can access this program
 
