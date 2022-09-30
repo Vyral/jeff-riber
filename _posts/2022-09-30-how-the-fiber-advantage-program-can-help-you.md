@@ -4,7 +4,7 @@ title: How the Fiber Advantage Program Can Help You
 date: 2022-09-30 07:00:00
 tags:
   - Home Buyer Tips
-excerpt: How the Fiber Advantage Program can help you with your down payment.
+excerpt: How the Fiber Advantage Program can help with your down payment.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
@@ -17,7 +17,7 @@ youtube_code: FQ1iZBhegXE
 
 {% include excerpt.html %}
 
-If you’re thinking about making a move, I might have a loan program that interests you. Today I’m talking with Dan Ribler and his co-worker Amanda from Fiber Mortgage about what this new program entails.
+If you’re thinking about making a move, I might have a loan program that can help you. Today I’m talking with Dan Ribler and his co-worker Amanda from Fiber Mortgage about what this new program entails.
 
 **You can watch the full video above or skip to each section using the timestamps provided:**
 
