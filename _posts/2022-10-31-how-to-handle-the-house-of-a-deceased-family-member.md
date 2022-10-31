@@ -4,7 +4,7 @@ title: How To Handle the House After a Loss
 date: 2022-10-31 07:00:00
 tags:
   - Home Buyer Tips
-excerpt: What you need to know a
+excerpt: What you need to know about housing after a loved one has passed away.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
