@@ -4,13 +4,13 @@ title: How To Handle the House After a Loss
 date: 2022-10-31 07:00:00
 tags:
   - Home Buyer Tips
-excerpt: How the Fiber Advantage Program can help with your down payment.
+excerpt: What you need to know about housing after a loved one has passed away.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/jeff-riber---yt-1.jpg
+youtube_alternate_image: /uploads/jeff-riber---yt-2.jpg
 youtube_code: 93d8JIU9yVI
 ---
 {% include youtube.html %}
