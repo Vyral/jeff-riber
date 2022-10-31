@@ -4,6 +4,7 @@ title: How To Handle the House of a Deceased Family Member
 date: 2022-10-31 00:00:00
 tags:
   - Real Estate
+  - Home Seller Tips
 excerpt: What you need to know about housing after a loved one has passed away.
 enclosure:
 pullquote:
