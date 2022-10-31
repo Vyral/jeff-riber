@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How To Handle the House of a Deceased Family Member
-date: 2022-10-31 00:00:00
+date: 2022-10-28 00:00:00
 tags:
   - Real Estate
   - Home Seller Tips
