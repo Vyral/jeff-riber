@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How To Handle the House of a Deceased Family Member
+title: How To Handle the House After a Loss
 date: 2022-10-31 07:00:00
 tags:
   - Home Buyer Tips
