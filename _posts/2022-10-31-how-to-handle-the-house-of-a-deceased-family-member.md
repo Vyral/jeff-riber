@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How To Handle the House After a Loss
+title: Dealing With the Legal Issues Related to a Loved One’s House
 date: 2022-10-31 07:00:00
 tags:
   - Home Buyer Tips
