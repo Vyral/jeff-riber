@@ -23,7 +23,7 @@ The truth is that it depends on context, specifically, the titling of the deed. 
 
 {% include pullquote.html %}
 
-This can get complicated enough with a personal property, but commercial properties add a whole new layer to the process. Even if a spouse dies and leaves their properties to their partner, the surviving member might not have any idea how to run a commercial property. **In this situation, having a trust is crucial**—it will make selling the properties much easier, so your loved ones won’t have to worry about a huge asset they don’t know how to handle.&nbsp;
+This can get complicated enough with a personal property, but investment properties add a whole new layer to the process. Even if a spouse dies and leaves their properties to their partner, the surviving member might not have any idea how to run a investment property. **In this situation, having a trust is crucial**—it will make selling the properties much easier, so your loved ones won’t have to worry about a huge asset they don’t know how to handle.&nbsp;
 
 If you have a loved one who is sick and may be incapacitated soon, we recommend you talk to them about this issue soon. Many loved ones will try to put the issue off; after all, they have more important things to worry about. However, by the time they seriously start thinking about their will and similar problems, they may be too sick or unwell to sign a contract. **For peace of mind, set up a will or trust long before health problems get serious.&nbsp;**
 
