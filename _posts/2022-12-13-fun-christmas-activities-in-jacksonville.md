@@ -24,6 +24,6 @@ Merry Christmas to you and your family\! Around this time of year, there are a c
 
 **3\. Lights at Blackhawks Buff.** This is a neighborhood in East Arlington famous for its amazing lights. Try not to go on a weekend or too close to Christmas because it will be packed.&nbsp;
 
-**4\. Night of lights.** This is another light extravaganza that takes place in St. Augustine.&nbsp;
+**4\. Night of lights.** This is another light extravaganza that takes place in St. Augustine. Click [here](https://www.floridashistoriccoast.com/nights-lights/){: target="_blank" rel="noopener"}&nbsp;to learn more.
 
 If you’d like to see more events, click [here](https://www.visitjacksonville.com/events/annual/winter-on-the-water/). As always, call or email me with any questions. I look forward to hearing from you\!
