@@ -18,7 +18,7 @@ youtube_code: 3BV6zBLBc7c
 
 Merry Christmas to you and your family\! Around this time of year, there are a couple of things my family loves to do around Jacksonville. Here are just a few:
 
-**1\. Live nativity.** This takes place at a church in Northeast Florida every year, but the specific location is different each time, so you’ll need to do a little research.
+**1\. Live Nativity.** This takes place at a church in Northeast Florida every year, but the specific location is different each time, so you’ll need to do a little research.
 
 **2\. Deck the chairs.** This event takes place at Jacksonville Beach, and it’s always a ton of fun.&nbsp;
 
