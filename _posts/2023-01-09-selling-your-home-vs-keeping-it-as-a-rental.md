@@ -26,6 +26,8 @@ If you are ready to move to a new place, you may be trying to consider whether y
 
 0:35 — The pros of selling your home&nbsp;
 
+If you have a capital gain from the sale of your main home, you may qualify to exclude up to $250,000 of that gain from your income, or up to $500,000 of that gain if you file a joint return with your spouse. Learn more [here](https://www.irs.gov/taxtopics/tc701){: target="_blank" rel="noopener"}.
+
 2:25 — The cons of selling your home&nbsp;
 
 4:16 — The pros of renting out your home&nbsp;
