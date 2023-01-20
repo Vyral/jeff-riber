@@ -27,6 +27,6 @@ I use this service, and the other day I got notifications about a house I was se
 
 You may be wondering why anyone would record a fake deed or a fake anything else against a property. To answer that, you should know that there are scammers out there who record a deed to themselves and then pretend to be the owner, rent the property out and collect the rent on a vacant house. There are others out there who will get all of your Social Security legal information and then pretend to be you and try to refinance or get a mortgage against your house. Those are the types of things we all want to avoid.&nbsp;
 
-How do you get signed up for this service? **It’s very simple.**Just click on one of the links above, scroll down to the property fraud alerts part, agree to the terms of service, and input your name and either an email address or phone number. Then you will be signed up for alerts.&nbsp;
+How do you get signed up for this service? **It’s very simple.&nbsp;**Just click on one of the links above, scroll down to the property fraud alerts part, agree to the terms of service, and input your name and either an email address or phone number. Then you will be signed up for alerts.&nbsp;
 
 I recommend you take the time to do this. It will take you 30 seconds and could save you 30 hours' worth of hassle down the road if something were to happen. Call or email me if you have any questions.
