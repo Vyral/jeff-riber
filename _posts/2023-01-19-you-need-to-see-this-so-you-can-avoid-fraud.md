@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You Need To See This So You Can Avoid Fraud
+title: How to Catch Fraudulent Activity on Real Estate You Own
 date: 2023-01-19 00:00:00
 tags:
   - Real Estate
