@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An Expert Breakdown of the Interest Rate Buydown
+title: A Breakdown of Interest Rate Buydowns
 date: 2023-02-27 00:00:00
 tags:
   - Home Buyer Tips
