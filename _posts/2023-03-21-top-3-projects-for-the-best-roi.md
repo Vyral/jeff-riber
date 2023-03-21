@@ -24,7 +24,7 @@ To answer this question, we have to take into consideration the changes that hap
 
 The National Association of Home Builders (NAHB) identifies home offices as one of the new design trend interests in 2022. In addition, the NAHB found that 85% of buyers want an open layout between the kitchen area and the dining room. Lastly, finishing your basement can increase your ROI by 70%.&nbsp;
 
-**{% include pullquote.html %}**
+{% include pullquote.html %}
 
 **2\. Improve your curb appeal.** One of the best ways to improve your home’s curb appeal is by focusing on your landscaping. Make your home look more enticing by adding healthy plants and blooming flowers to your yard. To make even more of a statement, slap a fresh coat of paint on your house’s exterior. However, not all changes have to be big and grand. Sometimes small details like updating your mailbox and house number will catch the attention of buyers.
 
