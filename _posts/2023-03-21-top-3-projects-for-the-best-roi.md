@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Top 3 Projects for the Best ROI
-date: 2023-03-21 00:00:00
+date: 2023-03-28 00:00:00
 tags:
   - Home Seller Tips
   - Real Estate
@@ -12,9 +12,9 @@ pullquote: >-
   more.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
-youtube_alternate_image: /uploads/jeff-riber-blog-1.jpg
-youtube_code:
+use_youtube_image: true
+youtube_alternate_image: /uploads/jeff-riber-yt-8.jpg
+youtube_code: _Np7rlv_vig
 ---
 When preparing your house for sale, you may be led to believe that the more upgrades you make, the higher the price you can list for. However, not all home upgrades are created equal; some will have you pouring money down the drain, while others will increase your resale value by leaps and bounds. Understanding which projects to take on can help you make thousands of dollars more. So, what home improvements should you do if you want to get a fantastic return on your investment?
 
