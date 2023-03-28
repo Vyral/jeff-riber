@@ -16,6 +16,10 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/jeff-riber-yt-8.jpg
 youtube_code: _Np7rlv_vig
 ---
+{% include youtube.html %}
+
+{% include excerpt.html %}
+
 When preparing your house for sale, you may be led to believe that the more upgrades you make, the higher the price you can list for. However, not all home upgrades are created equal; some will have you pouring money down the drain, while others will increase your resale value by leaps and bounds. Understanding which projects to take on can help you make thousands of dollars more. So, what home improvements should you do if you want to get a fantastic return on your investment?
 
 To answer this question, we have to take into consideration the changes that happened in the past few years. Our homes were recently put through a massive re-evaluation. In response to the pandemic, there are now certain features in a home that have become much more attractive to buyers. If you can include them in your upgrades, you can increase the value of your house and turn it into a coveted property in the market. In particular, there are three projects you’ll want to take on:
