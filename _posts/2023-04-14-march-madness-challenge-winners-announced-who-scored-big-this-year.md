@@ -20,4 +20,4 @@ Today, I am excited to announce the winners of my 2023 March Madness Challenge! 
 
 There’s also another hiccup. I thought I would be able to see participants’ email addresses so I could identify who they were and get them their prize, but unfortunately, that was not the case. The good news is that I know one of the people. However, **if you were “CSS6801262” or “Mitts5038985”, please contact me and I’ll get you your prize!** You can send an email to [jeff@era.com](mailto:jeff@era.com) or call (904) 405-1995.&nbsp;
 
-In addition, if you have any questions or need help with something related to real estate, you can contact me on those outlets as well, I would be happy to help you. And to everyone who participated in my March Madness Challenge—thank you! I’ll be ready to take you on next year.
+In addition, if you have any questions or need help with something related to real estate, you can contact me on those outlets as well; I would be happy to help you. And to everyone who participated in my March Madness Challenge—thank you! I’ll be ready to take you on next year.
