@@ -1,6 +1,8 @@
 ---
 layout: post
-title: 'Buy a Home With Confidence: A Closer Look at Mortgage Assumption'
+title: >-
+  Monthly Savings on Your Next Home Purchase: A Closer Look at Mortgage
+  Assumption
 date: 2023-05-15 00:00:00
 tags:
   - Home Buyer Tips
