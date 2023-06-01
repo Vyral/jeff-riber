@@ -69,7 +69,7 @@ client:
     hanging out with our little ones (Anniston, Miles, Ava, Lily, and Leighton),
     and playing basketball (even though I have lost a step… Or, two).&nbsp;
   market: Jacksonville
-  brand: Pursuit Real Estate
+  brand: ERA Real Estate
   brokerage:
   address: 3725 Dupont Station Ct S, Ste 1<br>Jacksonville, FL 32217
   phone: 904-405-1995
@@ -145,7 +145,7 @@ podcast:
   author: Jeff Riber
 images:
   client_headshot_path: /uploads/newsest-business-card-pic.jpg
-  hero_logo_path: /uploads/pursuit-real-estate-logo-horizontal-v1.png
+  hero_logo_path: /img/logo.png
   logo_width_number: 70
   hero_text:
   hero_background_hex: '#999999'
