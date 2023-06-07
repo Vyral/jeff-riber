@@ -9,9 +9,9 @@ enclosure:
 pullquote: We want to deliver more value to you.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image: /uploads/jeff-riber-yt-13.jpg
-youtube_code: OiK4zXeeZA0
+youtube_code: dIprC1HVGhs
 ---
 {% include youtube.html %}
 
