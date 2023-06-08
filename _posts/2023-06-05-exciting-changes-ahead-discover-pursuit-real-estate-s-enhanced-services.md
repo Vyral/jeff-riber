@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Exciting Changes Ahead: Discover Pursuit Real Estate’s Enhanced Services'
+title: 'Exciting changes ahead: We''re now Pursuit Real Estate!'
 date: 2023-06-05 00:00:00
 tags:
   - Real Estate
