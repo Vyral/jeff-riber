@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/jeff-riber-yt-14.jpg
-youtube_code: VS-N0aZkZc4
+youtube_code: k5tEks2JNeE
 ---
 {% include youtube.html %}
 
