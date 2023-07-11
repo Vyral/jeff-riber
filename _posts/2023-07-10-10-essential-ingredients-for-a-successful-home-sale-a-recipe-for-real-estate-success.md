@@ -19,7 +19,7 @@ youtube_code: VS-N0aZkZc4
 
 {% include excerpt.html %}
 
-Selling a house can be a complex process, much like baking a perfect loaf of bread. Just as a slight variation in a baking recipe can result in a different outcome, the same holds true for selling residential real estate. To ensure you sell your house for the highest possible price within the best timeframe, it is crucial to follow a proven recipe. Drawing from nearly two decades of experience in the real estate industry, we have compiled a list of ten essential ingredients for a successful home sale. Whether you're in the Northeast Florida area or beyond, these tips will help you achieve your selling goals.
+Selling a house can be a complex process, much like baking a perfect loaf of bread. Just as a slight variation in a baking recipe can result in a different outcome, the same is true for selling residential real estate. To ensure you sell your house for the highest possible price within the best timeframe, it is crucial to follow a proven recipe. Drawing from nearly two decades of experience in the real estate industry, we have compiled a list of 10 essential ingredients for a successful home sale. Whether you're in the Northeast Florida area or beyond, these tips will help you achieve your selling goals.
 
 **Feel free to watch the full message above or use these timestamps that will direct you to various points in the video:**
 
@@ -49,4 +49,4 @@ Selling a house can be a complex process, much like baking a perfect loaf of bre
 
 16:42 — Wrapping up
 
-Remember, if you have any questions about getting your home sold quickly for the most money or about real estate in general, please feel free to reach out to me by phone or email. I would be happy to serve as your resource for all of your real estate needs.
+Remember, if you have any questions about getting your home sold quickly for the most money or about real estate in general, please feel free to reach out to me by phone call or email. I would be happy to serve as your resource for all of your real estate needs.
