@@ -19,7 +19,7 @@ youtube_code: k5tEks2JNeE
 
 {% include excerpt.html %}
 
-Selling a house can be a complex process, much like baking a perfect loaf of bread. Just as a slight variation in a baking recipe can result in a different outcome, the same is true for selling residential real estate. To ensure you sell your house for the highest possible price within the best timeframe, it is crucial to follow a proven recipe. Drawing from nearly two decades of experience in the real estate industry, we have compiled a list of 10 essential ingredients for a successful home sale. Whether you're in the Northeast Florida area or beyond, these tips will help you achieve your selling goals.
+Selling a house can be a complex process, much like baking the perfect loaf of sourdough bread. Slight missteps in the recipe can bring an undesirable outcome.&nbsp; The same is true for selling residential real estate. To ensure you sell your house for the highest possible price within the best timeframe, it is crucial to follow a proven recipe. Drawing from nearly two decades of experience in the real estate industry, I have compiled a list of 10 essential ingredients for a successful home sale. Whether you’re in the Northeast Florida area or beyond, these tips will help you achieve your selling goals.&nbsp;
 
 **Feel free to watch the full message above or use these timestamps that will direct you to various points in the video:**
 
@@ -27,7 +27,7 @@ Selling a house can be a complex process, much like baking a perfect loaf of bre
 
 1:44 — Address geocoding
 
-3:11 — Make sure the information is correct
+3:11 — &nbsp;Checking and double checking the property details
 
 4:41 — Spice up the description
 
@@ -35,7 +35,7 @@ Selling a house can be a complex process, much like baking a perfect loaf of bre
 
 7:39 — Answer buyer questions before they are asked
 
-9:16 — Make sure you account for ease of access
+9:16 — It must be easy to access for showings
 
 10:35 — Be aggressive with the algorithms
 
