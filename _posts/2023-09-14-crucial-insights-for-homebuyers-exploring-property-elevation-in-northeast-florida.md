@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/jeff-riber-yt-16.jpg
-youtube_code:
+youtube_code: Q0J4whaoFbc
 ---
 {% include youtube.html %}
 
@@ -34,7 +34,6 @@ When you're considering a property for investment or personal use, it's crucial 
 **Here's how to use this valuable tool effectively:**
 
 * **Explore elevation.** The map will reveal the elevation above sea level for an address you enter. This information is essential for understanding the property's potential vulnerability to water-related issues.
-
 * **Granular data.** If you want even more detailed information, you can overlay the map with contours. Click on "Layers" and choose "Contours" to see how high above sea level each position on the map is.
 
 By zooming in and exploring the contours, **you can get a precise picture of elevation changes on the property.** For instance, you can see if your potential home sits comfortably at a higher elevation or if it's closer to sea level, which could be a concern during heavy rainfall or hurricane seasons.
