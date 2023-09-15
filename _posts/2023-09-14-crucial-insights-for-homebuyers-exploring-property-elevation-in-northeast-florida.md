@@ -1,8 +1,6 @@
 ---
 layout: post
-title: >-
-  Crucial Insights for Homebuyers: Exploring Property Elevation in Northeast
-  Florida
+title: A Simple Tool to Help Make Solid Real Estate Purchase Decisions
 date: 2023-09-14 00:00:00
 tags:
   - Home Buyer Tips
