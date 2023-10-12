@@ -17,7 +17,7 @@ youtube_code: HewT6gb3W94
 
 {% include excerpt.html %}
 
-What’s the difference between a single agency and transaction brokerage? This question can be a little complicated, so today, I’m speaking with James Klempin to clear things up. We’ll talk about the main differences between the major agency types, how they impact you, and more.&nbsp;
+What’s the difference between a single agency and transaction brokerage? This question can be a little complicated, so today, I’m speaking with James Klempin an attorney in Florida to clear things up. We’ll talk about the main differences between the major agency types, how they impact you, and more.&nbsp;
 
 **You can listen to our full explanation in the video above or skip to each topic using the timestamps provided:**
 
@@ -25,11 +25,11 @@ What’s the difference between a single agency and transaction brokerage? This 
 
 0:50 — The main types of agencies
 
-2:18 — Benefits of a transaction broker
+2:18 — What's the difference between transaction brokerage and single agency when buying or selling?
 
 4:16 — Referee vs. coach&nbsp;
 
-6:50 — Make sure you understand your ref
+6:50 — Make sure you understand how you're being represented when buying and selling real estate.
 
 8:44 — Dual relationships&nbsp;
 
