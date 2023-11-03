@@ -16,7 +16,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/jeff-riber-yt-20.jpg
+youtube_alternate_image: /uploads/jeff-riber-yt-21.jpg
 youtube_code: ez5Q_D22-ag
 ---
 {% include youtube.html %}
