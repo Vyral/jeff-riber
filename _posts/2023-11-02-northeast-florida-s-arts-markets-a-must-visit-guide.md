@@ -29,7 +29,7 @@ Florida might be known for its year-round sunshine, but locals know that there a
 
 **2\.&nbsp;[North Beaches Art Walk.](https://www.nbaw.org/)** If you're closer to the beachside, the North Beaches Art Walk is for you. Situated at the Beaches Town Center area where Atlantic Boulevard meets A1A, this event, held on the third Thursday of every month, focuses primarily on artwork. You'll find plenty of restaurants and activities to enjoy in the area, making it a delightful evening for all.
 
-**3\.&nbsp;[Vilano Beach Market Walk.](https://www.floridashistoriccoast.com/events/artisan-market-walk-vilano-beach/)** Head south from the beach to Villano Beach Pier on the third Saturday of each month. Here, you'll discover a variety of goods, including plants, food options, art, and home decor. It's a great option for those in St. Augustine or Southern St. John's County, providing a unique shopping experience by the sea.
+**3\.&nbsp;[Vilano Beach Market Walk.](https://www.floridashistoriccoast.com/events/artisan-market-walk-vilano-beach/)** Head south from the beach to Vilano Beach Pier on the third Saturday of each month. Here, you'll discover a variety of goods, including plants, food options, art, and home decor. It's a great option for those in St. Augustine or Southern St. John's County, providing a unique shopping experience by the sea.
 
 {% include pullquote.html %}
 
