@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Revolutionize Your Home with Top Smart Tech Picks for 2023
+title: Jeff's Top Smart Home Tech for 2023
 date: 2023-12-07 00:00:00
 tags:
   - Smart Home Technology
