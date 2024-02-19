@@ -30,11 +30,11 @@ A valuable resource for this quantitative analysis is the Jacksonville Sheriff's
 
 **3\. Adjust the search radius** from the address to narrow down the results to your area of interest, which can range from a few miles to as close as 1500 feet.
 
-{% include pullquote.html %}
-
 **4\. Set the time frame** for your search, with options ranging from the previous day up to six months, to see recent activity.
 
 The JSO crime statistics map not only allows you to visualize the crimes in a specific area but also provides detailed reports on each incident. This information can be invaluable in making a well-informed decision about purchasing a property. Additionally, the map offers functionality like printing out findings, which can be useful for sharing information with others involved in the decision-making process.
+
+{% include pullquote.html %}
 
 Understanding the safety and dynamics of a neighborhood is crucial in real estate decision-making. Tools like the JSO crime statistics map offer a deeper look into potential areas of interest, beyond what can be seen on the surface. For anyone considering a home purchase or real estate investment, taking the time to do both qualitative and quantitative research can lead to more satisfying and secure outcomes.
 
