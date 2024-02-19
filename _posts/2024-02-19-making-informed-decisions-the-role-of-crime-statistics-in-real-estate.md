@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Making Informed Decisions: The Role of Crime Statistics in Real Estate'
-date: 2024-02-19 07:00:00
+date: 2024-02-21 07:00:00
 tags:
   - Home Buyer Tips
   - Real Estate
