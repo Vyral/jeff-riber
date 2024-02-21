@@ -13,8 +13,8 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/jeff-riber-yt-1.jpeg
-youtube_code: '-HADwGtBEAc'
+youtube_alternate_image: /uploads/jeff-riber-yt-2.jpeg
+youtube_code: 5qMhBrd7w7A
 ---
 {% include youtube.html %}
 
