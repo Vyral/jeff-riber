@@ -28,7 +28,7 @@ A valuable resource for this quantitative analysis is the Jacksonville Sheriff's
 
 **2\. Specify the type** of crimes you're concerned about, such as homicides or robberies.
 
-**3\. Adjust the search radius** from the address to narrow down the results to your area of interest, which can range from a few miles to as close as 1500 feet.
+**3\. Adjust the search radius** from the address to narrow down the results to your area of interest, which can range from a few miles to as close as 1,500 feet.
 
 **4\. Set the time frame** for your search, with options ranging from the previous day up to six months, to see recent activity.
 
