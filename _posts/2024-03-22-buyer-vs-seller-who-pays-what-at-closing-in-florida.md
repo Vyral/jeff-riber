@@ -45,4 +45,4 @@ Let’s focus on the landscape in Northeast Florida and how closing costs are ty
 
 Understanding these cost allocations is useful for both parties involved in a real estate transaction. Whether you are a seller aiming to negotiate effectively or a buyer seeking clarity on financial obligations, knowing who pays for what sets the stage for informed decision-making.
 
-If you have any questions or need further clarification, don’t hesitate to reach out. You can contact me at 904-405-1995 or via email at[**jeff@pursuitrealestate.com**](mailto:jeff@pursuitrealestate.com){: target="_blank" rel="noopener"}. I’m here to help you navigate your real estate transactions.
+If you have any questions or need further clarification, don’t hesitate to reach out. You can contact me at 904-405-1995 or via email at [**jeff@pursuitrealestate.com**](mailto:jeff@pursuitrealestate.com){: target="_blank" rel="noopener"}. I’m here to help you navigate your real estate transactions.
