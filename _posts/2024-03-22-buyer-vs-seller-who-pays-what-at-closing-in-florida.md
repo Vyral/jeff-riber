@@ -21,41 +21,28 @@ Let’s focus on the landscape in Northeast Florida and how closing costs are ty
 
 Traditionally, sellers are responsible for expenses related to transferring title. Some other typical costs covered by sellers are:
 
-**1\. Deed stamps:** This state tax constitutes 0.007% of the sale price. It’s a set rate, so there’s no negotiating it.
-
-**2\. Owner’s title insurance:** This is also a state-regulated amount that basically provides insurance to the new buyer so that if any issues arise from previous ownership, it’s taken care of by the title insurance company.
-
-**3\. Title search:** The title company, in general, will handle the transaction as a whole, including the search and organizing the title insurance policy, which brings me to our next item…
-
-**4\. Settlement fee:** This is what the title company charges for doing the work mentioned above and handling the money, which goes from the lender to the seller, and then the seller to their lender, and so on.
-
-**5\. Survey:** This shows the buyer what they actually own.
-
-**6\. Prorated taxes**
-
-**7\. Recording fees**
-
-**8\. Real estate commissions (if applicable)**
-
-**9\. Additional considerations for condos or rental properties with tenants.**
+* **Deed stamps:** This state tax constitutes 0.007% of the sale price. It’s a set rate, so there’s no negotiating it.
+* **Owner’s title insurance:** This is also a state-regulated amount that basically provides insurance to the new buyer so that if any issues arise from previous ownership, it’s taken care of by the title insurance company.
+* **Title search:** The title company, in general, will handle the transaction as a whole, including the search and organizing the title insurance policy, which brings me to our next item…
+* **Settlement fee:** This is what the title company charges for doing the work mentioned above and handling the money, which goes from the lender to the seller, and then the seller to their lender, and so on.
+* **Survey:** This shows the buyer what they actually own.
+* **Prorated taxes**
+* **Recording fees**
+* **Real estate commissions (if applicable)**
+* **Additional considerations:**
+  * **Condos**
+  * **Rental properties with tenants**
 
 On the other hand, buyers usually bear the costs associated with financing like loans, which usually include the following:
 
-**1\. Note stamps:** This is like the deed stamps, except against the amount of the loan just a different amount. 0.0035 \* loan amount.
-
-**2\. Intangible tax:** This is a tax on getting a mortgage, and it goes toward the state coffers. 0.002 \* the loan amount.
-
-**3\. Origination fees**
-
-**4\. Credit report**
-
-**5\. Appraisal:** This is the fee you pay your lender so they can hire an appraiser to substantiate the amount you’re paying for the home.
-
-**6\. Recording fees**
-
-**7\. Homeowners association transfer fees**
-
-**8\. Upfront mortgage insurance:** This applies if you’re putting less than 20% down. Depending on the loan type, different terminology is used to describe the same function.  On FHA loans it’s MIP (mortgage insurance premium). For a VA loan, this is referred to as a funding fee.
+* **Note stamps:** This is like the deed stamps, except against the amount of the loan just a different amount. 0.0035 \* loan amount.
+* **Intangible tax:** This is a tax on getting a mortgage, and it goes toward the state coffers. 0.002 \* the loan amount.
+* **Origination fees**
+* **Credit report**
+* **Appraisal:** This is the fee you pay your lender so they can hire an appraiser to substantiate the amount you’re paying for the home.
+* **Recording fees**
+* **Homeowners association transfer fees**
+* **Upfront mortgage insurance:** This applies if you’re putting less than 20% down. Depending on the loan type, different terminology is used to describe the same function.  On FHA loans it’s MIP (mortgage insurance premium). For a VA loan, this is referred to as a funding fee.
 
 Having a general understanding for who pays what is helpful for both parties.  It will save you time, money, and stress by knowing which buttons to push during a negotiation.  For example, oftentimes the other party may be fixated on a particular price.  Therefore, they may be willing to pay for all, or at least a portion, of your closing costs. Knowing what's standard, and how much each item costs, will allow you to put a dollar figure on that tradeoff.
 
