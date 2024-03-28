@@ -21,7 +21,7 @@ Let’s focus on the landscape in Northeast Florida and how closing costs are ty
 
 Traditionally, sellers are responsible for expenses related to transferring title. Some other typical costs covered by sellers are:
 
-* **Deed stamps:** This state tax constitutes 0.007% of the sale price. It’s a set rate,    so there’s no negotiating it.
+* **Deed stamps:** This state tax constitutes 0.007% of the sale price. It’s a set rate,                                       so there’s no negotiating it.
 * **Owner’s title insurance:** This is also a state-regulated amount that basically           provides insurance to the new buyer so that if any issues arise from previous           ownership, it’s taken care of by the title insurance company.
 * **Title search:** The title company, in general, will handle the transaction as a              whole, including the search and organizing the title insurance policy, which           brings me to our next item…
 * **Settlement fee:** This is what the title company charges for doing the work              mentioned above and handling the money, which goes from the lender to the    seller, and then the seller to their lender, and so on.
