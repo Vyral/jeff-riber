@@ -13,7 +13,7 @@ youtube_code: 0BO-gA3E1P4
 ---
 {% include youtube.html %}
 
-Are you planning not to disclose that one thing you think may delay your home from being sold? Think again. Partial disclosures, whether intentional or unintentional, can get you embroiled in a lawsuit. But don’t worry–today, I’m sharing the three things you must disclose to your potential buyers for a smooth closing:
+Are you planning not to disclose that one thing you think may delay your home from being sold? Think again. Partial disclosures, whether intentional or unintentional, can get you involved in a lawsuit. But don’t worry–today, I’m sharing the three things you must disclose to your potential buyers for a smooth closing:
 
 **1\. Seller’s property disclosure.** You have to disclose all information about the property, even damage that you have had repaired. Take the time to remember all the changes you’ve made to your property, as well as details that you may have overlooked.
 
