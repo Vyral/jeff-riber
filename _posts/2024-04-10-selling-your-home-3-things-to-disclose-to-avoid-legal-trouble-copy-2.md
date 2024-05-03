@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Buying or selling this year? Here’s what you need to know
+title: Buying or Selling This Year? Here’s What You Need to Know
 date: 2024-05-02 05:00:00
 excerpt: Don’t get left behind in navigating the changes in the real estate market.
 enclosure:
@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/jeff-riber-email-2-2.jpg
-youtube_code: u3M-mTvnvas
+youtube_code: 0R9WqpSG2MU
 ---
 {% include youtube.html %}
 
