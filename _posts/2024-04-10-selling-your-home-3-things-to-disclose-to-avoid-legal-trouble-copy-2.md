@@ -15,11 +15,11 @@ youtube_code: 2GJ2WQ-25mc
 ---
 {% include youtube.html %}
 
-Recently, the National Association of Realtors (NAR) reached a significant settlement regarding real estate commission practices. With this development, a lot of questions and concerns were raised by both buyers and sellers about how these changes may impact the homebuying process. That’s why today, we’re going over how things work now, how they’re going to change, and what it means for you.
+Recently, the National Association of Realtors (NAR) reached a significant settlement regarding real estate commission practices. With this development, a lot of questions and concerns were raised by both buyers and sellers about how these changes may impact the home buying process. That’s why today, we’re going over how things work now, how they’re going to change, and what it means for you.
 
 **Overview of the current process**
 
-To shed a little light on the situation, here’s how things currently are: Realtors work with sellers to sell their homes through a multiple listing service (MLS). Part of the procedure involves having a written agreement outlining the entire amount of commission that the listing agent will accept and offering a percentage of it all to potential buyer’s agents who may have a buyer in that MLS.
+To shed some light on the situation, here’s how things currently work: Realtors work with sellers to sell their homes through a multiple listing service (MLS). Part of the procedure involves having a written agreement outlining the entire amount of commission that the listing agent will accept and offering a percentage of it to a buyer’s agents who may have a buyer.
 
 In this scenario, the buyer does not pay the commission because it was previously agreed upon between the listing agent and the seller.
 
@@ -27,11 +27,11 @@ In this scenario, the buyer does not pay the commission because it was previousl
 
 **NAR Settlement Changes**
 
-For some reason, the court system does not like how this setup works and has proposed a few amendments. There are two important changes I want to focus on:
+For various reasons, the court system does not like how this setup works and has proposed a few amendments. There are two important changes I want to focus on:
 
 **1\. Commission Communication.** Listing agents can no longer advertise the amount of commission offered to buyer’s agents in the MLS. However, sellers can still offer and pay buyer’s agent commissions.
 
-**2\. Buyer Representation.** NAR Realtors and MLSs should enforce that buyer’s agents working with a buyer should have a written brokerage agreement prior to showing houses.
+**2\. Buyer Representation.** NAR (National Association of Realtors) and local MLS boards should enforce that buyer’s agents working with a buyer have a written brokerage agreement prior to showing houses.
 
 **Implications for sellers and buyers**
 
