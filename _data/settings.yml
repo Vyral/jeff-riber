@@ -98,8 +98,7 @@ sidebar_CTA:
       Are you thinking of selling your home or interested in learning about home
       prices in your neighborhood? We can help you.
     CTA_link_text: Free Home Value Report
-    CTA_url: >-
-      https://cloudcma.com/api_widget/46077c65090531b568da9c78ad2dfbd5/show?post_url=cloudcma.com&amp;source_url=https://pursuitrealestate.com/home-valuation/
+    CTA_url: https://consumer.hifello.com/p/jeffriber/664cff3ba70869002ec43b57
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: Looking for a Jacksonville Home?
