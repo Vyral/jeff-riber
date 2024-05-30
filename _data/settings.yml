@@ -88,8 +88,7 @@ forms:
   sitekey: 6Lfs7jEaAAAAAOt-YLIn37b57cXONGaSNMP4RYqJ
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: >-
-    https://cloudcma.com/api_widget/46077c65090531b568da9c78ad2dfbd5/show?post_url=cloudcma.com&amp;source_url=https://pursuitrealestate.com/home-valuation/
+  first_CTA_URL: https://consumer.hifello.com/p/jeffriber/664cff3ba70869002ec43b57
   second_CTA_text: Home Search
   second_CTA_URL: https://pursuitrealestate.com/properties/
 sidebar_CTA:
