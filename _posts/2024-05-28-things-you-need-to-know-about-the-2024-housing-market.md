@@ -2,7 +2,7 @@
 layout: post
 title: Things You Need To Know About the 2024 Housing Market
 date: 2024-05-28 04:00:00
-excerpt:
+excerpt: Keep yourself updated with the latest insights on the 2024 housing market.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
