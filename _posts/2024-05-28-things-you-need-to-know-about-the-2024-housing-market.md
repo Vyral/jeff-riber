@@ -13,7 +13,7 @@ youtube_code: 8xwtMDtDDs0
 ---
 {% include youtube.html %}
 
-What’s going on in our housing market? Despite what you may have heard in the news, there are still plenty of opportunities in our area. Discover what's happening in the real estate market as we transition from spring to summer 2024. Get insights into changes in interest rates, housing prices, and market trends, helping you navigate the housing scene with ease.
+[**Get a home value estimate**](https://consumer.hifello.com/p/jeffriber/664cff3ba70869002ec43b57){: target="_blank" rel="noopener"} to see how much you could sell for and how fast based on key trends happening in your area.<br><br>What’s going on in our housing market? Despite what you may have heard in the news, there are still plenty of opportunities in our area. Discover what's happening in the real estate market as we transition from spring to summer 2024. Get insights into changes in interest rates, housing prices, and market trends, helping you navigate the housing scene with ease.
 
 **You can listen to our full explanation in the video above or skip to each topic using the timestamps provided:**
 
