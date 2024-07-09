@@ -2,7 +2,7 @@
 layout: post
 title: 'Exclusive Interview: Michael Linehan from Aurora Builders'
 date: 2024-07-09 05:00:00
-excerpt: Learn about Michael’s journey and his stunning homes with Aurora Builders.
+excerpt: 'Exclusive Interview: Michael Lenahen from Aurora Builders'
 enclosure:
 pullquote:
 enclosure_type: video/mp4
@@ -15,7 +15,7 @@ youtube_code: 1HAVLonRf4c
 
 {% include excerpt.html %}
 
-We, at Pursuit Real Estate have had the pleasure of interviewing Michael Linehan from Aurora Builders. We're super excited to have him on board. Michael is a renowned local custom builder in Northeast Florida, known for his exceptional work. I must admit, I found myself secretly jealous as I browsed through the stunning custom homes they've built, dreaming that one day, I'll be calling Michael to build a house for me.
+We, at Pursuit Real Estate have had the pleasure of interviewing Michael Lenahen from Aurora Builders. We're super excited to have him on board. Michael is a renowned local custom builder in Northeast Florida, known for his exceptional work. I must admit, I found myself secretly jealous as I browsed through the stunning custom homes they've built, dreaming that one day, I'll be calling Michael to build a house for me.
 
 **To learn how long he has been in the business and how his journey has been, check out the video above or skip to each topic using the timestamps provided:**
 
