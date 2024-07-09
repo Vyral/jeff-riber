@@ -8,7 +8,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/jeff-riber-email-2-4.jpg
+youtube_alternate_image: /uploads/yt-1.jpg
 youtube_code: 1HAVLonRf4c
 ---
 {% include youtube.html %}
