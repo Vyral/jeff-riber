@@ -15,7 +15,7 @@ youtube_code: 1HAVLonRf4c
 
 {% include excerpt.html %}
 
-We, at Pursuit Real Estate have had the pleasure of interviewing Michael Lenahen from Aurora Builders. We're super excited to have him on board. Michael is a renowned local custom builder in Northeast Florida, known for his exceptional work. I must admit, I found myself secretly jealous as I browsed through the stunning custom homes they've built, dreaming that one day, I'll be calling Michael to build a house for me.
+We  had the pleasure of interviewing Michael Lenahen from Aurora Builders. We’re excited to share his work with you. Michael is a renowned local custom builder in Northeast Florida, known for his exceptional work. I must admit, I found myself secretly jealous as I browsed through the stunning custom homes they've built, dreaming that one day, I'll be calling Michael to build a house for me.
 
 **To learn how long he has been in the business and how his journey has been, check out the video above or skip to each topic using the timestamps provided:**
 
