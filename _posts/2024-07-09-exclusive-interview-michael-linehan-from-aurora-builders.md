@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Exclusive Interview: Michael Lenahen from Aurora Builders'
+title: Exploring Custom Home Building in Northeast Florida
 date: 2024-07-09 05:00:00
 excerpt: 'Exclusive Interview: Michael Lenahen from Aurora Builders'
 enclosure:
