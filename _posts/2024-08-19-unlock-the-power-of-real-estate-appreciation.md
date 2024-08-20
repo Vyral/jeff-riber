@@ -11,13 +11,13 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/yt-2.jpg
-youtube_code: yW5C_Kvqdik
+youtube_code: COdXmQxln_g
 ---
 {% include youtube.html %}
 
 {% include excerpt.html %}
 
-Think you know real estate investing? Prepare to be surprised. My latest deal analysis revealed something most investors need to realize about where their profits really come from. Let's look at the numbers.
+Think you know real estate investing? Prepare to be surprised. My latest deal analysis revealed something most investors need to realize about where their profits really come from. Let’s look at the numbers.
 
 In February 2015, I purchased a rental property for $34,000. Fast-forward to August 2024, and I’m about to sell it for roughly $200,000 after expenses. Here’s where it gets interesting: while I collected about $109,000 in rent over the years, the real gain came from the property’s appreciation. This isn’t just a one-off occurrence; it’s also a trend I’ve noticed across my other properties:
 
