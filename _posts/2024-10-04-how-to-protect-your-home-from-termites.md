@@ -23,13 +23,13 @@ Are termites threatening your home? Understanding termite bonds and warranties i
 
 Here’s what transpired in our talk:
 
-**Types of termite warranties.** Two primary types of termite warranties are *repair bonds* and *retreat warranties*. A *repair bond* covers any damage caused by subterranean termites, offering repairs to affected areas. On the other hand, a *retreat* ** ** *warranty* focuses on ongoing treatments to prevent termite infestations, utilizing bait stations and liquid treatments.
+**Types of termite warranties.** Two primary types of termite warranties are *repair bonds* and *retreat warranties*. A *repair bond* covers any damage caused by subterranean termites, offering repairs to affected areas. On the other hand, a *retreat* \*\* \*\* *warranty* focuses on ongoing treatments to prevent termite infestations, utilizing bait stations and liquid treatments.
 
-**The cost of these warranties varies.** *Retreat-only warranties* start at $495 and cover ground treatments to protect your home. *Repair warranties*, including liquid perimeter treatments and bait stations, range from $6 to $9 per linear foot. These options ensure comprehensive protection tailored to your home's needs.
+**The cost of these warranties varies.** *Retreat-only warranties* start at $495 and cover ground treatments to protect your home. *Repair warranties*, including liquid perimeter treatments and bait stations, range from $6 to $9 per linear foot. These options ensure comprehensive protection tailored to your home’s needs.
 
-**Tips to prevent termite infestations.** Preventing termites starts with maintaining dry conditions around your home's foundation. Ensure you avoid storing wood products near your house and seal all exterior penetrations to prevent moisture buildup. Additionally, regular inspections are crucial for identifying early signs of termite activity, such as mud tubes or dry wood pellets. By taking these proactive steps, you can effectively safeguard your home from these destructive pests and preserve your investment for years.
+**Tips to prevent termite infestations.** Preventing termites starts with maintaining dry conditions around your home’s foundation. Ensure you avoid storing wood products near your house and seal all exterior penetrations to prevent moisture buildup. Additionally, regular inspections are crucial for identifying early signs of termite activity, such as mud tubes or dry wood pellets. By taking these proactive steps, you can effectively safeguard your home from these destructive pests and preserve your investment for years.
 
-**Choosing the proper termite warranty.** Selecting the appropriate warranty depends on your home's specific circumstances. Repair warranties are ideal for those seeking comprehensive coverage, while retreat warranties offer ongoing protection through regular treatments.
+**Choosing the proper termite warranty.** Selecting the appropriate warranty depends on your home’s specific circumstances. Repair warranties are ideal for those seeking comprehensive coverage, while retreat warranties offer ongoing protection through regular treatments.
 
 For comprehensive information on termite treatments and warranties, [contact Inside & Out Property Inspectors.](tel:9043951900) Their expert advice and reliable solutions will protect your home and valuable investment against these destructive pests.
 
