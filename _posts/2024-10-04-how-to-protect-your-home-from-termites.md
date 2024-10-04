@@ -23,7 +23,7 @@ Are termites threatening your home? Understanding termite bonds and warranties i
 
 Here’s what transpired in our talk:
 
-**Types of termite warranties.** Two primary types of termite warranties are *repair bonds* and *retreat warranties*. A *repair bond* covers any damage caused by subterranean termites, offering repairs to affected areas. On the other hand, a *retreat* \*\* \*\* *warranty* focuses on ongoing treatments to prevent termite infestations, utilizing bait stations and liquid treatments.
+**Types of termite warranties.** Two primary types of termite warranties are *repair bonds* and *retreat warranties*. A *repair bond* covers any damage caused by subterranean termites, offering repairs to affected areas. On the other hand, a *retreat* *warranty* focuses on ongoing treatments to prevent termite infestations, utilizing bait stations and liquid treatments.
 
 **The cost of these warranties varies.** *Retreat-only warranties* start at $495 and cover ground treatments to protect your home. *Repair warranties*, including liquid perimeter treatments and bait stations, range from $6 to $9 per linear foot. These options ensure comprehensive protection tailored to your home’s needs.
 
