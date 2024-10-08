@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Protect Your Home From Termites
+title: What’s the Difference Between a Termite Repair and Termite Treatment Warranty?
 date: 2024-10-04 05:00:00
 excerpt: >-
   Learn the difference between repair and retreat termite warranties and how
@@ -19,11 +19,11 @@ youtube_code: 4GVW6A8yU9M
 
 {% include excerpt.html %}
 
-Are termites threatening your home? Understanding termite bonds and warranties is crucial for adequate protection. I recently discussed this with BJ Johnson of [Inside & Out Property Inspectors](https://insideandoutpropertyinspectors.com/) to clarify common misconceptions.
+Are termites threatening your home? Understanding termite repair and treatment is crucial for adequate protection. I recently discussed this with BJ Johnson of [Inside & Out Property Inspectors](https://insideandoutpropertyinspectors.com/) to clarify common misconceptions.
 
 Here’s what transpired in our talk:
 
-**Types of termite warranties.** Two primary types of termite warranties are *repair bonds* and *retreat warranties*. A *repair bond* covers any damage caused by subterranean termites, offering repairs to affected areas. On the other hand, a *retreat* *warranty* focuses on ongoing treatments to prevent termite infestations, utilizing bait stations and liquid treatments.
+**Types of termite warranties.** Two primary types of termite warranties are *repair* and *treatment* . Repair covers any damage caused by subterranean termites, offering repairs to affected areas. On the other hand, a *t*reatment focuses on ongoing treatments to prevent termite infestations, utilizing bait stations and liquid treatments.
 
 **The cost of these warranties varies.** *Retreat-only warranties* start at $495 and cover ground treatments to protect your home. *Repair warranties*, including liquid perimeter treatments and bait stations, range from $6 to $9 per linear foot. These options ensure comprehensive protection tailored to your home’s needs.
 
