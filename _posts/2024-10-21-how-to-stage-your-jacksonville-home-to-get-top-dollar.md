@@ -19,7 +19,7 @@ youtube_code: 3w9n05CXJNk
 
 Are you gearing up to sell your home? I know what you’re thinking. You’re probably wondering how to sell your property for the most amount of money.
 
-I know a very effective way to boost your home’s value. But here’s the catch—you’ll need to shell out some funds. Disappointed? Nah-ah, because here’s an even bigger catch: Whatever amount you spend here, you’ll get three to four times (heck, even more than that) in your ROI.<br><br>The secret? Home staging.<br><br>I know you’ll have lots of questions, which is why I asked one of the leading staging companies to join me today for a quick chat.
+I’ve got a great way to boost your home’s value, but it’ll cost you a bit. Don’t worry though, the payoff is huge. You could easily get back three or four times what you put in, maybe even more.<br><br>The secret? Home staging.<br><br>I know you’ll have lots of questions, which is why I asked one of the leading staging companies to join me today for a quick chat.
 
 Christy McCarthy is an expert professional stager from Interiors Revitalized—which we’ve worked with *so* many times before—and she will share the benefits of staging and whether it’s the right choice for every property. As a longtime customer of Christy’s, I often get questions about staging—like how much it costs and how it impacts a home sale, so we’re here to break it down for you.
 
