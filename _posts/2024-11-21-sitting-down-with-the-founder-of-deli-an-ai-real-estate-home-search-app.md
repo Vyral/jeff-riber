@@ -19,7 +19,7 @@ youtube_code: er4C4N0dU0o
 
 {% include excerpt.html %}
 
-Can you find your dream home in seconds, tailored perfectly to your needs, without the hassle of endless clicking and scrolling? Yes! That’s the future of real estate search, and it’s here now. I recently sat down with[<u>Lyman Starmer</u>](https://www.linkedin.com/in/lymanstarmer/), the visionary founder of[<u>Deli</u>](https://usedeli.com/), to explore how his groundbreaking AI technology is reshaping the way we discover homes.
+Can you find your dream home in seconds, tailored perfectly to your needs, without the hassle of endless clicking and scrolling? Yes! That’s the future of real estate search, and it’s here now. I recently sat down with [<u>Lyman Starmer</u>](https://www.linkedin.com/in/lymanstarmer/), the visionary founder of [<u>Deli</u>](https://usedeli.com/), to explore how his groundbreaking AI technology is reshaping the way we discover homes.
 
 *“Think of Deli as ChatGPT but for real estate,”* Lyman explained. **Deli is an AI property search tool that integrates directly into brokerage websites**, revolutionizing how consumers find their ideal homes. Instead of navigating through outdated drop-down menus and filters, users can simply converse with Deli, describing precisely what they want.
 
