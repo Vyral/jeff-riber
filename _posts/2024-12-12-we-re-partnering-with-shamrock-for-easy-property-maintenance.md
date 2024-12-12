@@ -17,7 +17,7 @@ youtube_code: SFCQBFZER60
 
 {% include excerpt.html %}
 
-Are you tired of juggling multiple contractors to handle maintenance for your property? Whether you're a homeowner, property manager, or rental owner in Northeast Florida, this is for you. In this article, I’ll show you how Shamrock Property Maintenance makes managing properties easier, faster, and more transparent.
+Are you tired of juggling multiple contractors to handle maintenance for your property? Whether you’re a homeowner, property manager, or rental owner in Northeast Florida, this is for you. In this article, I’ll show you how Shamrock Property Maintenance makes managing properties easier, faster, and more transparent.
 
 At Pursuit Real Estate, we’ve partnered with Shamrock because they’re not just another maintenance company—**they solve one of the biggest problems in property management: unreliable communication and unclear pricing.** Shamrock offers over 575 maintenance services, from simple repairs to full rehabs. They even handle tenant turnovers, vacation rentals like Airbnb, and out-of-state homeowner needs.
 
