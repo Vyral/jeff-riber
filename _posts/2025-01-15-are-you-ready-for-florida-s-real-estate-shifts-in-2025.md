@@ -15,7 +15,7 @@ youtube_code: jaOf0X6Nsvk
 
 {% include excerpt.html %}
 
-Are you wondering what’s happening in Florida's real estate market as we approach 2025? While speculation about a market crash is making the rounds, the truth may surprise you. In this video, I break down key indicators like the National Real Estate Value Index and inventory levels, revealing why a crash might not be as close as some think.
+Are you wondering what’s happening in Florida’s real estate market as we approach 2025? While speculation about a market crash is making the rounds, the truth may surprise you. In this video, I break down key indicators like the National Real Estate Value Index and inventory levels, revealing why a crash might not be as close as some think.
 
 **Watch the full video or use the timestamps below to jump to specific tips and ideas:**
 
