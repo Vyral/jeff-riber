@@ -9,7 +9,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/yt-8.jpg
-youtube_code: jaOf0X6Nsvk
+youtube_code: wRvDgHRA33o
 ---
 {% include youtube.html %}
 
