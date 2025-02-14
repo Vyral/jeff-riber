@@ -15,7 +15,7 @@ youtube_code: 7L-kFNnxWQA
 
 {% include excerpt.html %}
 
-**Should You Sell or Rent Your Home?** ![🤔](https://fonts.gstatic.com/s/e/notoemoji/16.0/1f914/72.png)
+**Should You Sell or Rent Your Home?** 🤔
 
 When it’s time to move, homeowners often face a tough question: should you sell your current home or turn it into a rental property? Here’s a detailed look at the pros and cons of both options, helping you make an informed decision.
 
