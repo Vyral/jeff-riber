@@ -15,7 +15,7 @@ youtube_code: D7Q-paCeHO4
 
 {% include excerpt.html %}
 
-Homeowners often ask: Which renovations add the most value to my house? Whether you're preparing to sell or simply curious, the answer depends on the type of renovation and the current market conditions.
+Homeowners often ask: Which renovations add the most value to my house? Whether you’re preparing to sell or simply curious, the answer depends on the type of renovation and the current market conditions.
 
 &nbsp;
 
@@ -35,4 +35,4 @@ For localized estimates, websites like HomeWyse.com provide cost projections and
 
 **• Fresh paint**
 
-A move-in-ready home eliminates the "hassle factor" for buyers, making it more desirable and competitive in the market. Small updates, such as cleaning and landscaping, offer excellent ROI. The goal is to make your home feel modern, move-in-ready, and hassle-free for the next buyer. If you're considering home improvements, I’m here to help. You can call me at **904-405-1995** or send an email to [Jeff@pursuitrealestate.com](mailto:Jeff@pursuitrealestate.com). I look forward to hearing from you.
+A move-in-ready home eliminates the “hassle factor” for buyers, making it more desirable and competitive in the market. Small updates, such as cleaning and landscaping, offer excellent ROI. The goal is to make your home feel modern, move-in-ready, and hassle-free for the next buyer. If you’re considering home improvements, I’m here to help. You can call me at **904-405-1995** or send an email to [Jeff@pursuitrealestate.com](mailto:Jeff@pursuitrealestate.com). I look forward to hearing from you.
