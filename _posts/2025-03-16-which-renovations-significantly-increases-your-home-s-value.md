@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Which Renovations Significantly Increases Your Home’s Value?
+title: Which Renovations Significantly Increase Your Home’s Value?
 date: 2025-03-16 05:00:00
 excerpt: Learn which renovations add value, maximize ROI, and attract buyers.
 enclosure:
