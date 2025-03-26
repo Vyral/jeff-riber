@@ -43,7 +43,7 @@ I looked at multiple sources, including the **Journal of Light Construction**, w
 
 Then there’s HomeWyse (W-Y-S-E)—a handy site where you can explore costs and potential value added in your specific zip code.
 
-And of course, these days you can also just ask **ChatGPT or Google Gemini** to pull localized ROI estimates on any project you're considering. 📲
+And of course, these days you can also just ask **ChatGPT or Google Gemini** to pull localized ROI estimates on any project you’re considering. 📲
 
 **My Real-World Take: Strategic Renovations Win** 🧩
 
@@ -63,17 +63,17 @@ Because let’s be real: coordinating multiple renovations while living in the h
 
 **The Hassle Factor = Hidden Value**
 
-When buyers walk into a home where all the work is done—kitchen, floors, paint, lighting—they're not just valuing the finishes. They’re valuing the *fact that they don’t have to do it themselves.*
+When buyers walk into a home where all the work is done—kitchen, floors, paint, lighting—they’re not just valuing the finishes. They’re valuing the *fact that they don’t have to do it themselves.*
 
 That’s where you often get back more than you spent—because you’ve improved not just the home, but the buyer’s experience.
 
 **Little Things Still Matter** 🌿
 
-Of course, not every project has to be big. **Deep cleaning, landscaping, and minor touch-ups** often add more value than they cost. But if you're planning bigger upgrades, **tie them together** strategically for maximum impact.
+Of course, not every project has to be big. **Deep cleaning, landscaping, and minor touch-ups** often add more value than they cost. But if you’re planning bigger upgrades, **tie them together** strategically for maximum impact.
 
 **Want to Know What Makes Sense for Your Home?**
 
-This is one of my favorite conversations to have. If you're considering upgrades or thinking about selling, let’s chat about what will actually move the needle in your neighborhood.
+This is one of my favorite conversations to have. If you’re considering upgrades or thinking about selling, let’s chat about what will actually move the needle in your neighborhood.
 
 📞 [**904-405-1995**](904-405-1995){: target="_blank" rel="noopener"}
 
