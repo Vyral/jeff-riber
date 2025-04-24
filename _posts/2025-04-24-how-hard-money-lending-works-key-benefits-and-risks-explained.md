@@ -20,7 +20,7 @@ youtube_code: 3W7Mikh9H0c
 
 If you’ve spent any time around real estate investing, you’ve probably heard the term “hard money loan.” But what exactly is it? Who uses it? And why?
 
-Whether you’re an investor who needs fast funding for a deal — or you’re on the other side with capital you’d like to put to work — understanding how hard money works is key. Here's everything you need to know:
+Whether you’re an investor who needs fast funding for a deal — or you’re on the other side with capital you’d like to put to work — understanding how hard money works is key. Here’s everything you need to know:
 
 **What is a hard money loan?** A hard money loan is a short-term, real estate-backed loan offered by a private lender instead of a bank. These loans are often used by real estate investors who are flipping houses, buying fixer-uppers or need fast capital for a project. These loans are secured by the property itself, which means the lender is focused more on the value of the deal than on your credit score or income documentation.
 
@@ -50,13 +50,13 @@ If the numbers work and you’ve got a solid exit plan, like selling the propert
 
 • Interest rates between 8%–14% (sometimes more)
 
-• Origination fees (a.k.a. "points") around 1–4%
+• Origination fees (a.k.a. “points”) around 1–4%
 
 • Short terms that are usually within 6 to 18 months
 
 • Interest-only payments with a balloon payment at the end
 
-It is important to note that lenders charge more for these loans because they're short-term and involve higher risks. However, it's a worthwhile trade-off for the right investor and the right deal.
+It is important to note that lenders charge more for these loans because they’re short-term and involve higher risks. However, it’s a worthwhile trade-off for the right investor and the right deal.
 
 **What do lenders look for?** Hard money lenders care about:
 
@@ -70,7 +70,7 @@ It is important to note that lenders charge more for these loans because they're
 
 Some lenders will also look at your credit history, but it’s usually a secondary factor.
 
-**What about the other side — becoming a lender?** If you're sitting on capital and seeking higher returns than what the stock market or savings accounts offer, hard money lending could be a viable option. Many investors choose to lend money on real estate deals for several reasons:
+**What about the other side — becoming a lender?** If you’re sitting on capital and seeking higher returns than what the stock market or savings accounts offer, hard money lending could be a viable option. Many investors choose to lend money on real estate deals for several reasons:
 
 **1\. Attractive returns.** Private lenders typically earn returns ranging from 8% to 14% annually.
 
