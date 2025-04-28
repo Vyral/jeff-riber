@@ -22,7 +22,7 @@ If you’ve spent any time around real estate investing, you’ve probably heard
 
 Whether you’re an investor who needs fast funding for a deal — or you’re on the other side with capital you’d like to put to work — understanding how hard money works is key. Here’s everything you need to know:
 
-**What is a hard money loan?** 💰A hard money loan is a short-term, real estate-backed loan offered by a private lender instead of a bank. These loans are often used by real estate investors who are flipping houses, buying fixer-uppers or need fast capital for a project. These loans are secured by the property itself, which means the lender is focused more on the value of the deal than on your credit score or income documentation.
+**What is a hard money loan?** 💰 A hard money loan is a short-term, real estate-backed loan offered by a private lender instead of a bank. These loans are often used by real estate investors who are flipping houses, buying fixer-uppers or need fast capital for a project. These loans are secured by the property itself, which means the lender is focused more on the value of the deal than on your credit score or income documentation.
 
 Here in Jacksonville, we see hard money loans used for:
 
