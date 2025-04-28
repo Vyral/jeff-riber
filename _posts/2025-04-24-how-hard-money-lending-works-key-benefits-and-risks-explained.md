@@ -22,7 +22,7 @@ If you’ve spent any time around real estate investing, you’ve probably heard
 
 Whether you’re an investor who needs fast funding for a deal — or you’re on the other side with capital you’d like to put to work — understanding how hard money works is key. Here’s everything you need to know:
 
-**What is a hard money loan?** A hard money loan is a short-term, real estate-backed loan offered by a private lender instead of a bank. These loans are often used by real estate investors who are flipping houses, buying fixer-uppers or need fast capital for a project. These loans are secured by the property itself, which means the lender is focused more on the value of the deal than on your credit score or income documentation.
+**What is a hard money loan?** 💰A hard money loan is a short-term, real estate-backed loan offered by a private lender instead of a bank. These loans are often used by real estate investors who are flipping houses, buying fixer-uppers or need fast capital for a project. These loans are secured by the property itself, which means the lender is focused more on the value of the deal than on your credit score or income documentation.
 
 Here in Jacksonville, we see hard money loans used for:
 
@@ -34,19 +34,19 @@ Here in Jacksonville, we see hard money loans used for:
 
 • Bridge loans while waiting for long-term financing
 
-**The benefits of hard money loans.** Many borrowers are turning to hard money loans because of three key advantages: fast closings, flexible underwriting, and competitive loan returns. These features make hard money lending an attractive option in today’s real estate environment.
+**The benefits of hard money loans.** 💸  Many borrowers are turning to hard money loans because of three key advantages: fast closings, flexible underwriting, and competitive loan returns. These features make hard money lending an attractive option in today’s real estate environment.
 
-**1\. Fast closings.** Traditional banks can take 30 to 45 days to close a loan. That delay can cost investors the deal altogether. However, hard money loans can close in just a few days.
+**1\. Fast closings.** ⚡ Traditional banks can take 30 to 45 days to close a loan. That delay can cost investors the deal altogether. However, hard money loans can close in just a few days.
 
-**2\. Flexible underwriting.** These loans are based on the property, not the borrower’s financial background. This allows lenders to fund deals that banks would reject, including unique or distressed properties.
+**2\. Flexible underwriting.** 🔀 These loans are based on the property, not the borrower’s financial background. This allows lenders to fund deals that banks would reject, including unique or distressed properties.
 
-**3\. Opportunity.** If you find a great deal and need to move fast, a hard money loan lets you strike while the iron’s hot.
+**3\. Opportunity.** 💡 If you find a great deal and need to move fast, a hard money loan lets you strike while the iron’s hot.
 
 If the numbers work and you’ve got a solid exit plan, like selling the property or refinancing, it can be a smart move despite the higher cost.
 
 {% include pullquote.html %}
 
-**What do hard money loans cost?** Hard money loans carry higher rates and fees than traditional loans. Typical terms might include:
+**What do hard money loans cost?** 🏷️ Hard money loans carry higher rates and fees than traditional loans. Typical terms might include:
 
 • Interest rates between 8%–14% (sometimes more)
 
@@ -58,7 +58,7 @@ If the numbers work and you’ve got a solid exit plan, like selling the propert
 
 It is important to note that lenders charge more for these loans because they’re short-term and involve higher risks. However, it’s a worthwhile trade-off for the right investor and the right deal.
 
-**What do lenders look for?** Hard money lenders care about:
+**What do lenders look for?** 🔍Hard money lenders care about:
 
 • The value of the property (either current or after rehab)
 
