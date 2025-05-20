@@ -13,8 +13,6 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/email-2.jpg
 youtube_code:
 ---
-{% include youtube.html %}
-
 {% include excerpt.html %}
 
 Spring is finally here, which means more buyers, more listings, and, of course, the question that always comes up: What upgrades are truly worth the money when it’s time to sell? It’s crucial to know where to put your effort, time, and money to make sure you get the best return. Before grabbing a paintbrush or starting a major remodel, let’s go over the three key things you need to keep in mind this season:
