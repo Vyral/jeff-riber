@@ -13,7 +13,7 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/email-2.jpg
 youtube_code:
 ---
-{Spring is finally here, which means more buyers, more listings, and, of course, the question that always comes up: What upgrades are truly worth the money when it’s time to sell? It’s crucial to know where to put your effort, time, and money to make sure you get the best return. Before grabbing a paintbrush or starting a major remodel, let’s go over the three key things you need to keep in mind this season:
+\{Spring is finally here, which means more buyers, more listings, and, of course, the question that always comes up: What upgrades are truly worth the money when it’s time to sell? It’s crucial to know where to put your effort, time, and money to make sure you get the best return. Before grabbing a paintbrush or starting a major remodel, let’s go over the three key things you need to keep in mind this season:
 
 **1\. Skip expensive mistakes.** One of the biggest mistakes homeowners can make is investing heavily in high-end kitchen remodels, extravagant landscaping, or leaving projects unfinished. Buyers prefer homes that feel clean, well-maintained, and ready to move in. If you start a project, be sure to finish it. A missing cabinet or incomplete tile job can leave a bad impression and end up costing you more than you think.
 
