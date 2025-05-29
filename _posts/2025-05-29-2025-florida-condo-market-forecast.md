@@ -25,12 +25,12 @@ At the same time, insurance premiums have gone up. These changes have caused mon
 
 But the market is not static, and real estate moves in cycles. After the housing crisis from 2008 to 2012, the market eventually recovered. What goes down often comes back up. Florida’s condo market may follow the same pattern in the near future.
 
-Let's take a look at the market statistics as of April 2025 and what they could indicate about the future of condominiums.
+Let’s take a look at the market statistics as of April 2025 and what they could indicate about the future of condominiums.
 
 **Home Prices in Northeast Florida (Duval, St. Johns, Clay, and Nassau Counties)**
 
 * Single-family homes - The median sales price for single-family homes across Duval, St. Johns, Clay, and Nassau counties was $390,000, reflecting a 2.5% decrease from the previous month.
-* Condominiums - Condos in the same areas saw a sharper price drop of about 10%, with a month's supply of just under 10 months. This indicates that condos currently have double the inventory relative to demand compared to single-family homes.
+* Condominiums - Condos in the same areas saw a sharper price drop of about 10%, with a month’s supply of just under 10 months. This indicates that condos currently have double the inventory relative to demand compared to single-family homes.
 
 {% include pullquote.html %}
 
