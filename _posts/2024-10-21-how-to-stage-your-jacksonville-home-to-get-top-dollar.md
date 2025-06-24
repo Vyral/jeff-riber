@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How To Stage Your Jacksonville Home to Get Top Dollar
-date: 2024-10-21 05:00:00
+date: 2025-06-24 05:00:00
 excerpt: >-
   I’ve worked several times with Interiors Revitalized for our professional
   staging needs, and they’ve always delivered. 
