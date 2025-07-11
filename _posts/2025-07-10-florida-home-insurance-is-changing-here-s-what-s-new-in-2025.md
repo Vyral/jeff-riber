@@ -17,13 +17,13 @@ youtube_code: 1uY0-qI8rkA
 
 {% include excerpt.html %}
 
-Homeowners' insurance in Florida has undergone significant changes in recent years. To understand what’s happening now and what to expect in 2025, I sat down with Danny Sands, an experienced insurance professional and agency owner in both Duval and St. Johns counties. We discussed market conditions, recent legislation, savings opportunities, and how to approach insurance decisions, whether you're buying a new home or reviewing an existing policy.
+Homeowners’ insurance in Florida has undergone significant changes in recent years. To understand what’s happening now and what to expect in 2025, I sat down with Danny Sands, an experienced insurance professional and agency owner in both Duval and St. Johns counties. We discussed market conditions, recent legislation, savings opportunities, and how to approach insurance decisions, whether you’re buying a new home or reviewing an existing policy.
 
 **Watch the full video or use the timestamps below to jump to specific tips and ideas that interest you the most:**
 
 00:00 - Introducing Danny Sands
 
-01:00 - What's changing in the homeowners insurance market?
+01:00 - What’s changing in the homeowners insurance market?
 
 02:25 - Recently signed bill
 
@@ -39,4 +39,4 @@ Homeowners' insurance in Florida has undergone significant changes in recent yea
 
 Whether you’re buying your first home or reviewing your current policy, it’s important to understand how insurance coverage works and where the risks are. Asking the right questions and reviewing key details early in the process can help avoid unexpected costs and coverage gaps.
 
-If you have questions or need guidance, just reach out. You can call Danny at **<u>(904) 999-3250</u>** or send him an email to [**danny.sands@Brightway.com**](mailto:danny.sands@Brightway.com). You can also call me at You can call me at **<u>904-405-1995 </u>**or send an email to [**Jeff@PursuitRealEstate.com**](mailto:Jeff@PursuitRealEstate.com). We're here to help.
+If you have questions or need guidance, just reach out. You can call Danny at **<u>(904) 999-3250</u>** or send him an email to [**danny.sands@Brightway.com**](mailto:danny.sands@Brightway.com). You can also call me at You can call me at **<u>904-405-1995 </u>**or send an email to [**Jeff@PursuitRealEstate.com**](mailto:Jeff@PursuitRealEstate.com). We’re here to help.
