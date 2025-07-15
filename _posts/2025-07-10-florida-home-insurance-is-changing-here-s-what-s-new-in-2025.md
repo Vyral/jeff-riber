@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/florida-home-insurance-is-changing-here-s-what-s-new-in-2025-2.jpg
-youtube_code: 1uY0-qI8rkA
+youtube_code: FnFFtDbUEOc
 ---
 {% include youtube.html %}
 
