@@ -14,10 +14,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/how-soon-can-i-sell-my-home-this-summer-1.jpg
 youtube_code:
 ---
-{% include youtube.html %}
-
-{% include excerpt.html %}
-
 Many homeowners are wondering how long it will take to sell, and the truth is, it depends on how you prep, price, and position your home. I’ve seen homes sit for months and others sell in just a few days, and the difference that I’ve seen so far is their strategy.
 
 Just last month, I worked with a seller whose home had been listed for over 90 days with another agent. I made a few strategic adjustments, revised the pricing, and within 10 days, it was under contract. That experience was a clear reminder that timing is essential, but preparation makes all the difference. If you’re planning to sell this summer, here’s what you need to know so you can move forward with clarity and confidence:
