@@ -14,10 +14,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/what-are-the-hidden-costs-of-buying-a-home-in-2025-1.jpg
 youtube_code:
 ---
-{% include youtube.html %}
-
-{% include excerpt.html %}
-
 You’ve saved up for a down payment, gotten pre-approved, and found your dream home. Great! Now, you’re ready to buy your dream home, right? That’s what most people believe. However, in 2025, the price of the home is just the starting point.
 
 **3\. Inspections and move-in expenses**. Home inspections are essential but come with costs. A general inspection can [range from $300 to $500](https://www.nar.realtor/home-inspections), depending on factors like location, size, and age of the house. Specialized tests, like mold or radon, cost more. Then there are repair costs, pest treatments, and possibly appliance replacements. Don’t forget move-in expenses like blinds, new locks, paint, or landscaping, which can add another few thousand dollars.
