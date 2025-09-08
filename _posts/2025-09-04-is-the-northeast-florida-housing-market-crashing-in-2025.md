@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/is-the-northeast-florida-housing-market-crashing-in-2025-2.jpg
-youtube_code: 7fKNQV3GGJs
+youtube_code: nNiKoza5944
 ---
 {% include youtube.html %}
 
