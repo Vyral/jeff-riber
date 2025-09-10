@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is the Northeast Florida Housing Market Crashing in 2025?
+title: Is the Florida Housing Market Really Crashing?
 date: 2025-09-04 05:00:00
 excerpt: >-
   The simple answer is no. Northeast Florida’s market isn’t crashing; it’s
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/is-the-northeast-florida-housing-market-crashing-in-2025-2.jpg
-youtube_code: nNiKoza5944
+youtube_code: UcvllfHetl8
 ---
 {% include youtube.html %}
 
