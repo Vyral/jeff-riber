@@ -19,25 +19,25 @@ youtube_code: UcvllfHetl8
 
 {% include excerpt.html %}
 
-Is the Florida housing market heading for a crash, or are the headlines exaggerating? If you’ve been reading the news lately, you’ve probably seen plenty of “sky is falling” takes on Florida real estate. But when we zoom in on the numbers here in Northeast Florida, the picture looks less dramatic and more nuanced.
+Is the Florida housing market really crashing? If you’ve been reading headlines lately, you’ve probably seen plenty of “sky is falling” takes on Florida real estate. But when we focus on the numbers here in Northeast Florida, the reality looks less dramatic and far more balanced.
 
-Let’s break down where things stand in Duval, Clay, St. Johns, and Nassau Counties, what’s changed since last year, and what the trends suggest for the months ahead.
+Here’s a closer look at conditions in Duval, Clay, St. Johns, and Nassau Counties, how things compare to last year, and what the trends suggest for the months ahead:
 
-**Prices show a modest dip.** As of July 2025, the median sales price in Northeast Florida sits at $370,000, about 2.7% lower than in July 2024.
+**Prices show a gentle dip.** As of July 2025, the median sales price in Northeast Florida is $370,000, approximately 2.7% lower than it was in July 2024.
 
-* For buyers, that dip means a little more breathing room than they had a year ago.
-* For sellers, it’s not the same red-hot market of 2021 to 2022, but most homeowners who bought after 2022 still hold equity when you look at long-term price trends dating back to 2017.
+* For buyers, that dip provides a little more breathing room than last year.
+* For sellers, while it’s no longer the frenzy of 2021 to 2022, most homeowners who bought after 2022 still hold strong equity.
 
-{% include pullquote.html %}
+Long-term price data dating back to 2017 shows stability, making this more of an adjustment than a crash.
 
-So while prices have softened, this isn’t a wipeout; it’s more of a market adjustment.
+Inventory gives buyers more choices. Active listings have grown to 10,600 homes, up about 8% from 9,800 a year ago. This increase gives buyers more choices and stronger negotiating power. For sellers, it means pricing and presentation are more important than ever, since buyers have options.
 
-**Inventory gives buyers more options.** Active listings have increased to 10,600, up from just under 9,800 a year ago, representing an 8% rise. More inventory gives buyers options and puts some pressure on prices. Pending sales have remained in the 200 to 250 range per week. Activity dipped late summer but has recently picked back up, a positive sign heading into fall.
+Meanwhile, 200 to 250 homes are going under contract each week. That’s slightly below last year’s pace, but still indicates steady activity, with potential for more movement this fall as buyers respond to economic news.
 
-**Mortgage rates don’t follow the Fed.** Speculation about Fed rate cuts has grabbed attention, but mortgage rates track more closely with the 10-year Treasury yield. Even so, a Fed move can boost confidence, nudging hesitant buyers back into the market.
+Mortgage rates move beyond headlines. Mortgage rates don’t follow the Federal Reserve System (Fed) directly; they’re more closely tied to the 10-year Treasury yield. Even so, rate cuts can boost confidence, and confidence often sparks action.
 
-**Mortgage demand is building.** Mortgage application data shows plenty of activity, but many buyers have not yet moved forward. That suggests pent-up demand. If confidence improves this fall, more of those applications could turn into real sales.
+**Buyers are on the sidelines.** Mortgage application data shows a high level of interest, but many buyers are holding back for now. That signals pent-up demand. If conditions improve this fall, we could see a shift from “just looking” to “ready to buy,” which would quickly tip the balance back in favor of sellers.
 
-Northeast Florida’s market isn’t crashing; it’s recalibrating. Prices have cooled, inventory has grown, and demand is waiting on the sidelines. This fall will reveal whether those buyers finally make their move.
+**The Northeast Florida market isn’t crashing, it’s recalibrating.** Prices have cooled slightly, inventory has opened up, and buyers remain cautious but engaged. The real question is when those hesitant buyers decide to step in. When they do, momentum could swing back toward sellers.
 
-If you’re considering buying or selling and have questions about what these shifts mean for you, I’d be happy to chat. You can reach me at (904) 405-1995 or [**Jeff@PursuitRealEstate.com**](Jeff@PursuitRealEstate.com){: target="_blank" rel="noopener"}. I’m here to help you figure out the best next step with ease.
+Every market shift brings both challenges and opportunities. Whether you’re buying, selling, or just watching your home’s value, reach out at (904) 405-1995 or email at [**Jeff@PursuitRealEstate.com**](Jeff@PursuitRealEstate.com){: target="_blank" rel="noopener"}. I’d be glad to walk you through what today’s numbers mean for you.
