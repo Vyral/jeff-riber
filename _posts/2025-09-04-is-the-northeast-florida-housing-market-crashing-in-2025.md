@@ -26,7 +26,7 @@ Here’s a closer look at conditions in Duval, Clay, St. Johns, and Nassau Count
 **Prices show a gentle dip.** As of July 2025, the median sales price in Northeast Florida is $370,000, approximately 2.7% lower than it was in July 2024.
 
 * For buyers, that dip provides a little more breathing room than last year.
-* For sellers, while it’s no longer the frenzy of 2021 to 2022, most homeowners who bought after 2022 still hold strong equity.
+* For sellers, while it’s no longer the frenzy of 2021 to 2022, most homeowners who bought before 2022 still hold strong equity.
 
 Long-term price data dating back to 2017 shows stability, making this more of an adjustment than a crash.
 
