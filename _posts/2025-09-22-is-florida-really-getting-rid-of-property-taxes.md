@@ -27,6 +27,8 @@ Are you tired of paying thousands of dollars every year in property taxes? If yo
 * 23% comes from other sources
 * 8% comes from real estate transfer taxes (fees you pay when a home sells)
 
+{% include pullquote.html %}
+
 That means the state itself wouldn’t feel much pain if property taxes disappeared.
 
 **Why local governments rely on property taxes.** Counties and municipalities, however, depend heavily on property taxes. On average:
