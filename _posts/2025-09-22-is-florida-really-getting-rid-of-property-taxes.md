@@ -43,6 +43,6 @@ That means schools, police and fire services, roads, and other public resources 
 
 A complete removal seems unlikely, though reductions could happen over time, potentially making Florida more competitive with other states while still maintaining the advantage of no state income tax.
 
-The idea of zero property tax is appealing, but it’s not something Florida homeowners should expect in the immediate future. A more realistic scenario would be gradual reductions, not a total elimination.
+The idea of zero property tax is appealing, but it’s not something Florida homeowners should expect in the immediate future. A more realistic scenario would be gradual reductions, not a total elimination.<br><br>This local conversation ties into what’s happening across the state. Take Jacksonville as an example: the City Council recently passed the **2025–2026 fiscal year budget** in a very close 10–9 vote, opting to reduce the city’s millage rate by one-eighth of a mill. While that decision gave taxpayers a break, it also meant cutting **$13.4 million** from the mayor’s proposed $2.02 billion budget — sparking debate about how lower property taxes might affect essential services like public safety. [**You can read more details here.**]()
 
 If you want to know how potential tax changes could affect your property’s value, or if you’d like a clearer picture of your current real estate position, feel free to reach out at **(904) 405-1995** or [**Jeff@PursuitRealEstate.com**](Jeff@PursuitRealEstate.com){: target="_blank" rel="noopener"}. I’m here to help.
