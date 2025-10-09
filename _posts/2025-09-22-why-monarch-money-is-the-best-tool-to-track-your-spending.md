@@ -23,7 +23,7 @@ Have you ever looked back at the end of a month and wondered, *“Where did all 
 
 **That’s why I’m recommending this budget tool: Monarch Money.** I’ve been using it for myself and my family to make sure every financial decision and investment aligns with our goals. The level of insight Monarch provides has made managing money simpler, smarter, and far more organized.
 
-The budgeting setup is simple, and it functions much like QuickBooks Online, but it is built for personal use. At about $100 a year, it’s affordable, with occasional discounts up to 50 percent. The real value, though, is how clearly it shows your complete financial picture.
+The budgeting setup is simple, and it functions much like QuickBooks Online, but it is built for personal use. At about $100 a year, it’s affordable, with occasional discounts up to 50%. The real value, though, is how clearly it shows your complete financial picture.
 
 {% include pullquote.html %}
 
