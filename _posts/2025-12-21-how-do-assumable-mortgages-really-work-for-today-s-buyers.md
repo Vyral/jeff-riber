@@ -16,10 +16,6 @@ youtube_alternate_image: >-
   /uploads/real-estate-script-2-how-do-assumable-mortgages-really-work-for-today-s-buyers-1.jpg
 youtube_code:
 ---
-{% include youtube.html %}
-
-{% include excerpt.html %}
-
 If you’re buying a home this year, you’ve probably come across listings mentioning “assumable mortgage.” It sounds promising, especially with today’s interest rates. But let’s get real, lots of buyers don’t know what it takes to assume a loan or whether it’s worth their time.
 
 I’m getting more questions about assumable mortgages than ever, and I totally get it. As of mid-November 2025, the [average 30-year fixed rate sits around 6.34%](https://www.mortgagenewsdaily.com/mortgage-rates/30-year-fixed). Compare that to sellers who locked in rates during the historic lows of 2020 and 2021, some [as low as 2.65%](https://themortgagereports.com/61853/30-year-mortgage-rates-chart).
@@ -52,7 +48,7 @@ Additionally, assumptions often come with fewer loan origination fees, which can
 
 ● Proof of funds for the equity difference
 
-Be prepared to submit the usual documents like tax returns, pay stubs, bank statements, employment verification, and identification. Make sure to tell your lender early on that you're interested in assumptions, so you can pre-qualify and save time once you find the right home.
+Be prepared to submit the usual documents like tax returns, pay stubs, bank statements, employment verification, and identification. Make sure to tell your lender early on that you’re interested in assumptions, so you can pre-qualify and save time once you find the right home.
 
 Keep in mind that these assumptions aren’t typically quick; the review timeline can stretch from 45 to 90 days. So, if speed is your top priority, it might not be the best option.
 
