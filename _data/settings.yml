@@ -131,7 +131,7 @@ lender:
   show_section: false
   header_text: Preferred Lender
   headshot_path: http://fillmurray.com/200/200
-  logo_path: /img/logo.png
+  logo_path:
   logo_path_2:
   name: Bill Murray
   brand: Lender Co.
