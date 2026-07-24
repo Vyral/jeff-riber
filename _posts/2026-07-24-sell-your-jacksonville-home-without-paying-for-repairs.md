@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sell Your Jacksonville Home Without Paying for Repairs
+title: Sell Your Jacksonville Home Without Paying for Repairs Upfront
 date: 2026-07-24 05:00:00
 excerpt: >-
   Relocating fast with a house that needs repairs? Here's how the work gets
