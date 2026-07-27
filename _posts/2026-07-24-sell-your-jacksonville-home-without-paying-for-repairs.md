@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/sell-your-jacksonville-home-without-paying-for-repairs-2.jpg
-youtube_code: B8C9Su42yhk
+youtube_code: RZkc6P1kTBY
 ---
 {% include youtube.html %}
 
