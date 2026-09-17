@@ -9,7 +9,7 @@ pullquote: You're buying the property, not the property's tax history.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/why-your-jacksonville-property-tax-bill-doubles-after-you-buy-2.jpg
+youtube_alternate_image: /uploads/why-your-jacksonville-property-tax-bill-doubles-after-you-buy-2-1.jpg
 youtube_code: buOXCPeaTHI
 ---
 {% include youtube.html %}
