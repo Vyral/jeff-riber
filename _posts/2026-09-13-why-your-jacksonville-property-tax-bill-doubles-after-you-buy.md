@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Your Jacksonville Property Tax Bill Doubles After You Buy
+title: Why  Your Jacksonville Property Tax Bill Increases After You Buy
 date: 2026-09-13T05:00:00Z
 excerpt: Homestead, the 3% cap, and portability all change what you pay. Here's
   how they work and what to do before your first bill arrives.
